@@ -6,4 +6,4 @@ Code and resources from the following PhD project:
   
 It is structured as follow:
 
-00_MainAnalysis
+MainAnalysis - Contains the LFQ analysis
