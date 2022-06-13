@@ -6,4 +6,4 @@ Code and resources from the following PhD project:
   
 It is structured as follow:
 
-MainAnalysis - Contains the LFQ analysis
+MainAnalysis - Contains the LFQ analysisSetup Ubuntu
