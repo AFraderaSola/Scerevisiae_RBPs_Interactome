@@ -1,27 +1,19 @@
 # Scerevisiae_RBPs_Interactome
 
-Code and data for the *S. cerevisiae* the following project: 
+Code and data for the *S. cerevisiae* RBP interactome project. Data from this project is published under the following title:
 
 **RNA-dependent interactome allows network-based assignment of RBP functionality**
   
+Within this repository, the code to generate all the analysis and figures on the paper 
+is provided.
+
 The repository is structured in three main folders. Each folder contains its analysis scripts, ordered in a numeric fashion. Finally, for each script, there is a sub-folder for the input (when needed) and output files, matching the script number.
 
 ## 00_Candidates folder
 
-### 00_Subfolders
+This folder contains scripts that analyze and describe the characteristics of our candidates. Within this folder you can find the scripts to generate the following figures:
 
-- 00_CandidateInteractors: This folders contains all the reported interactors, in the SGD and BioGRID databases, for the selected candidates.
+- Supplementary Figure 1
 
-- 00_StocksandLibraries: This folder contains the comercial libraries and lab stock spreadsheets.
-
-### 01_Script and 01_Subfolders
-
-- 01_CandidatesPlot.R: Script to generate the candidate selection plots (Supplementary Figure 1)
-
-- 01_InputFiles: This folder contains the spreedsheets for the IP screen and KO screen
-selected candidates and the RBP census list
-
-- 01_OuputFiles: This folder contains the script output.
-
-
+- Supplementary Figure 4C
 
