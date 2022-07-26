@@ -1,7 +1,7 @@
 ###############################################################################
 #
-# This script generates the candidates plot for the project RBP interactome 
-# project
+# This script generates the candidate selection criteria plots
+# for the project RBP interactome project.
 #
 # developer: Albert Fradera-Sola <A.FraderaSola@imb.de>
 # date: 2022.07.26

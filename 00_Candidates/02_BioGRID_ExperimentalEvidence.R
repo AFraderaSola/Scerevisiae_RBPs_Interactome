@@ -1,7 +1,7 @@
 ###############################################################################
 #
-# This script generates the candidates plot for the project RBP interactome 
-# project
+# This script generates the BioGRID  "Affinity caputre-MS" evidence
+# percentage of inclusion for the project RBP interactome project
 #
 # developer: Albert Fradera-Sola <A.FraderaSola@imb.de>
 # date: 2022.07.26
