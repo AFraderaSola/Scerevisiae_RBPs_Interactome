@@ -2,7 +2,7 @@
 
 Code and data for the *S. cerevisiae* RBP interactome project. Data from this project is published under the following title:
 
-**RNA-dependent interactome allows network-based assignment of RBP functionality**
+**"RNA-dependent interactome allows network-based assignment of RBP functionality"**
   
 Within this repository, the code to generate all the analysis and figures on the paper 
 is provided.
