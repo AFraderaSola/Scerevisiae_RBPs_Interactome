@@ -13,15 +13,15 @@ This folder contains all the scripts used to analyze the MS data for the **immun
 - Figure 7A, 7B, 7C and 7D
 
 
-It is organized into a couple subfolders containing the analysis and several files summarizing the IP screen findings. 
+It is organized into a couple sub-folders containing the analysis and several files summarizing the IP screen findings. 
 
 ## All
 
-This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait subfolder (**YAFXXX**). More details inside the folder.
+This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait sub-folder (**YAFXXX**). More details inside the folder.
 
 ## YAFXXX
 
-This folder contains an example of how the main screen analysis was structured. Each **RBP-bait** had its own **sub-folder**, named after its stock strain (**YAFXXX**), containing its **Core LFQ analysis** and its **functional analysis**.
+This folder contains an example of how the main screen analysis was structured. Each **RBP-bait** had its own **sub-folder**, named after its stock strain (**YAFXXX**), containing its **Core LFQ analysis** and its **Functional Analysis**.
 
 To run the first script you **need the proteinGroups.txt** (obtained from analyzing .RAW MS files with [MaxQuant](https://www.maxquant.org/)). The proteinGroups file for each RBP-bait can be found on the 00_IPscreen_MasterproteinGroups.zip file. 
 
