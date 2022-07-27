@@ -1,3 +1,0 @@
-right	left
-IP	RNase
-RNase	WT

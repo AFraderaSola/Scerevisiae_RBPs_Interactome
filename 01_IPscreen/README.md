@@ -17,15 +17,15 @@ It is organized into a couple subfolders containing the analysis and several fil
 
 ## All
 
-This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait subfolder (**YAF000**). More details inside the folder.
+This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait subfolder (**YAFXXX**). More details inside the folder.
 
 ## YAFXXX
 
 This folder contains an example of how the main screen analysis was structured. Each **RBP-bait** had its own **sub-folder**, named after its stock strain (**YAFXXX**), containing its **Core LFQ analysis** and its **functional analysis**.
 
-To run the first script you **need the proteinGroups.txt** (obtained from analyzing .RAW MS files with [MaxQuant](https://www.maxquant.org/)). Additionally you can provide a highlight.txt and volcano_contrasts.txt.
+To run the first script you **need the proteinGroups.txt** (obtained from analyzing .RAW MS files with [MaxQuant](https://www.maxquant.org/)). The proteinGroups file for each RBP-bait can be found on the 00_IPscreen_MasterproteinGroups.zip file. 
 
-The proteinGroups for each RBP-bait can be found on the 00_IPscreen_MasterproteinGroups.zip file. 
+Additionally you can provide a **highlight.txt** and **volcano_contrasts.txt**, but this won't be necessary for the script to run. Examples of such files are provided inside the folder. 
 
 The scripts for the **Core LFQ analysis** and the **functional analysis** work in a sequential fashion; you need the results of the first script to run the second.
 
