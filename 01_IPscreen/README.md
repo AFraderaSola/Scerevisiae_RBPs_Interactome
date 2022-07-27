@@ -13,21 +13,21 @@ This folder contains all the scripts used to analyze the MS data for the **immun
 - Figure 7A, 7B, 7C and 7D
 
 
-It is organized into a couple sub-folders containing the analysis and several files summarizing the IP screen findings. 
+It is organized into a couple sub-folders containing the analysis scripts and several files summarizing the IP screen findings. 
 
 ## All
 
-This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait sub-folder (**YAFXXX**). More details inside the folder.
+This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait sub-folder (**YAFXXX**). The scripts to generate the previously mentioned figures are inside this folder. More details on the scripts and how to run them inside this folder.
 
 ## YAFXXX
 
-This folder contains an example of how the main screen analysis was structured. Each **RBP-bait** had its own **sub-folder**, named after its stock strain (**YAFXXX**), containing its **Core LFQ analysis** and its **Functional Analysis**.
+This folder contains an example on how the main screen analysis was structured. Each **RBP-bait** had its own **sub-folder**, named after its stock strain (**YAFXXX**), containing its **Core LFQ analysis** and its **Functional Analysis**, this last one diveded already for PPI and RDI groups.
 
-To run the first script you **need the proteinGroups.txt** (obtained from analyzing .RAW MS files with [MaxQuant](https://www.maxquant.org/)). The proteinGroups file for each RBP-bait can be found on the 00_IPscreen_MasterproteinGroups.zip file. 
+To run the Core LFQ analysis, you **need the proteinGroups.txt** (obtained from analyzing .RAW MS files with [MaxQuant](https://www.maxquant.org/)). The file should be placed at the **same folder** the analysis script is (example inside the folder). The proteinGroups file for each RBP-bait can be found on the 00_IPscreeningMasterproteinGroups.zip file. 
 
 Additionally you can provide a **highlight.txt** and **volcano_contrasts.txt**, but this won't be necessary for the script to run. Examples of such files are provided inside the folder. 
 
-The scripts for the **Core LFQ analysis** and the **functional analysis** work in a sequential fashion; you need the results of the first script to run the second.
+The scripts for the **Core LFQ Analysis** and the **Functional Analysis** work in a sequential fashion; you need the results of the first to run the second.
 
 More details on the scripts and how to run them  can be found inside each folder.
 
@@ -38,6 +38,8 @@ First we have the MasterFiles, containing general information on the strains:
 - 00_IPScreeningMasterFile.xlsx: Here you can find all the necessary information for each YAFXXX strains (i.e., gene name or selection criteria) and a summary of it data analysis (i. e., quantified proteins or enriched proteins)
 
 - 00_IPScreeningMSMasterFile.xlsx: Here you can find the related MS information (i.e, measured date or raw file) for each YAFXXX strain.
+
+- 00_IPscreeningMasterproteinGroups.zip: Here you can find all the protein groups for each RBP-bait.
 
 ## Core Analysis Files
 
