@@ -14,8 +14,6 @@ This folder contains all the scripts used to analyze the MS data for the **immun
 
 It also contains the scripts to generate Supplementary tables 1 to 8. 
 
-It is organized into a couple sub-folders containing the analysis scripts and several files summarizing the IP screen findings. 
-
 ## All
 
 This **sub-folder** contains a downstream analysis **including all strains**. The **input files** needed for those analysis are generated on each RBP-bait sub-folder (**YAFXXX**). The scripts to generate the previously mentioned figures are inside this folder. More details on the scripts and how to run them inside this folder.

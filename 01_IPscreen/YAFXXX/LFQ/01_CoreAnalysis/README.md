@@ -41,7 +41,7 @@ The script performs the core label free quantification (LFQ) analysis. Its goal 
 
 ## Output files
 
-If the script runs properly, it generates a series of output files that can roughly categorized into the following categories:
+If the script runs properly, it generates a series of output files that can roughly be categorized into the following categories:
 
 - **_Tables_**: Either in .txt or .csv format, a number of tables will be generated containing the analysis results. Noteworthy are the following:
   - YAFXXX_QuantifiedProteins.csv contains **all** the proteins detected in **all** conditions after the filtering steps and its associated intensity, imputed intensity, and statistical values.

@@ -22,7 +22,7 @@ The script performs a functional enrichment analysis based on the [ClusterProfil
 
 ## Output files
 
-If the script runs properly, it generates a series of output files that can roughly categorized into the following categories:
+If the script runs properly, it generates a series of output files that can roughly be categorized into the following categories:
 
 - **_Tables_**: A table containing all the over-represented terms for each database (GO, Reactome and KEGG) will be generated, if any. 
 
