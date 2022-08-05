@@ -12,14 +12,14 @@ It requires the following input files:
 
 - **_volcano_contrasts.txt_**:  It contains two colums (right and left) in which the user can specify the **direction of the contrasts** in the statistical analysis as well as the volcano plot output. For instance, if you can to compare *treated* against the *control* this would go on the right and left column respectively. For this project, we were always interested in the same comparisons; for the PPI group we compared a treated pulldown (RNase, right) to a wild type (WT, left). For the RDI we compared a non treated pulldown (IP, right) to a treated pulldown (RNase, left). If not provided, a combination of all possible contrasts will be generated automatically. **Not necessary** for the analysis.
 
-A minimal example of each file can be found in this folder.
+A minimal example of each file can be found in this folder. Additionally, it requires the 00_IPScreeningMasterFile.xlsx (01_IPscreen folder) file to match the stock ID, YAFXXX, to its systematic and gene name. 
 
 ## RBP_label_free_analysis.R Script
 
-The script performs the core label free quantification (LFQ) analysis. Its goal is to quantify proteins across conditions and asses signicant differencesa amongts them. This way we can determine which proteins were enriched or depleted per condition. Through the script, we cover the following basic steps:
+The script performs the core label free quantification (LFQ) analysis. Its goal is to quantify proteins across conditions and asses significant differences among them. This way we can determine which proteins were enriched or depleted per condition. Through the script, we cover the following basic steps:
 
 - **_Data wrangling_**: We start by tidying up and filtering the **proteinGroups.txt** so it is ready for the analysis. In brief, we do the following steps:
-  - **Add a gene name column**, so the sytematic IDs (i. e., YER165W) are readable (i. e., PAB1).
+  - **Add a gene name column**, so the systematic IDs (i. e., YER165W) are readable (i. e., PAB1).
   - Filter out **the contaminants**, which are usually present in any MS experiment (i. e., keratin). A list of usual contaminants is provided by [MaxQuant](http://www.coxdocs.org/doku.php?id=maxquant:start_downloads.htm).
   - Filter out **reverse peptides**.
   - Filter peptides by **razor and unique peptide** number, which are user defined. For instance, we can decide to keep only proteinGroups with a minimum of razor+unique peptide count higher than 2 and a minimum of unique peptide count higher than 1, along all proteinGroups.txt file.
@@ -52,5 +52,5 @@ Supplementary tables 1 and 2 from the **"RNA-dependent interactome allows networ
 
 - **_Plots_**: The previously mention plots (RBP_label_free_analysis.R Script section) will be generated in .pdf.
 
-Figure 2A and 2B from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the volcano plots obtained within this script. The script output **plots for all RBP-baits** are included in the 01_CoreAnalysis_LFQ_01_Summary.pdf, in the 01_IPscreen folder.
+Figure 2A and 2B from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the volcano plots obtained within this script. The script output's **plots for all RBP-baits** are included in the 01_CoreAnalysis_LFQ_01_Summary.pdf file, in the 01_IPscreen folder.
   
