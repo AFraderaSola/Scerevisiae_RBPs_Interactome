@@ -14,7 +14,7 @@ It requires the following input files:
 
 A minimal example of each file can be found in this folder.
 
-## Script
+## RBP_label_free_analysis.R Script
 
 The script performs the core label free quantification (LFQ) analysis. Its goal is to quantify proteins across conditions and asses signicant differencesa amongts them. This way we can determine which proteins were enriched or depleted per condition. Through the script, we cover the following basic steps:
 
@@ -27,9 +27,30 @@ The script performs the core label free quantification (LFQ) analysis. Its goal 
   
 - **_Missing values imputation_**: A known issue of MS experiments is the **abundance of NA values** along the detected protein groups due to technical limitations. For instance, a protein group could be identified with an average intensity of 25 in three replicates and have an NA value on the fourth. Our approach to NA values is assume that the protein was **not detected due to technical limitations** not because **it was not present in protein mixture**. This way, we decide to impute an intensity value for all NA values still present **after the filtering steps**. We do so by shifting a **beta distribution** obtained from the LFQ intensity values to the **limit of quantitation**. This way, the resulting imputed values will always be random values constricted to the lowest end of our LFQ intensities.  
 
-- **_Quality control_**: 
+- **_Quality control_**: Once the values are imputed we do a series of **quality control** check:
+  - Visualize the **imputed** and **original** values distribution per condition and replica, which should be **skewed to the lower** end of intensities for the imputed ones.
+  - Visualize the counts of **imputed** and **original** intensity values per condition/replica.
+  - Visualize **raw** and **LFQ normalized** intensities.
+  - Visualize the **intensity distribution** per  conditions/value count.
+ 
+- **_Exploratory analysis_**: With our data ready and quality control performed, we start the proper analysis by doing an exploratory analysis which will tell as the **data behaviour** and the **sample similarity**. In brief, we do the following steps:
+  - Calculate the **pearson correlation coefficient** between conditions and replicas which are visualized, with and without clustering, with a **hetamap**.
+  - Perform a sample **dimensionality reduction** with a principal cluster analysis (PCA). The first three components are visualized with a **scatter plot**. 
 
-- **_Exploratory analysis_**:
+- **_Statistical analysis_**: Finally we assess differences in protein LFQ intensities between conditions by doing a [t. test](https://en.wikipedia.org/wiki/Student%27s_t-test) which are visualized with a volcano plot. 
 
-- **_Statistical analysis_**:
+## Output files
+
+If the script runs properly, it will generate a series of output files that can roughly categorized into the following categories:
+
+- **_Tables_**: Either in .txt or .csv format, a number of tables will be generated containing the analysis results. Noteworthy are the following:
+  - YAFXXX_QuantifiedProteins.csv contains **all** the proteins detected in **all** conditions after the filtering steps and its associated intensity, imputed intensity, and statistical values.
+  - YAFXXX_Enriched_RNase_vs_WT.csv contains the **significantly enriched** proteins from comparing a treated pulldown (RNase) to a wild type (WT). We obtain the **PPI** set for each bait from this file.
+  - YAFXXX_Enriched_IP_vs_RNase.csv contains the **significantly enriched** proteins from comparing an untreated pulldown (IP) to a treated pulldown (RNase). We obtain the **RDI** set for each bait from this file.
+
+Supplementary tables 1 and 2 from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the output tables of this script. A table summary can be found on the 00_IPScreeningMSMasterFile.xlsx file, while the combined Quantified and Enriched tables for each RBP bait can be found at  01_CoreAnalysis_LFQ_02_QuantifiedProteins.xlsx, 01_CoreAnalysis_LFQ_03_PPI_EnrichedProteins.xlsx and 01_CoreAnalysis_LFQ_04_RNAm_EnrichedProteins.xlsx respectively (01_IPscreen folder).
+
+- **_Plots_**: The previously mention plots (RBP_label_free_analysis.R Script section) will be generated in .pdf.
+
+Figure 2A and 2B from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the volcano plots obtained within this script. The script output **plots for all RBP-baits** are included in the 01_CoreAnalysis_LFQ_01_Summary.pdf, in the 01_IPscreen folder.
   
