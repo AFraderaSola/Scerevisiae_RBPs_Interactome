@@ -1,35 +1,15 @@
-# Scerevisiae_RBPs_Interactome
+# RBP_label_free_analysis.R
 
-Code and data for the *S. cerevisiae* RBP interactome project. Data from this project will be soon published under the following title:
+Script to analyze the label free immmunoprecipitation screen experiments. 
 
-**"RNA-dependent interactome allows network-based assignment of RBP functionality"**
-  
-This repository **is oriented to readers of the publication**. This way, references to nomenclature and figures used on the paper are usual. The code to generate all the analysis and figures on the paper is provided. 
+## Input files
 
-The repository is structured in three main folders. Each folder contains its own sub-folders and analysis scripts, ordered in a numeric fashion.
+It requires the following input files:
 
-## 00_Candidates folder
+- proteinGroups.txt: **Necesssary** for the analysis. It is on of the regular output files from a standard [MaxQuant](https://www.maxquant.org/) analysis. It contains the protein intensities for each experiment (raw, and LFQ and iBAQ normalized) and its associated descriptor columns (i. e., number of peptides, fasta header...). For this project, we had 12 intensity related columns for each RBP-bait; three conditions, untreated pulldown (IP), treated pulldown (RNase) and wild type (WT) in quadruplicates. 
 
-This folder contains scripts that analyze and describe the characteristics of our candidates. Within this folder you can find the scripts and data to generate the following figures:
+- highlight.txt: **Not necessary** for the analysis. It contains the protein IDs you want to highlight along the graphical outputs. For this project, if provided, the IDs **must** be systematic *S. cerevisiae* IDs (i. e., YER165W for PAB1). If not provided, no ID will be highlighted. 
 
-- Supplementary Figure 1
+- volcano_contrasts.txt: **Not necessary** for the analysis. It contains two colums (left and right) in which the user can specify the direction of the contrasts in the statistical analysis as well as the volcano plot output. For instance, if you can to compare *treated* against the *control* this would go on the right and left column respectively. For this project, we were always interested in the same comparisons; for the PPI group we compared a treated pulldown (RNase, right) to a wild type (WT, left). For the RDI we compared a non treated pulldown (IP, right) to a treated pulldown (RNase, left). If not provided, a combination of all possible contrasts will be generated automatically. 
 
-- Supplementary Figure 4C
-
-More details inside the folder.
-
-## 01_IPscreen
-
-This folder contains the scripts for the analysis of the IP screen (described in Figure 1B). Within this folder you can find the scripts and the data to generate the following figures:
-
-- Figure 2A, 2B, 2C, 2D and 2E
-
-- Figure 3A, 3B, 3C, 3D and 3E
-
-- Figure 5A, 5B, 5C and 5D
-
-- Figure 6A, 6B, 6C and 6D
-
-- Figure 7A, 7B, 7C and 7D
-
-More details inside the folder.
+A minimal example of each file can be found in this folder.
