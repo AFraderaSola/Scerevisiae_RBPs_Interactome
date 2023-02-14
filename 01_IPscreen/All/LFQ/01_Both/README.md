@@ -26,13 +26,13 @@ This **sub-folder** contains the output files from the **01_Overlap_PPIandRNAm.R
 
 ## 01_Overlap_PPIandRNAm.R
 
-This script compares the enriched proteins for the **PPI** and **RDI** groups in each YAFXX strain and creates a **bar plot** showing the **overlap** among them. With the script, you can generate the following figures:
+This script compares the enriched proteins for the **PPI** and **RDI** groups in each YAFXX strain and creates a **bar plot** showing the **overlap** among them. With this script, you can generate the following figures:
 
 - Figure 2E
 
 ## 02_InputFiles
 
-This **sub-folder** contains the output files from the **02_KEGG_Enrichment.R** script, including **Figure 3C**.
+This **sub-folder** contains the input files from the **02_KEGG_Enrichment.R** script.
 
 ## 02_OutputFiles
 
@@ -40,6 +40,20 @@ This **sub-folder** contains the output files from the **02_KEGG_Enrichment.R** 
 
 ## 02_KEGG_Enrichment.R
 
-This script compares the KEGG enrichment results for the  **PPI** and **RDI** groups in each YAFXX strain and creates a **heat map** comparing them. With the script, you can generate the following figures:
+This script compares the KEGG enrichment results for the  **PPI** and **RDI** groups in each YAFXX strain and creates a **heat map** comparing them. With this script, you can generate the following figures:
 
 - Figure 3C
+
+## 03_InputFiles
+
+This **sub-folder** contains the input files from the **03_Individual_Networks_v02.R** script.
+
+## 03_OutputFiles
+
+This **sub-folder** contains the output files from the **03_Individual_Networks_v02.R** script, including **Figure 6C**.
+
+## 03_Individual_Networks_v02.R
+
+This script generates an **individual functional network** for the  **PPI** and **RDI** groups in each YAFXX strain. With this script, you can generate the following figures:
+
+- Figure 6C
