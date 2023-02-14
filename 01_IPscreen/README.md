@@ -4,13 +4,13 @@ This folder contains all the scripts used to analyze the MS data for the **immun
 
 - Figure 2A, 2B, 2C, 2D and 2E
 
-- Figure 3A, 3B, 3C, 3D and 3E
+- Figure 3A, 3B and 3C
 
-- Figure 5A, 5B, 5C and 5D
+- Figure 5A and 5B
 
-- Figure 6A, 6B, 6C and 6D
+- Figure 6A, 6B, 6C, 6D and 6E
 
-- Figure 7A, 7B, 7C and 7D
+- Figure 7
 
 
 It is organized into a couple sub-folders containing the analysis scripts and several files summarizing the IP screen findings. 
