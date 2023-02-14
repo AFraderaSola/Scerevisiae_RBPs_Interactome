@@ -91,3 +91,25 @@ This script generates a **bar plot** for the  **PPI** and **RDI** groups in each
 This script generates a **bar plot** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the interpro **overrepresented PFAM and SUPERFAMILY terms** . With this script, you can generate the following figures:
 
 - Figure 3A
+
+## 07_InputFiles
+
+This **sub-folder** contains the input files from the **07_ProteinComplexAnalysis.R** and **07_ProteinComplexAnalysisPerGroup.R** scripts.
+
+## 07_OutputFiles
+
+This **sub-folder** contains the output files from the **07_ProteinComplexAnalysis.R** and **07_ProteinComplexAnalysisPerGroup.R** scripts, including **Figure 6D** and **Figure 6E**.
+
+## 07_ProteinComplexAnalysis.R
+
+This script generates a **dot plot** and a **heat map** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the **CYC2008 complex analysis**. With this script, you can generate the following figures:
+
+- Figure 6D
+- Figure 6E
+
+## 07_ProteinComplexAnalysisPerGroup.R
+
+This script generates a **dot plot** and a **heat map** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the **CYC2008 complex analysis**. With this script, you can generate the following figures:
+
+- Figure 6D
+- Figure 6E

@@ -1,0 +1,20 @@
+Complex,n_complex,n_network,ratio
+Prp9p/Prp11p/Prp21p complex(SF3a complex),3,2,0.666666666666667
+TRAMP complex (Air2p),3,3,1
+RES complex,3,2,0.666666666666667
+commitment complex,21,16,0.761904761904762
+U6 snRNP complex,8,8,1
+eIF4F,3,2,0.666666666666667
+Decapping Enzyme Complex,2,2,1
+U5 snRNP complex,14,8,0.571428571428571
+THO complex,4,3,0.75
+U4/U6 x U5 tri-snRNP complex,28,23,0.821428571428571
+RENT complex,3,2,0.666666666666667
+Gcd10p/Gcd14p complex,2,2,1
+U2 snRNP complex,18,13,0.722222222222222
+SF3b complex,6,5,0.833333333333333
+Prp19-associated complex,8,5,0.625
+transcription export complex,3,2,0.666666666666667
+Ubp3p/Bre5p complex,2,2,1
+U1 snRNP complex,17,14,0.823529411764706
+TRAMP complex (Air1p),3,2,0.666666666666667

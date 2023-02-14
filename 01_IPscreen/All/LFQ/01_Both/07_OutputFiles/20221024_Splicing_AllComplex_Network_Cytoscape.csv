@@ -1,0 +1,2139 @@
+bait,prey,complex,n_complex
+Prp11,Prp21,Prp9p/Prp11p/Prp21p complex(SF3a complex),3
+Prp11,Prp9,Prp9p/Prp11p/Prp21p complex(SF3a complex),3
+Prp21,Prp11,Prp9p/Prp11p/Prp21p complex(SF3a complex),3
+Prp21,Prp9,Prp9p/Prp11p/Prp21p complex(SF3a complex),3
+Prp9,Prp11,Prp9p/Prp11p/Prp21p complex(SF3a complex),3
+Prp9,Prp21,Prp9p/Prp11p/Prp21p complex(SF3a complex),3
+Air2,Mtr4,TRAMP complex (Air2p),3
+Air2,Pap2,TRAMP complex (Air2p),3
+Mtr4,Air2,TRAMP complex (Air2p),3
+Mtr4,Pap2,TRAMP complex (Air2p),3
+Pap2,Air2,TRAMP complex (Air2p),3
+Pap2,Mtr4,TRAMP complex (Air2p),3
+Bud13,Pml1,RES complex,3
+Bud13,Ist3,RES complex,3
+Pml1,Bud13,RES complex,3
+Pml1,Ist3,RES complex,3
+Ist3,Bud13,RES complex,3
+Ist3,Pml1,RES complex,3
+Cbc2,Msl5,commitment complex,21
+Cbc2,Mud2,commitment complex,21
+Cbc2,Sto1,commitment complex,21
+Cbc2,Smb1,commitment complex,21
+Cbc2,Smd1,commitment complex,21
+Cbc2,Smd2,commitment complex,21
+Cbc2,Smd3,commitment complex,21
+Cbc2,Sme1,commitment complex,21
+Cbc2,Smx2,commitment complex,21
+Cbc2,Smx3,commitment complex,21
+Cbc2,Luc7,commitment complex,21
+Cbc2,Mud1,commitment complex,21
+Cbc2,Nam8,commitment complex,21
+Cbc2,Prp39,commitment complex,21
+Cbc2,Prp40,commitment complex,21
+Cbc2,Prp42,commitment complex,21
+Cbc2,Snp1,commitment complex,21
+Cbc2,Snu56,commitment complex,21
+Cbc2,Snu71,commitment complex,21
+Cbc2,Yhc1,commitment complex,21
+Msl5,Cbc2,commitment complex,21
+Msl5,Mud2,commitment complex,21
+Msl5,Sto1,commitment complex,21
+Msl5,Smb1,commitment complex,21
+Msl5,Smd1,commitment complex,21
+Msl5,Smd2,commitment complex,21
+Msl5,Smd3,commitment complex,21
+Msl5,Sme1,commitment complex,21
+Msl5,Smx2,commitment complex,21
+Msl5,Smx3,commitment complex,21
+Msl5,Luc7,commitment complex,21
+Msl5,Mud1,commitment complex,21
+Msl5,Nam8,commitment complex,21
+Msl5,Prp39,commitment complex,21
+Msl5,Prp40,commitment complex,21
+Msl5,Prp42,commitment complex,21
+Msl5,Snp1,commitment complex,21
+Msl5,Snu56,commitment complex,21
+Msl5,Snu71,commitment complex,21
+Msl5,Yhc1,commitment complex,21
+Mud2,Cbc2,commitment complex,21
+Mud2,Msl5,commitment complex,21
+Mud2,Sto1,commitment complex,21
+Mud2,Smb1,commitment complex,21
+Mud2,Smd1,commitment complex,21
+Mud2,Smd2,commitment complex,21
+Mud2,Smd3,commitment complex,21
+Mud2,Sme1,commitment complex,21
+Mud2,Smx2,commitment complex,21
+Mud2,Smx3,commitment complex,21
+Mud2,Luc7,commitment complex,21
+Mud2,Mud1,commitment complex,21
+Mud2,Nam8,commitment complex,21
+Mud2,Prp39,commitment complex,21
+Mud2,Prp40,commitment complex,21
+Mud2,Prp42,commitment complex,21
+Mud2,Snp1,commitment complex,21
+Mud2,Snu56,commitment complex,21
+Mud2,Snu71,commitment complex,21
+Mud2,Yhc1,commitment complex,21
+Sto1,Cbc2,commitment complex,21
+Sto1,Msl5,commitment complex,21
+Sto1,Mud2,commitment complex,21
+Sto1,Smb1,commitment complex,21
+Sto1,Smd1,commitment complex,21
+Sto1,Smd2,commitment complex,21
+Sto1,Smd3,commitment complex,21
+Sto1,Sme1,commitment complex,21
+Sto1,Smx2,commitment complex,21
+Sto1,Smx3,commitment complex,21
+Sto1,Luc7,commitment complex,21
+Sto1,Mud1,commitment complex,21
+Sto1,Nam8,commitment complex,21
+Sto1,Prp39,commitment complex,21
+Sto1,Prp40,commitment complex,21
+Sto1,Prp42,commitment complex,21
+Sto1,Snp1,commitment complex,21
+Sto1,Snu56,commitment complex,21
+Sto1,Snu71,commitment complex,21
+Sto1,Yhc1,commitment complex,21
+Smb1,Cbc2,commitment complex,21
+Smb1,Msl5,commitment complex,21
+Smb1,Mud2,commitment complex,21
+Smb1,Sto1,commitment complex,21
+Smb1,Smd1,commitment complex,21
+Smb1,Smd2,commitment complex,21
+Smb1,Smd3,commitment complex,21
+Smb1,Sme1,commitment complex,21
+Smb1,Smx2,commitment complex,21
+Smb1,Smx3,commitment complex,21
+Smb1,Luc7,commitment complex,21
+Smb1,Mud1,commitment complex,21
+Smb1,Nam8,commitment complex,21
+Smb1,Prp39,commitment complex,21
+Smb1,Prp40,commitment complex,21
+Smb1,Prp42,commitment complex,21
+Smb1,Snp1,commitment complex,21
+Smb1,Snu56,commitment complex,21
+Smb1,Snu71,commitment complex,21
+Smb1,Yhc1,commitment complex,21
+Smd1,Cbc2,commitment complex,21
+Smd1,Msl5,commitment complex,21
+Smd1,Mud2,commitment complex,21
+Smd1,Sto1,commitment complex,21
+Smd1,Smb1,commitment complex,21
+Smd1,Smd2,commitment complex,21
+Smd1,Smd3,commitment complex,21
+Smd1,Sme1,commitment complex,21
+Smd1,Smx2,commitment complex,21
+Smd1,Smx3,commitment complex,21
+Smd1,Luc7,commitment complex,21
+Smd1,Mud1,commitment complex,21
+Smd1,Nam8,commitment complex,21
+Smd1,Prp39,commitment complex,21
+Smd1,Prp40,commitment complex,21
+Smd1,Prp42,commitment complex,21
+Smd1,Snp1,commitment complex,21
+Smd1,Snu56,commitment complex,21
+Smd1,Snu71,commitment complex,21
+Smd1,Yhc1,commitment complex,21
+Smd2,Cbc2,commitment complex,21
+Smd2,Msl5,commitment complex,21
+Smd2,Mud2,commitment complex,21
+Smd2,Sto1,commitment complex,21
+Smd2,Smb1,commitment complex,21
+Smd2,Smd1,commitment complex,21
+Smd2,Smd3,commitment complex,21
+Smd2,Sme1,commitment complex,21
+Smd2,Smx2,commitment complex,21
+Smd2,Smx3,commitment complex,21
+Smd2,Luc7,commitment complex,21
+Smd2,Mud1,commitment complex,21
+Smd2,Nam8,commitment complex,21
+Smd2,Prp39,commitment complex,21
+Smd2,Prp40,commitment complex,21
+Smd2,Prp42,commitment complex,21
+Smd2,Snp1,commitment complex,21
+Smd2,Snu56,commitment complex,21
+Smd2,Snu71,commitment complex,21
+Smd2,Yhc1,commitment complex,21
+Smd3,Cbc2,commitment complex,21
+Smd3,Msl5,commitment complex,21
+Smd3,Mud2,commitment complex,21
+Smd3,Sto1,commitment complex,21
+Smd3,Smb1,commitment complex,21
+Smd3,Smd1,commitment complex,21
+Smd3,Smd2,commitment complex,21
+Smd3,Sme1,commitment complex,21
+Smd3,Smx2,commitment complex,21
+Smd3,Smx3,commitment complex,21
+Smd3,Luc7,commitment complex,21
+Smd3,Mud1,commitment complex,21
+Smd3,Nam8,commitment complex,21
+Smd3,Prp39,commitment complex,21
+Smd3,Prp40,commitment complex,21
+Smd3,Prp42,commitment complex,21
+Smd3,Snp1,commitment complex,21
+Smd3,Snu56,commitment complex,21
+Smd3,Snu71,commitment complex,21
+Smd3,Yhc1,commitment complex,21
+Sme1,Cbc2,commitment complex,21
+Sme1,Msl5,commitment complex,21
+Sme1,Mud2,commitment complex,21
+Sme1,Sto1,commitment complex,21
+Sme1,Smb1,commitment complex,21
+Sme1,Smd1,commitment complex,21
+Sme1,Smd2,commitment complex,21
+Sme1,Smd3,commitment complex,21
+Sme1,Smx2,commitment complex,21
+Sme1,Smx3,commitment complex,21
+Sme1,Luc7,commitment complex,21
+Sme1,Mud1,commitment complex,21
+Sme1,Nam8,commitment complex,21
+Sme1,Prp39,commitment complex,21
+Sme1,Prp40,commitment complex,21
+Sme1,Prp42,commitment complex,21
+Sme1,Snp1,commitment complex,21
+Sme1,Snu56,commitment complex,21
+Sme1,Snu71,commitment complex,21
+Sme1,Yhc1,commitment complex,21
+Smx2,Cbc2,commitment complex,21
+Smx2,Msl5,commitment complex,21
+Smx2,Mud2,commitment complex,21
+Smx2,Sto1,commitment complex,21
+Smx2,Smb1,commitment complex,21
+Smx2,Smd1,commitment complex,21
+Smx2,Smd2,commitment complex,21
+Smx2,Smd3,commitment complex,21
+Smx2,Sme1,commitment complex,21
+Smx2,Smx3,commitment complex,21
+Smx2,Luc7,commitment complex,21
+Smx2,Mud1,commitment complex,21
+Smx2,Nam8,commitment complex,21
+Smx2,Prp39,commitment complex,21
+Smx2,Prp40,commitment complex,21
+Smx2,Prp42,commitment complex,21
+Smx2,Snp1,commitment complex,21
+Smx2,Snu56,commitment complex,21
+Smx2,Snu71,commitment complex,21
+Smx2,Yhc1,commitment complex,21
+Smx3,Cbc2,commitment complex,21
+Smx3,Msl5,commitment complex,21
+Smx3,Mud2,commitment complex,21
+Smx3,Sto1,commitment complex,21
+Smx3,Smb1,commitment complex,21
+Smx3,Smd1,commitment complex,21
+Smx3,Smd2,commitment complex,21
+Smx3,Smd3,commitment complex,21
+Smx3,Sme1,commitment complex,21
+Smx3,Smx2,commitment complex,21
+Smx3,Luc7,commitment complex,21
+Smx3,Mud1,commitment complex,21
+Smx3,Nam8,commitment complex,21
+Smx3,Prp39,commitment complex,21
+Smx3,Prp40,commitment complex,21
+Smx3,Prp42,commitment complex,21
+Smx3,Snp1,commitment complex,21
+Smx3,Snu56,commitment complex,21
+Smx3,Snu71,commitment complex,21
+Smx3,Yhc1,commitment complex,21
+Luc7,Cbc2,commitment complex,21
+Luc7,Msl5,commitment complex,21
+Luc7,Mud2,commitment complex,21
+Luc7,Sto1,commitment complex,21
+Luc7,Smb1,commitment complex,21
+Luc7,Smd1,commitment complex,21
+Luc7,Smd2,commitment complex,21
+Luc7,Smd3,commitment complex,21
+Luc7,Sme1,commitment complex,21
+Luc7,Smx2,commitment complex,21
+Luc7,Smx3,commitment complex,21
+Luc7,Mud1,commitment complex,21
+Luc7,Nam8,commitment complex,21
+Luc7,Prp39,commitment complex,21
+Luc7,Prp40,commitment complex,21
+Luc7,Prp42,commitment complex,21
+Luc7,Snp1,commitment complex,21
+Luc7,Snu56,commitment complex,21
+Luc7,Snu71,commitment complex,21
+Luc7,Yhc1,commitment complex,21
+Mud1,Cbc2,commitment complex,21
+Mud1,Msl5,commitment complex,21
+Mud1,Mud2,commitment complex,21
+Mud1,Sto1,commitment complex,21
+Mud1,Smb1,commitment complex,21
+Mud1,Smd1,commitment complex,21
+Mud1,Smd2,commitment complex,21
+Mud1,Smd3,commitment complex,21
+Mud1,Sme1,commitment complex,21
+Mud1,Smx2,commitment complex,21
+Mud1,Smx3,commitment complex,21
+Mud1,Luc7,commitment complex,21
+Mud1,Nam8,commitment complex,21
+Mud1,Prp39,commitment complex,21
+Mud1,Prp40,commitment complex,21
+Mud1,Prp42,commitment complex,21
+Mud1,Snp1,commitment complex,21
+Mud1,Snu56,commitment complex,21
+Mud1,Snu71,commitment complex,21
+Mud1,Yhc1,commitment complex,21
+Nam8,Cbc2,commitment complex,21
+Nam8,Msl5,commitment complex,21
+Nam8,Mud2,commitment complex,21
+Nam8,Sto1,commitment complex,21
+Nam8,Smb1,commitment complex,21
+Nam8,Smd1,commitment complex,21
+Nam8,Smd2,commitment complex,21
+Nam8,Smd3,commitment complex,21
+Nam8,Sme1,commitment complex,21
+Nam8,Smx2,commitment complex,21
+Nam8,Smx3,commitment complex,21
+Nam8,Luc7,commitment complex,21
+Nam8,Mud1,commitment complex,21
+Nam8,Prp39,commitment complex,21
+Nam8,Prp40,commitment complex,21
+Nam8,Prp42,commitment complex,21
+Nam8,Snp1,commitment complex,21
+Nam8,Snu56,commitment complex,21
+Nam8,Snu71,commitment complex,21
+Nam8,Yhc1,commitment complex,21
+Prp39,Cbc2,commitment complex,21
+Prp39,Msl5,commitment complex,21
+Prp39,Mud2,commitment complex,21
+Prp39,Sto1,commitment complex,21
+Prp39,Smb1,commitment complex,21
+Prp39,Smd1,commitment complex,21
+Prp39,Smd2,commitment complex,21
+Prp39,Smd3,commitment complex,21
+Prp39,Sme1,commitment complex,21
+Prp39,Smx2,commitment complex,21
+Prp39,Smx3,commitment complex,21
+Prp39,Luc7,commitment complex,21
+Prp39,Mud1,commitment complex,21
+Prp39,Nam8,commitment complex,21
+Prp39,Prp40,commitment complex,21
+Prp39,Prp42,commitment complex,21
+Prp39,Snp1,commitment complex,21
+Prp39,Snu56,commitment complex,21
+Prp39,Snu71,commitment complex,21
+Prp39,Yhc1,commitment complex,21
+Prp40,Cbc2,commitment complex,21
+Prp40,Msl5,commitment complex,21
+Prp40,Mud2,commitment complex,21
+Prp40,Sto1,commitment complex,21
+Prp40,Smb1,commitment complex,21
+Prp40,Smd1,commitment complex,21
+Prp40,Smd2,commitment complex,21
+Prp40,Smd3,commitment complex,21
+Prp40,Sme1,commitment complex,21
+Prp40,Smx2,commitment complex,21
+Prp40,Smx3,commitment complex,21
+Prp40,Luc7,commitment complex,21
+Prp40,Mud1,commitment complex,21
+Prp40,Nam8,commitment complex,21
+Prp40,Prp39,commitment complex,21
+Prp40,Prp42,commitment complex,21
+Prp40,Snp1,commitment complex,21
+Prp40,Snu56,commitment complex,21
+Prp40,Snu71,commitment complex,21
+Prp40,Yhc1,commitment complex,21
+Prp42,Cbc2,commitment complex,21
+Prp42,Msl5,commitment complex,21
+Prp42,Mud2,commitment complex,21
+Prp42,Sto1,commitment complex,21
+Prp42,Smb1,commitment complex,21
+Prp42,Smd1,commitment complex,21
+Prp42,Smd2,commitment complex,21
+Prp42,Smd3,commitment complex,21
+Prp42,Sme1,commitment complex,21
+Prp42,Smx2,commitment complex,21
+Prp42,Smx3,commitment complex,21
+Prp42,Luc7,commitment complex,21
+Prp42,Mud1,commitment complex,21
+Prp42,Nam8,commitment complex,21
+Prp42,Prp39,commitment complex,21
+Prp42,Prp40,commitment complex,21
+Prp42,Snp1,commitment complex,21
+Prp42,Snu56,commitment complex,21
+Prp42,Snu71,commitment complex,21
+Prp42,Yhc1,commitment complex,21
+Snp1,Cbc2,commitment complex,21
+Snp1,Msl5,commitment complex,21
+Snp1,Mud2,commitment complex,21
+Snp1,Sto1,commitment complex,21
+Snp1,Smb1,commitment complex,21
+Snp1,Smd1,commitment complex,21
+Snp1,Smd2,commitment complex,21
+Snp1,Smd3,commitment complex,21
+Snp1,Sme1,commitment complex,21
+Snp1,Smx2,commitment complex,21
+Snp1,Smx3,commitment complex,21
+Snp1,Luc7,commitment complex,21
+Snp1,Mud1,commitment complex,21
+Snp1,Nam8,commitment complex,21
+Snp1,Prp39,commitment complex,21
+Snp1,Prp40,commitment complex,21
+Snp1,Prp42,commitment complex,21
+Snp1,Snu56,commitment complex,21
+Snp1,Snu71,commitment complex,21
+Snp1,Yhc1,commitment complex,21
+Snu56,Cbc2,commitment complex,21
+Snu56,Msl5,commitment complex,21
+Snu56,Mud2,commitment complex,21
+Snu56,Sto1,commitment complex,21
+Snu56,Smb1,commitment complex,21
+Snu56,Smd1,commitment complex,21
+Snu56,Smd2,commitment complex,21
+Snu56,Smd3,commitment complex,21
+Snu56,Sme1,commitment complex,21
+Snu56,Smx2,commitment complex,21
+Snu56,Smx3,commitment complex,21
+Snu56,Luc7,commitment complex,21
+Snu56,Mud1,commitment complex,21
+Snu56,Nam8,commitment complex,21
+Snu56,Prp39,commitment complex,21
+Snu56,Prp40,commitment complex,21
+Snu56,Prp42,commitment complex,21
+Snu56,Snp1,commitment complex,21
+Snu56,Snu71,commitment complex,21
+Snu56,Yhc1,commitment complex,21
+Snu71,Cbc2,commitment complex,21
+Snu71,Msl5,commitment complex,21
+Snu71,Mud2,commitment complex,21
+Snu71,Sto1,commitment complex,21
+Snu71,Smb1,commitment complex,21
+Snu71,Smd1,commitment complex,21
+Snu71,Smd2,commitment complex,21
+Snu71,Smd3,commitment complex,21
+Snu71,Sme1,commitment complex,21
+Snu71,Smx2,commitment complex,21
+Snu71,Smx3,commitment complex,21
+Snu71,Luc7,commitment complex,21
+Snu71,Mud1,commitment complex,21
+Snu71,Nam8,commitment complex,21
+Snu71,Prp39,commitment complex,21
+Snu71,Prp40,commitment complex,21
+Snu71,Prp42,commitment complex,21
+Snu71,Snp1,commitment complex,21
+Snu71,Snu56,commitment complex,21
+Snu71,Yhc1,commitment complex,21
+Yhc1,Cbc2,commitment complex,21
+Yhc1,Msl5,commitment complex,21
+Yhc1,Mud2,commitment complex,21
+Yhc1,Sto1,commitment complex,21
+Yhc1,Smb1,commitment complex,21
+Yhc1,Smd1,commitment complex,21
+Yhc1,Smd2,commitment complex,21
+Yhc1,Smd3,commitment complex,21
+Yhc1,Sme1,commitment complex,21
+Yhc1,Smx2,commitment complex,21
+Yhc1,Smx3,commitment complex,21
+Yhc1,Luc7,commitment complex,21
+Yhc1,Mud1,commitment complex,21
+Yhc1,Nam8,commitment complex,21
+Yhc1,Prp39,commitment complex,21
+Yhc1,Prp40,commitment complex,21
+Yhc1,Prp42,commitment complex,21
+Yhc1,Snp1,commitment complex,21
+Yhc1,Snu56,commitment complex,21
+Yhc1,Snu71,commitment complex,21
+Lsm2,Lsm3,U6 snRNP complex,8
+Lsm2,Lsm4,U6 snRNP complex,8
+Lsm2,Lsm5,U6 snRNP complex,8
+Lsm2,Lsm6,U6 snRNP complex,8
+Lsm2,Lsm7,U6 snRNP complex,8
+Lsm2,Lsm8,U6 snRNP complex,8
+Lsm2,Prp24,U6 snRNP complex,8
+Lsm3,Lsm2,U6 snRNP complex,8
+Lsm3,Lsm4,U6 snRNP complex,8
+Lsm3,Lsm5,U6 snRNP complex,8
+Lsm3,Lsm6,U6 snRNP complex,8
+Lsm3,Lsm7,U6 snRNP complex,8
+Lsm3,Lsm8,U6 snRNP complex,8
+Lsm3,Prp24,U6 snRNP complex,8
+Lsm4,Lsm2,U6 snRNP complex,8
+Lsm4,Lsm3,U6 snRNP complex,8
+Lsm4,Lsm5,U6 snRNP complex,8
+Lsm4,Lsm6,U6 snRNP complex,8
+Lsm4,Lsm7,U6 snRNP complex,8
+Lsm4,Lsm8,U6 snRNP complex,8
+Lsm4,Prp24,U6 snRNP complex,8
+Lsm5,Lsm2,U6 snRNP complex,8
+Lsm5,Lsm3,U6 snRNP complex,8
+Lsm5,Lsm4,U6 snRNP complex,8
+Lsm5,Lsm6,U6 snRNP complex,8
+Lsm5,Lsm7,U6 snRNP complex,8
+Lsm5,Lsm8,U6 snRNP complex,8
+Lsm5,Prp24,U6 snRNP complex,8
+Lsm6,Lsm2,U6 snRNP complex,8
+Lsm6,Lsm3,U6 snRNP complex,8
+Lsm6,Lsm4,U6 snRNP complex,8
+Lsm6,Lsm5,U6 snRNP complex,8
+Lsm6,Lsm7,U6 snRNP complex,8
+Lsm6,Lsm8,U6 snRNP complex,8
+Lsm6,Prp24,U6 snRNP complex,8
+Lsm7,Lsm2,U6 snRNP complex,8
+Lsm7,Lsm3,U6 snRNP complex,8
+Lsm7,Lsm4,U6 snRNP complex,8
+Lsm7,Lsm5,U6 snRNP complex,8
+Lsm7,Lsm6,U6 snRNP complex,8
+Lsm7,Lsm8,U6 snRNP complex,8
+Lsm7,Prp24,U6 snRNP complex,8
+Lsm8,Lsm2,U6 snRNP complex,8
+Lsm8,Lsm3,U6 snRNP complex,8
+Lsm8,Lsm4,U6 snRNP complex,8
+Lsm8,Lsm5,U6 snRNP complex,8
+Lsm8,Lsm6,U6 snRNP complex,8
+Lsm8,Lsm7,U6 snRNP complex,8
+Lsm8,Prp24,U6 snRNP complex,8
+Prp24,Lsm2,U6 snRNP complex,8
+Prp24,Lsm3,U6 snRNP complex,8
+Prp24,Lsm4,U6 snRNP complex,8
+Prp24,Lsm5,U6 snRNP complex,8
+Prp24,Lsm6,U6 snRNP complex,8
+Prp24,Lsm7,U6 snRNP complex,8
+Prp24,Lsm8,U6 snRNP complex,8
+Cdc33,Tif1,eIF4F,3
+Cdc33,Tif4631,eIF4F,3
+Tif1,Cdc33,eIF4F,3
+Tif1,Tif4631,eIF4F,3
+Tif4631,Cdc33,eIF4F,3
+Tif4631,Tif1,eIF4F,3
+Dcp1,Dcp2,Decapping Enzyme Complex,2
+Dcp2,Dcp1,Decapping Enzyme Complex,2
+Smb1,Smd1,U5 snRNP complex,14
+Smb1,Smd2,U5 snRNP complex,14
+Smb1,Smd3,U5 snRNP complex,14
+Smb1,Sme1,U5 snRNP complex,14
+Smb1,Smx2,U5 snRNP complex,14
+Smb1,Smx3,U5 snRNP complex,14
+Smb1,Snu114,U5 snRNP complex,14
+Smb1,Aar2,U5 snRNP complex,14
+Smb1,Brr2,U5 snRNP complex,14
+Smb1,Prp8,U5 snRNP complex,14
+Smb1,Prp28,U5 snRNP complex,14
+Smb1,Lin1,U5 snRNP complex,14
+Smb1,Dib1,U5 snRNP complex,14
+Smd1,Smb1,U5 snRNP complex,14
+Smd1,Smd2,U5 snRNP complex,14
+Smd1,Smd3,U5 snRNP complex,14
+Smd1,Sme1,U5 snRNP complex,14
+Smd1,Smx2,U5 snRNP complex,14
+Smd1,Smx3,U5 snRNP complex,14
+Smd1,Snu114,U5 snRNP complex,14
+Smd1,Aar2,U5 snRNP complex,14
+Smd1,Brr2,U5 snRNP complex,14
+Smd1,Prp8,U5 snRNP complex,14
+Smd1,Prp28,U5 snRNP complex,14
+Smd1,Lin1,U5 snRNP complex,14
+Smd1,Dib1,U5 snRNP complex,14
+Smd2,Smb1,U5 snRNP complex,14
+Smd2,Smd1,U5 snRNP complex,14
+Smd2,Smd3,U5 snRNP complex,14
+Smd2,Sme1,U5 snRNP complex,14
+Smd2,Smx2,U5 snRNP complex,14
+Smd2,Smx3,U5 snRNP complex,14
+Smd2,Snu114,U5 snRNP complex,14
+Smd2,Aar2,U5 snRNP complex,14
+Smd2,Brr2,U5 snRNP complex,14
+Smd2,Prp8,U5 snRNP complex,14
+Smd2,Prp28,U5 snRNP complex,14
+Smd2,Lin1,U5 snRNP complex,14
+Smd2,Dib1,U5 snRNP complex,14
+Smd3,Smb1,U5 snRNP complex,14
+Smd3,Smd1,U5 snRNP complex,14
+Smd3,Smd2,U5 snRNP complex,14
+Smd3,Sme1,U5 snRNP complex,14
+Smd3,Smx2,U5 snRNP complex,14
+Smd3,Smx3,U5 snRNP complex,14
+Smd3,Snu114,U5 snRNP complex,14
+Smd3,Aar2,U5 snRNP complex,14
+Smd3,Brr2,U5 snRNP complex,14
+Smd3,Prp8,U5 snRNP complex,14
+Smd3,Prp28,U5 snRNP complex,14
+Smd3,Lin1,U5 snRNP complex,14
+Smd3,Dib1,U5 snRNP complex,14
+Sme1,Smb1,U5 snRNP complex,14
+Sme1,Smd1,U5 snRNP complex,14
+Sme1,Smd2,U5 snRNP complex,14
+Sme1,Smd3,U5 snRNP complex,14
+Sme1,Smx2,U5 snRNP complex,14
+Sme1,Smx3,U5 snRNP complex,14
+Sme1,Snu114,U5 snRNP complex,14
+Sme1,Aar2,U5 snRNP complex,14
+Sme1,Brr2,U5 snRNP complex,14
+Sme1,Prp8,U5 snRNP complex,14
+Sme1,Prp28,U5 snRNP complex,14
+Sme1,Lin1,U5 snRNP complex,14
+Sme1,Dib1,U5 snRNP complex,14
+Smx2,Smb1,U5 snRNP complex,14
+Smx2,Smd1,U5 snRNP complex,14
+Smx2,Smd2,U5 snRNP complex,14
+Smx2,Smd3,U5 snRNP complex,14
+Smx2,Sme1,U5 snRNP complex,14
+Smx2,Smx3,U5 snRNP complex,14
+Smx2,Snu114,U5 snRNP complex,14
+Smx2,Aar2,U5 snRNP complex,14
+Smx2,Brr2,U5 snRNP complex,14
+Smx2,Prp8,U5 snRNP complex,14
+Smx2,Prp28,U5 snRNP complex,14
+Smx2,Lin1,U5 snRNP complex,14
+Smx2,Dib1,U5 snRNP complex,14
+Smx3,Smb1,U5 snRNP complex,14
+Smx3,Smd1,U5 snRNP complex,14
+Smx3,Smd2,U5 snRNP complex,14
+Smx3,Smd3,U5 snRNP complex,14
+Smx3,Sme1,U5 snRNP complex,14
+Smx3,Smx2,U5 snRNP complex,14
+Smx3,Snu114,U5 snRNP complex,14
+Smx3,Aar2,U5 snRNP complex,14
+Smx3,Brr2,U5 snRNP complex,14
+Smx3,Prp8,U5 snRNP complex,14
+Smx3,Prp28,U5 snRNP complex,14
+Smx3,Lin1,U5 snRNP complex,14
+Smx3,Dib1,U5 snRNP complex,14
+Snu114,Smb1,U5 snRNP complex,14
+Snu114,Smd1,U5 snRNP complex,14
+Snu114,Smd2,U5 snRNP complex,14
+Snu114,Smd3,U5 snRNP complex,14
+Snu114,Sme1,U5 snRNP complex,14
+Snu114,Smx2,U5 snRNP complex,14
+Snu114,Smx3,U5 snRNP complex,14
+Snu114,Aar2,U5 snRNP complex,14
+Snu114,Brr2,U5 snRNP complex,14
+Snu114,Prp8,U5 snRNP complex,14
+Snu114,Prp28,U5 snRNP complex,14
+Snu114,Lin1,U5 snRNP complex,14
+Snu114,Dib1,U5 snRNP complex,14
+Aar2,Smb1,U5 snRNP complex,14
+Aar2,Smd1,U5 snRNP complex,14
+Aar2,Smd2,U5 snRNP complex,14
+Aar2,Smd3,U5 snRNP complex,14
+Aar2,Sme1,U5 snRNP complex,14
+Aar2,Smx2,U5 snRNP complex,14
+Aar2,Smx3,U5 snRNP complex,14
+Aar2,Snu114,U5 snRNP complex,14
+Aar2,Brr2,U5 snRNP complex,14
+Aar2,Prp8,U5 snRNP complex,14
+Aar2,Prp28,U5 snRNP complex,14
+Aar2,Lin1,U5 snRNP complex,14
+Aar2,Dib1,U5 snRNP complex,14
+Brr2,Smb1,U5 snRNP complex,14
+Brr2,Smd1,U5 snRNP complex,14
+Brr2,Smd2,U5 snRNP complex,14
+Brr2,Smd3,U5 snRNP complex,14
+Brr2,Sme1,U5 snRNP complex,14
+Brr2,Smx2,U5 snRNP complex,14
+Brr2,Smx3,U5 snRNP complex,14
+Brr2,Snu114,U5 snRNP complex,14
+Brr2,Aar2,U5 snRNP complex,14
+Brr2,Prp8,U5 snRNP complex,14
+Brr2,Prp28,U5 snRNP complex,14
+Brr2,Lin1,U5 snRNP complex,14
+Brr2,Dib1,U5 snRNP complex,14
+Prp8,Smb1,U5 snRNP complex,14
+Prp8,Smd1,U5 snRNP complex,14
+Prp8,Smd2,U5 snRNP complex,14
+Prp8,Smd3,U5 snRNP complex,14
+Prp8,Sme1,U5 snRNP complex,14
+Prp8,Smx2,U5 snRNP complex,14
+Prp8,Smx3,U5 snRNP complex,14
+Prp8,Snu114,U5 snRNP complex,14
+Prp8,Aar2,U5 snRNP complex,14
+Prp8,Brr2,U5 snRNP complex,14
+Prp8,Prp28,U5 snRNP complex,14
+Prp8,Lin1,U5 snRNP complex,14
+Prp8,Dib1,U5 snRNP complex,14
+Prp28,Smb1,U5 snRNP complex,14
+Prp28,Smd1,U5 snRNP complex,14
+Prp28,Smd2,U5 snRNP complex,14
+Prp28,Smd3,U5 snRNP complex,14
+Prp28,Sme1,U5 snRNP complex,14
+Prp28,Smx2,U5 snRNP complex,14
+Prp28,Smx3,U5 snRNP complex,14
+Prp28,Snu114,U5 snRNP complex,14
+Prp28,Aar2,U5 snRNP complex,14
+Prp28,Brr2,U5 snRNP complex,14
+Prp28,Prp8,U5 snRNP complex,14
+Prp28,Lin1,U5 snRNP complex,14
+Prp28,Dib1,U5 snRNP complex,14
+Lin1,Smb1,U5 snRNP complex,14
+Lin1,Smd1,U5 snRNP complex,14
+Lin1,Smd2,U5 snRNP complex,14
+Lin1,Smd3,U5 snRNP complex,14
+Lin1,Sme1,U5 snRNP complex,14
+Lin1,Smx2,U5 snRNP complex,14
+Lin1,Smx3,U5 snRNP complex,14
+Lin1,Snu114,U5 snRNP complex,14
+Lin1,Aar2,U5 snRNP complex,14
+Lin1,Brr2,U5 snRNP complex,14
+Lin1,Prp8,U5 snRNP complex,14
+Lin1,Prp28,U5 snRNP complex,14
+Lin1,Dib1,U5 snRNP complex,14
+Dib1,Smb1,U5 snRNP complex,14
+Dib1,Smd1,U5 snRNP complex,14
+Dib1,Smd2,U5 snRNP complex,14
+Dib1,Smd3,U5 snRNP complex,14
+Dib1,Sme1,U5 snRNP complex,14
+Dib1,Smx2,U5 snRNP complex,14
+Dib1,Smx3,U5 snRNP complex,14
+Dib1,Snu114,U5 snRNP complex,14
+Dib1,Aar2,U5 snRNP complex,14
+Dib1,Brr2,U5 snRNP complex,14
+Dib1,Prp8,U5 snRNP complex,14
+Dib1,Prp28,U5 snRNP complex,14
+Dib1,Lin1,U5 snRNP complex,14
+Hpr1,Mft1,THO complex,4
+Hpr1,Rlr1,THO complex,4
+Hpr1,Thp2,THO complex,4
+Mft1,Hpr1,THO complex,4
+Mft1,Rlr1,THO complex,4
+Mft1,Thp2,THO complex,4
+Rlr1,Hpr1,THO complex,4
+Rlr1,Mft1,THO complex,4
+Rlr1,Thp2,THO complex,4
+Thp2,Hpr1,THO complex,4
+Thp2,Mft1,THO complex,4
+Thp2,Rlr1,THO complex,4
+Brr2,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Brr2,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Dib1,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm2,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm3,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm4,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm5,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm6,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm7,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Lsm8,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp18,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp3,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp31,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp38,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp4,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp6,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Prp8,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Smb1,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Smd1,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Smd2,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Smd3,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Sme1,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Smx2,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Smx3,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Snu114,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Snu13,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Snu23,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Snu66,Spp381,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Brr2,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Dib1,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm2,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm3,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm4,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm5,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm6,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm7,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Lsm8,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp18,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp3,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp31,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp38,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp4,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp6,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Prp8,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Smb1,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Smd1,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Smd2,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Smd3,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Sme1,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Smx2,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Smx3,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Snu114,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Snu13,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Snu23,U4/U6 x U5 tri-snRNP complex,28
+Spp381,Snu66,U4/U6 x U5 tri-snRNP complex,28
+Cdc14,Net1,RENT complex,3
+Cdc14,Sir2,RENT complex,3
+Net1,Cdc14,RENT complex,3
+Net1,Sir2,RENT complex,3
+Sir2,Cdc14,RENT complex,3
+Sir2,Net1,RENT complex,3
+Gcd10,Gcd14,Gcd10p/Gcd14p complex,2
+Gcd14,Gcd10,Gcd10p/Gcd14p complex,2
+Lea1,Msl1,U2 snRNP complex,18
+Lea1,Rse1,U2 snRNP complex,18
+Lea1,Hsh155,U2 snRNP complex,18
+Lea1,Ist3,U2 snRNP complex,18
+Lea1,Hsh49,U2 snRNP complex,18
+Lea1,Prp9,U2 snRNP complex,18
+Lea1,Prp11,U2 snRNP complex,18
+Lea1,Prp21,U2 snRNP complex,18
+Lea1,Cus1,U2 snRNP complex,18
+Lea1,Cus2,U2 snRNP complex,18
+Lea1,Smb1,U2 snRNP complex,18
+Lea1,Smd1,U2 snRNP complex,18
+Lea1,Smd2,U2 snRNP complex,18
+Lea1,Smd3,U2 snRNP complex,18
+Lea1,Sme1,U2 snRNP complex,18
+Lea1,Smx2,U2 snRNP complex,18
+Lea1,Smx3,U2 snRNP complex,18
+Msl1,Lea1,U2 snRNP complex,18
+Msl1,Rse1,U2 snRNP complex,18
+Msl1,Hsh155,U2 snRNP complex,18
+Msl1,Ist3,U2 snRNP complex,18
+Msl1,Hsh49,U2 snRNP complex,18
+Msl1,Prp9,U2 snRNP complex,18
+Msl1,Prp11,U2 snRNP complex,18
+Msl1,Prp21,U2 snRNP complex,18
+Msl1,Cus1,U2 snRNP complex,18
+Msl1,Cus2,U2 snRNP complex,18
+Msl1,Smb1,U2 snRNP complex,18
+Msl1,Smd1,U2 snRNP complex,18
+Msl1,Smd2,U2 snRNP complex,18
+Msl1,Smd3,U2 snRNP complex,18
+Msl1,Sme1,U2 snRNP complex,18
+Msl1,Smx2,U2 snRNP complex,18
+Msl1,Smx3,U2 snRNP complex,18
+Rse1,Lea1,U2 snRNP complex,18
+Rse1,Msl1,U2 snRNP complex,18
+Rse1,Hsh155,U2 snRNP complex,18
+Rse1,Ist3,U2 snRNP complex,18
+Rse1,Hsh49,U2 snRNP complex,18
+Rse1,Prp9,U2 snRNP complex,18
+Rse1,Prp11,U2 snRNP complex,18
+Rse1,Prp21,U2 snRNP complex,18
+Rse1,Cus1,U2 snRNP complex,18
+Rse1,Cus2,U2 snRNP complex,18
+Rse1,Smb1,U2 snRNP complex,18
+Rse1,Smd1,U2 snRNP complex,18
+Rse1,Smd2,U2 snRNP complex,18
+Rse1,Smd3,U2 snRNP complex,18
+Rse1,Sme1,U2 snRNP complex,18
+Rse1,Smx2,U2 snRNP complex,18
+Rse1,Smx3,U2 snRNP complex,18
+Hsh155,Lea1,U2 snRNP complex,18
+Hsh155,Msl1,U2 snRNP complex,18
+Hsh155,Rse1,U2 snRNP complex,18
+Hsh155,Ist3,U2 snRNP complex,18
+Hsh155,Hsh49,U2 snRNP complex,18
+Hsh155,Prp9,U2 snRNP complex,18
+Hsh155,Prp11,U2 snRNP complex,18
+Hsh155,Prp21,U2 snRNP complex,18
+Hsh155,Cus1,U2 snRNP complex,18
+Hsh155,Cus2,U2 snRNP complex,18
+Hsh155,Smb1,U2 snRNP complex,18
+Hsh155,Smd1,U2 snRNP complex,18
+Hsh155,Smd2,U2 snRNP complex,18
+Hsh155,Smd3,U2 snRNP complex,18
+Hsh155,Sme1,U2 snRNP complex,18
+Hsh155,Smx2,U2 snRNP complex,18
+Hsh155,Smx3,U2 snRNP complex,18
+Ist3,Lea1,U2 snRNP complex,18
+Ist3,Msl1,U2 snRNP complex,18
+Ist3,Rse1,U2 snRNP complex,18
+Ist3,Hsh155,U2 snRNP complex,18
+Ist3,Hsh49,U2 snRNP complex,18
+Ist3,Prp9,U2 snRNP complex,18
+Ist3,Prp11,U2 snRNP complex,18
+Ist3,Prp21,U2 snRNP complex,18
+Ist3,Cus1,U2 snRNP complex,18
+Ist3,Cus2,U2 snRNP complex,18
+Ist3,Smb1,U2 snRNP complex,18
+Ist3,Smd1,U2 snRNP complex,18
+Ist3,Smd2,U2 snRNP complex,18
+Ist3,Smd3,U2 snRNP complex,18
+Ist3,Sme1,U2 snRNP complex,18
+Ist3,Smx2,U2 snRNP complex,18
+Ist3,Smx3,U2 snRNP complex,18
+Hsh49,Lea1,U2 snRNP complex,18
+Hsh49,Msl1,U2 snRNP complex,18
+Hsh49,Rse1,U2 snRNP complex,18
+Hsh49,Hsh155,U2 snRNP complex,18
+Hsh49,Ist3,U2 snRNP complex,18
+Hsh49,Prp9,U2 snRNP complex,18
+Hsh49,Prp11,U2 snRNP complex,18
+Hsh49,Prp21,U2 snRNP complex,18
+Hsh49,Cus1,U2 snRNP complex,18
+Hsh49,Cus2,U2 snRNP complex,18
+Hsh49,Smb1,U2 snRNP complex,18
+Hsh49,Smd1,U2 snRNP complex,18
+Hsh49,Smd2,U2 snRNP complex,18
+Hsh49,Smd3,U2 snRNP complex,18
+Hsh49,Sme1,U2 snRNP complex,18
+Hsh49,Smx2,U2 snRNP complex,18
+Hsh49,Smx3,U2 snRNP complex,18
+Prp9,Lea1,U2 snRNP complex,18
+Prp9,Msl1,U2 snRNP complex,18
+Prp9,Rse1,U2 snRNP complex,18
+Prp9,Hsh155,U2 snRNP complex,18
+Prp9,Ist3,U2 snRNP complex,18
+Prp9,Hsh49,U2 snRNP complex,18
+Prp9,Prp11,U2 snRNP complex,18
+Prp9,Prp21,U2 snRNP complex,18
+Prp9,Cus1,U2 snRNP complex,18
+Prp9,Cus2,U2 snRNP complex,18
+Prp9,Smb1,U2 snRNP complex,18
+Prp9,Smd1,U2 snRNP complex,18
+Prp9,Smd2,U2 snRNP complex,18
+Prp9,Smd3,U2 snRNP complex,18
+Prp9,Sme1,U2 snRNP complex,18
+Prp9,Smx2,U2 snRNP complex,18
+Prp9,Smx3,U2 snRNP complex,18
+Prp11,Lea1,U2 snRNP complex,18
+Prp11,Msl1,U2 snRNP complex,18
+Prp11,Rse1,U2 snRNP complex,18
+Prp11,Hsh155,U2 snRNP complex,18
+Prp11,Ist3,U2 snRNP complex,18
+Prp11,Hsh49,U2 snRNP complex,18
+Prp11,Prp9,U2 snRNP complex,18
+Prp11,Prp21,U2 snRNP complex,18
+Prp11,Cus1,U2 snRNP complex,18
+Prp11,Cus2,U2 snRNP complex,18
+Prp11,Smb1,U2 snRNP complex,18
+Prp11,Smd1,U2 snRNP complex,18
+Prp11,Smd2,U2 snRNP complex,18
+Prp11,Smd3,U2 snRNP complex,18
+Prp11,Sme1,U2 snRNP complex,18
+Prp11,Smx2,U2 snRNP complex,18
+Prp11,Smx3,U2 snRNP complex,18
+Prp21,Lea1,U2 snRNP complex,18
+Prp21,Msl1,U2 snRNP complex,18
+Prp21,Rse1,U2 snRNP complex,18
+Prp21,Hsh155,U2 snRNP complex,18
+Prp21,Ist3,U2 snRNP complex,18
+Prp21,Hsh49,U2 snRNP complex,18
+Prp21,Prp9,U2 snRNP complex,18
+Prp21,Prp11,U2 snRNP complex,18
+Prp21,Cus1,U2 snRNP complex,18
+Prp21,Cus2,U2 snRNP complex,18
+Prp21,Smb1,U2 snRNP complex,18
+Prp21,Smd1,U2 snRNP complex,18
+Prp21,Smd2,U2 snRNP complex,18
+Prp21,Smd3,U2 snRNP complex,18
+Prp21,Sme1,U2 snRNP complex,18
+Prp21,Smx2,U2 snRNP complex,18
+Prp21,Smx3,U2 snRNP complex,18
+Cus1,Lea1,U2 snRNP complex,18
+Cus1,Msl1,U2 snRNP complex,18
+Cus1,Rse1,U2 snRNP complex,18
+Cus1,Hsh155,U2 snRNP complex,18
+Cus1,Ist3,U2 snRNP complex,18
+Cus1,Hsh49,U2 snRNP complex,18
+Cus1,Prp9,U2 snRNP complex,18
+Cus1,Prp11,U2 snRNP complex,18
+Cus1,Prp21,U2 snRNP complex,18
+Cus1,Cus2,U2 snRNP complex,18
+Cus1,Smb1,U2 snRNP complex,18
+Cus1,Smd1,U2 snRNP complex,18
+Cus1,Smd2,U2 snRNP complex,18
+Cus1,Smd3,U2 snRNP complex,18
+Cus1,Sme1,U2 snRNP complex,18
+Cus1,Smx2,U2 snRNP complex,18
+Cus1,Smx3,U2 snRNP complex,18
+Cus2,Lea1,U2 snRNP complex,18
+Cus2,Msl1,U2 snRNP complex,18
+Cus2,Rse1,U2 snRNP complex,18
+Cus2,Hsh155,U2 snRNP complex,18
+Cus2,Ist3,U2 snRNP complex,18
+Cus2,Hsh49,U2 snRNP complex,18
+Cus2,Prp9,U2 snRNP complex,18
+Cus2,Prp11,U2 snRNP complex,18
+Cus2,Prp21,U2 snRNP complex,18
+Cus2,Cus1,U2 snRNP complex,18
+Cus2,Smb1,U2 snRNP complex,18
+Cus2,Smd1,U2 snRNP complex,18
+Cus2,Smd2,U2 snRNP complex,18
+Cus2,Smd3,U2 snRNP complex,18
+Cus2,Sme1,U2 snRNP complex,18
+Cus2,Smx2,U2 snRNP complex,18
+Cus2,Smx3,U2 snRNP complex,18
+Smb1,Lea1,U2 snRNP complex,18
+Smb1,Msl1,U2 snRNP complex,18
+Smb1,Rse1,U2 snRNP complex,18
+Smb1,Hsh155,U2 snRNP complex,18
+Smb1,Ist3,U2 snRNP complex,18
+Smb1,Hsh49,U2 snRNP complex,18
+Smb1,Prp9,U2 snRNP complex,18
+Smb1,Prp11,U2 snRNP complex,18
+Smb1,Prp21,U2 snRNP complex,18
+Smb1,Cus1,U2 snRNP complex,18
+Smb1,Cus2,U2 snRNP complex,18
+Smb1,Smd1,U2 snRNP complex,18
+Smb1,Smd2,U2 snRNP complex,18
+Smb1,Smd3,U2 snRNP complex,18
+Smb1,Sme1,U2 snRNP complex,18
+Smb1,Smx2,U2 snRNP complex,18
+Smb1,Smx3,U2 snRNP complex,18
+Smd1,Lea1,U2 snRNP complex,18
+Smd1,Msl1,U2 snRNP complex,18
+Smd1,Rse1,U2 snRNP complex,18
+Smd1,Hsh155,U2 snRNP complex,18
+Smd1,Ist3,U2 snRNP complex,18
+Smd1,Hsh49,U2 snRNP complex,18
+Smd1,Prp9,U2 snRNP complex,18
+Smd1,Prp11,U2 snRNP complex,18
+Smd1,Prp21,U2 snRNP complex,18
+Smd1,Cus1,U2 snRNP complex,18
+Smd1,Cus2,U2 snRNP complex,18
+Smd1,Smb1,U2 snRNP complex,18
+Smd1,Smd2,U2 snRNP complex,18
+Smd1,Smd3,U2 snRNP complex,18
+Smd1,Sme1,U2 snRNP complex,18
+Smd1,Smx2,U2 snRNP complex,18
+Smd1,Smx3,U2 snRNP complex,18
+Smd2,Lea1,U2 snRNP complex,18
+Smd2,Msl1,U2 snRNP complex,18
+Smd2,Rse1,U2 snRNP complex,18
+Smd2,Hsh155,U2 snRNP complex,18
+Smd2,Ist3,U2 snRNP complex,18
+Smd2,Hsh49,U2 snRNP complex,18
+Smd2,Prp9,U2 snRNP complex,18
+Smd2,Prp11,U2 snRNP complex,18
+Smd2,Prp21,U2 snRNP complex,18
+Smd2,Cus1,U2 snRNP complex,18
+Smd2,Cus2,U2 snRNP complex,18
+Smd2,Smb1,U2 snRNP complex,18
+Smd2,Smd1,U2 snRNP complex,18
+Smd2,Smd3,U2 snRNP complex,18
+Smd2,Sme1,U2 snRNP complex,18
+Smd2,Smx2,U2 snRNP complex,18
+Smd2,Smx3,U2 snRNP complex,18
+Smd3,Lea1,U2 snRNP complex,18
+Smd3,Msl1,U2 snRNP complex,18
+Smd3,Rse1,U2 snRNP complex,18
+Smd3,Hsh155,U2 snRNP complex,18
+Smd3,Ist3,U2 snRNP complex,18
+Smd3,Hsh49,U2 snRNP complex,18
+Smd3,Prp9,U2 snRNP complex,18
+Smd3,Prp11,U2 snRNP complex,18
+Smd3,Prp21,U2 snRNP complex,18
+Smd3,Cus1,U2 snRNP complex,18
+Smd3,Cus2,U2 snRNP complex,18
+Smd3,Smb1,U2 snRNP complex,18
+Smd3,Smd1,U2 snRNP complex,18
+Smd3,Smd2,U2 snRNP complex,18
+Smd3,Sme1,U2 snRNP complex,18
+Smd3,Smx2,U2 snRNP complex,18
+Smd3,Smx3,U2 snRNP complex,18
+Sme1,Lea1,U2 snRNP complex,18
+Sme1,Msl1,U2 snRNP complex,18
+Sme1,Rse1,U2 snRNP complex,18
+Sme1,Hsh155,U2 snRNP complex,18
+Sme1,Ist3,U2 snRNP complex,18
+Sme1,Hsh49,U2 snRNP complex,18
+Sme1,Prp9,U2 snRNP complex,18
+Sme1,Prp11,U2 snRNP complex,18
+Sme1,Prp21,U2 snRNP complex,18
+Sme1,Cus1,U2 snRNP complex,18
+Sme1,Cus2,U2 snRNP complex,18
+Sme1,Smb1,U2 snRNP complex,18
+Sme1,Smd1,U2 snRNP complex,18
+Sme1,Smd2,U2 snRNP complex,18
+Sme1,Smd3,U2 snRNP complex,18
+Sme1,Smx2,U2 snRNP complex,18
+Sme1,Smx3,U2 snRNP complex,18
+Smx2,Lea1,U2 snRNP complex,18
+Smx2,Msl1,U2 snRNP complex,18
+Smx2,Rse1,U2 snRNP complex,18
+Smx2,Hsh155,U2 snRNP complex,18
+Smx2,Ist3,U2 snRNP complex,18
+Smx2,Hsh49,U2 snRNP complex,18
+Smx2,Prp9,U2 snRNP complex,18
+Smx2,Prp11,U2 snRNP complex,18
+Smx2,Prp21,U2 snRNP complex,18
+Smx2,Cus1,U2 snRNP complex,18
+Smx2,Cus2,U2 snRNP complex,18
+Smx2,Smb1,U2 snRNP complex,18
+Smx2,Smd1,U2 snRNP complex,18
+Smx2,Smd2,U2 snRNP complex,18
+Smx2,Smd3,U2 snRNP complex,18
+Smx2,Sme1,U2 snRNP complex,18
+Smx2,Smx3,U2 snRNP complex,18
+Smx3,Lea1,U2 snRNP complex,18
+Smx3,Msl1,U2 snRNP complex,18
+Smx3,Rse1,U2 snRNP complex,18
+Smx3,Hsh155,U2 snRNP complex,18
+Smx3,Ist3,U2 snRNP complex,18
+Smx3,Hsh49,U2 snRNP complex,18
+Smx3,Prp9,U2 snRNP complex,18
+Smx3,Prp11,U2 snRNP complex,18
+Smx3,Prp21,U2 snRNP complex,18
+Smx3,Cus1,U2 snRNP complex,18
+Smx3,Cus2,U2 snRNP complex,18
+Smx3,Smb1,U2 snRNP complex,18
+Smx3,Smd1,U2 snRNP complex,18
+Smx3,Smd2,U2 snRNP complex,18
+Smx3,Smd3,U2 snRNP complex,18
+Smx3,Sme1,U2 snRNP complex,18
+Smx3,Smx2,U2 snRNP complex,18
+Ysf3,Cus1,SF3b complex,6
+Ysf3,Hsh155,SF3b complex,6
+Ysf3,Hsh49,SF3b complex,6
+Ysf3,Rds3,SF3b complex,6
+Ysf3,Rse1,SF3b complex,6
+Cus1,Ysf3,SF3b complex,6
+Cus1,Hsh155,SF3b complex,6
+Cus1,Hsh49,SF3b complex,6
+Cus1,Rds3,SF3b complex,6
+Cus1,Rse1,SF3b complex,6
+Hsh155,Ysf3,SF3b complex,6
+Hsh155,Cus1,SF3b complex,6
+Hsh155,Hsh49,SF3b complex,6
+Hsh155,Rds3,SF3b complex,6
+Hsh155,Rse1,SF3b complex,6
+Hsh49,Ysf3,SF3b complex,6
+Hsh49,Cus1,SF3b complex,6
+Hsh49,Hsh155,SF3b complex,6
+Hsh49,Rds3,SF3b complex,6
+Hsh49,Rse1,SF3b complex,6
+Rds3,Ysf3,SF3b complex,6
+Rds3,Cus1,SF3b complex,6
+Rds3,Hsh155,SF3b complex,6
+Rds3,Hsh49,SF3b complex,6
+Rds3,Rse1,SF3b complex,6
+Rse1,Ysf3,SF3b complex,6
+Rse1,Cus1,SF3b complex,6
+Rse1,Hsh155,SF3b complex,6
+Rse1,Hsh49,SF3b complex,6
+Rse1,Rds3,SF3b complex,6
+Prp19,Cef1,Prp19-associated complex,8
+Prp19,Isy1,Prp19-associated complex,8
+Prp19,Clf1,Prp19-associated complex,8
+Prp19,Syf1,Prp19-associated complex,8
+Prp19,Syf2,Prp19-associated complex,8
+Prp19,Ntc20,Prp19-associated complex,8
+Prp19,Snt309,Prp19-associated complex,8
+Cef1,Prp19,Prp19-associated complex,8
+Cef1,Isy1,Prp19-associated complex,8
+Cef1,Clf1,Prp19-associated complex,8
+Cef1,Syf1,Prp19-associated complex,8
+Cef1,Syf2,Prp19-associated complex,8
+Cef1,Ntc20,Prp19-associated complex,8
+Cef1,Snt309,Prp19-associated complex,8
+Isy1,Prp19,Prp19-associated complex,8
+Isy1,Cef1,Prp19-associated complex,8
+Isy1,Clf1,Prp19-associated complex,8
+Isy1,Syf1,Prp19-associated complex,8
+Isy1,Syf2,Prp19-associated complex,8
+Isy1,Ntc20,Prp19-associated complex,8
+Isy1,Snt309,Prp19-associated complex,8
+Clf1,Prp19,Prp19-associated complex,8
+Clf1,Cef1,Prp19-associated complex,8
+Clf1,Isy1,Prp19-associated complex,8
+Clf1,Syf1,Prp19-associated complex,8
+Clf1,Syf2,Prp19-associated complex,8
+Clf1,Ntc20,Prp19-associated complex,8
+Clf1,Snt309,Prp19-associated complex,8
+Syf1,Prp19,Prp19-associated complex,8
+Syf1,Cef1,Prp19-associated complex,8
+Syf1,Isy1,Prp19-associated complex,8
+Syf1,Clf1,Prp19-associated complex,8
+Syf1,Syf2,Prp19-associated complex,8
+Syf1,Ntc20,Prp19-associated complex,8
+Syf1,Snt309,Prp19-associated complex,8
+Syf2,Prp19,Prp19-associated complex,8
+Syf2,Cef1,Prp19-associated complex,8
+Syf2,Isy1,Prp19-associated complex,8
+Syf2,Clf1,Prp19-associated complex,8
+Syf2,Syf1,Prp19-associated complex,8
+Syf2,Ntc20,Prp19-associated complex,8
+Syf2,Snt309,Prp19-associated complex,8
+Ntc20,Prp19,Prp19-associated complex,8
+Ntc20,Cef1,Prp19-associated complex,8
+Ntc20,Isy1,Prp19-associated complex,8
+Ntc20,Clf1,Prp19-associated complex,8
+Ntc20,Syf1,Prp19-associated complex,8
+Ntc20,Syf2,Prp19-associated complex,8
+Ntc20,Snt309,Prp19-associated complex,8
+Snt309,Prp19,Prp19-associated complex,8
+Snt309,Cef1,Prp19-associated complex,8
+Snt309,Isy1,Prp19-associated complex,8
+Snt309,Clf1,Prp19-associated complex,8
+Snt309,Syf1,Prp19-associated complex,8
+Snt309,Syf2,Prp19-associated complex,8
+Snt309,Ntc20,Prp19-associated complex,8
+Sub2,Tex1,transcription export complex,3
+Sub2,Yra1,transcription export complex,3
+Tex1,Sub2,transcription export complex,3
+Tex1,Yra1,transcription export complex,3
+Yra1,Sub2,transcription export complex,3
+Yra1,Tex1,transcription export complex,3
+Bre5,Ubp3,Ubp3p/Bre5p complex,2
+Ubp3,Bre5,Ubp3p/Bre5p complex,2
+Smb1,Smd1,U1 snRNP complex,17
+Smb1,Smd2,U1 snRNP complex,17
+Smb1,Smd3,U1 snRNP complex,17
+Smb1,Sme1,U1 snRNP complex,17
+Smb1,Smx2,U1 snRNP complex,17
+Smb1,Smx3,U1 snRNP complex,17
+Smb1,Luc7,U1 snRNP complex,17
+Smb1,Mud1,U1 snRNP complex,17
+Smb1,Nam8,U1 snRNP complex,17
+Smb1,Prp39,U1 snRNP complex,17
+Smb1,Prp40,U1 snRNP complex,17
+Smb1,Prp42,U1 snRNP complex,17
+Smb1,Snp1,U1 snRNP complex,17
+Smb1,Snu56,U1 snRNP complex,17
+Smb1,Snu71,U1 snRNP complex,17
+Smb1,Yhc1,U1 snRNP complex,17
+Smd1,Smb1,U1 snRNP complex,17
+Smd1,Smd2,U1 snRNP complex,17
+Smd1,Smd3,U1 snRNP complex,17
+Smd1,Sme1,U1 snRNP complex,17
+Smd1,Smx2,U1 snRNP complex,17
+Smd1,Smx3,U1 snRNP complex,17
+Smd1,Luc7,U1 snRNP complex,17
+Smd1,Mud1,U1 snRNP complex,17
+Smd1,Nam8,U1 snRNP complex,17
+Smd1,Prp39,U1 snRNP complex,17
+Smd1,Prp40,U1 snRNP complex,17
+Smd1,Prp42,U1 snRNP complex,17
+Smd1,Snp1,U1 snRNP complex,17
+Smd1,Snu56,U1 snRNP complex,17
+Smd1,Snu71,U1 snRNP complex,17
+Smd1,Yhc1,U1 snRNP complex,17
+Smd2,Smb1,U1 snRNP complex,17
+Smd2,Smd1,U1 snRNP complex,17
+Smd2,Smd3,U1 snRNP complex,17
+Smd2,Sme1,U1 snRNP complex,17
+Smd2,Smx2,U1 snRNP complex,17
+Smd2,Smx3,U1 snRNP complex,17
+Smd2,Luc7,U1 snRNP complex,17
+Smd2,Mud1,U1 snRNP complex,17
+Smd2,Nam8,U1 snRNP complex,17
+Smd2,Prp39,U1 snRNP complex,17
+Smd2,Prp40,U1 snRNP complex,17
+Smd2,Prp42,U1 snRNP complex,17
+Smd2,Snp1,U1 snRNP complex,17
+Smd2,Snu56,U1 snRNP complex,17
+Smd2,Snu71,U1 snRNP complex,17
+Smd2,Yhc1,U1 snRNP complex,17
+Smd3,Smb1,U1 snRNP complex,17
+Smd3,Smd1,U1 snRNP complex,17
+Smd3,Smd2,U1 snRNP complex,17
+Smd3,Sme1,U1 snRNP complex,17
+Smd3,Smx2,U1 snRNP complex,17
+Smd3,Smx3,U1 snRNP complex,17
+Smd3,Luc7,U1 snRNP complex,17
+Smd3,Mud1,U1 snRNP complex,17
+Smd3,Nam8,U1 snRNP complex,17
+Smd3,Prp39,U1 snRNP complex,17
+Smd3,Prp40,U1 snRNP complex,17
+Smd3,Prp42,U1 snRNP complex,17
+Smd3,Snp1,U1 snRNP complex,17
+Smd3,Snu56,U1 snRNP complex,17
+Smd3,Snu71,U1 snRNP complex,17
+Smd3,Yhc1,U1 snRNP complex,17
+Sme1,Smb1,U1 snRNP complex,17
+Sme1,Smd1,U1 snRNP complex,17
+Sme1,Smd2,U1 snRNP complex,17
+Sme1,Smd3,U1 snRNP complex,17
+Sme1,Smx2,U1 snRNP complex,17
+Sme1,Smx3,U1 snRNP complex,17
+Sme1,Luc7,U1 snRNP complex,17
+Sme1,Mud1,U1 snRNP complex,17
+Sme1,Nam8,U1 snRNP complex,17
+Sme1,Prp39,U1 snRNP complex,17
+Sme1,Prp40,U1 snRNP complex,17
+Sme1,Prp42,U1 snRNP complex,17
+Sme1,Snp1,U1 snRNP complex,17
+Sme1,Snu56,U1 snRNP complex,17
+Sme1,Snu71,U1 snRNP complex,17
+Sme1,Yhc1,U1 snRNP complex,17
+Smx2,Smb1,U1 snRNP complex,17
+Smx2,Smd1,U1 snRNP complex,17
+Smx2,Smd2,U1 snRNP complex,17
+Smx2,Smd3,U1 snRNP complex,17
+Smx2,Sme1,U1 snRNP complex,17
+Smx2,Smx3,U1 snRNP complex,17
+Smx2,Luc7,U1 snRNP complex,17
+Smx2,Mud1,U1 snRNP complex,17
+Smx2,Nam8,U1 snRNP complex,17
+Smx2,Prp39,U1 snRNP complex,17
+Smx2,Prp40,U1 snRNP complex,17
+Smx2,Prp42,U1 snRNP complex,17
+Smx2,Snp1,U1 snRNP complex,17
+Smx2,Snu56,U1 snRNP complex,17
+Smx2,Snu71,U1 snRNP complex,17
+Smx2,Yhc1,U1 snRNP complex,17
+Smx3,Smb1,U1 snRNP complex,17
+Smx3,Smd1,U1 snRNP complex,17
+Smx3,Smd2,U1 snRNP complex,17
+Smx3,Smd3,U1 snRNP complex,17
+Smx3,Sme1,U1 snRNP complex,17
+Smx3,Smx2,U1 snRNP complex,17
+Smx3,Luc7,U1 snRNP complex,17
+Smx3,Mud1,U1 snRNP complex,17
+Smx3,Nam8,U1 snRNP complex,17
+Smx3,Prp39,U1 snRNP complex,17
+Smx3,Prp40,U1 snRNP complex,17
+Smx3,Prp42,U1 snRNP complex,17
+Smx3,Snp1,U1 snRNP complex,17
+Smx3,Snu56,U1 snRNP complex,17
+Smx3,Snu71,U1 snRNP complex,17
+Smx3,Yhc1,U1 snRNP complex,17
+Luc7,Smb1,U1 snRNP complex,17
+Luc7,Smd1,U1 snRNP complex,17
+Luc7,Smd2,U1 snRNP complex,17
+Luc7,Smd3,U1 snRNP complex,17
+Luc7,Sme1,U1 snRNP complex,17
+Luc7,Smx2,U1 snRNP complex,17
+Luc7,Smx3,U1 snRNP complex,17
+Luc7,Mud1,U1 snRNP complex,17
+Luc7,Nam8,U1 snRNP complex,17
+Luc7,Prp39,U1 snRNP complex,17
+Luc7,Prp40,U1 snRNP complex,17
+Luc7,Prp42,U1 snRNP complex,17
+Luc7,Snp1,U1 snRNP complex,17
+Luc7,Snu56,U1 snRNP complex,17
+Luc7,Snu71,U1 snRNP complex,17
+Luc7,Yhc1,U1 snRNP complex,17
+Mud1,Smb1,U1 snRNP complex,17
+Mud1,Smd1,U1 snRNP complex,17
+Mud1,Smd2,U1 snRNP complex,17
+Mud1,Smd3,U1 snRNP complex,17
+Mud1,Sme1,U1 snRNP complex,17
+Mud1,Smx2,U1 snRNP complex,17
+Mud1,Smx3,U1 snRNP complex,17
+Mud1,Luc7,U1 snRNP complex,17
+Mud1,Nam8,U1 snRNP complex,17
+Mud1,Prp39,U1 snRNP complex,17
+Mud1,Prp40,U1 snRNP complex,17
+Mud1,Prp42,U1 snRNP complex,17
+Mud1,Snp1,U1 snRNP complex,17
+Mud1,Snu56,U1 snRNP complex,17
+Mud1,Snu71,U1 snRNP complex,17
+Mud1,Yhc1,U1 snRNP complex,17
+Nam8,Smb1,U1 snRNP complex,17
+Nam8,Smd1,U1 snRNP complex,17
+Nam8,Smd2,U1 snRNP complex,17
+Nam8,Smd3,U1 snRNP complex,17
+Nam8,Sme1,U1 snRNP complex,17
+Nam8,Smx2,U1 snRNP complex,17
+Nam8,Smx3,U1 snRNP complex,17
+Nam8,Luc7,U1 snRNP complex,17
+Nam8,Mud1,U1 snRNP complex,17
+Nam8,Prp39,U1 snRNP complex,17
+Nam8,Prp40,U1 snRNP complex,17
+Nam8,Prp42,U1 snRNP complex,17
+Nam8,Snp1,U1 snRNP complex,17
+Nam8,Snu56,U1 snRNP complex,17
+Nam8,Snu71,U1 snRNP complex,17
+Nam8,Yhc1,U1 snRNP complex,17
+Prp39,Smb1,U1 snRNP complex,17
+Prp39,Smd1,U1 snRNP complex,17
+Prp39,Smd2,U1 snRNP complex,17
+Prp39,Smd3,U1 snRNP complex,17
+Prp39,Sme1,U1 snRNP complex,17
+Prp39,Smx2,U1 snRNP complex,17
+Prp39,Smx3,U1 snRNP complex,17
+Prp39,Luc7,U1 snRNP complex,17
+Prp39,Mud1,U1 snRNP complex,17
+Prp39,Nam8,U1 snRNP complex,17
+Prp39,Prp40,U1 snRNP complex,17
+Prp39,Prp42,U1 snRNP complex,17
+Prp39,Snp1,U1 snRNP complex,17
+Prp39,Snu56,U1 snRNP complex,17
+Prp39,Snu71,U1 snRNP complex,17
+Prp39,Yhc1,U1 snRNP complex,17
+Prp40,Smb1,U1 snRNP complex,17
+Prp40,Smd1,U1 snRNP complex,17
+Prp40,Smd2,U1 snRNP complex,17
+Prp40,Smd3,U1 snRNP complex,17
+Prp40,Sme1,U1 snRNP complex,17
+Prp40,Smx2,U1 snRNP complex,17
+Prp40,Smx3,U1 snRNP complex,17
+Prp40,Luc7,U1 snRNP complex,17
+Prp40,Mud1,U1 snRNP complex,17
+Prp40,Nam8,U1 snRNP complex,17
+Prp40,Prp39,U1 snRNP complex,17
+Prp40,Prp42,U1 snRNP complex,17
+Prp40,Snp1,U1 snRNP complex,17
+Prp40,Snu56,U1 snRNP complex,17
+Prp40,Snu71,U1 snRNP complex,17
+Prp40,Yhc1,U1 snRNP complex,17
+Prp42,Smb1,U1 snRNP complex,17
+Prp42,Smd1,U1 snRNP complex,17
+Prp42,Smd2,U1 snRNP complex,17
+Prp42,Smd3,U1 snRNP complex,17
+Prp42,Sme1,U1 snRNP complex,17
+Prp42,Smx2,U1 snRNP complex,17
+Prp42,Smx3,U1 snRNP complex,17
+Prp42,Luc7,U1 snRNP complex,17
+Prp42,Mud1,U1 snRNP complex,17
+Prp42,Nam8,U1 snRNP complex,17
+Prp42,Prp39,U1 snRNP complex,17
+Prp42,Prp40,U1 snRNP complex,17
+Prp42,Snp1,U1 snRNP complex,17
+Prp42,Snu56,U1 snRNP complex,17
+Prp42,Snu71,U1 snRNP complex,17
+Prp42,Yhc1,U1 snRNP complex,17
+Snp1,Smb1,U1 snRNP complex,17
+Snp1,Smd1,U1 snRNP complex,17
+Snp1,Smd2,U1 snRNP complex,17
+Snp1,Smd3,U1 snRNP complex,17
+Snp1,Sme1,U1 snRNP complex,17
+Snp1,Smx2,U1 snRNP complex,17
+Snp1,Smx3,U1 snRNP complex,17
+Snp1,Luc7,U1 snRNP complex,17
+Snp1,Mud1,U1 snRNP complex,17
+Snp1,Nam8,U1 snRNP complex,17
+Snp1,Prp39,U1 snRNP complex,17
+Snp1,Prp40,U1 snRNP complex,17
+Snp1,Prp42,U1 snRNP complex,17
+Snp1,Snu56,U1 snRNP complex,17
+Snp1,Snu71,U1 snRNP complex,17
+Snp1,Yhc1,U1 snRNP complex,17
+Snu56,Smb1,U1 snRNP complex,17
+Snu56,Smd1,U1 snRNP complex,17
+Snu56,Smd2,U1 snRNP complex,17
+Snu56,Smd3,U1 snRNP complex,17
+Snu56,Sme1,U1 snRNP complex,17
+Snu56,Smx2,U1 snRNP complex,17
+Snu56,Smx3,U1 snRNP complex,17
+Snu56,Luc7,U1 snRNP complex,17
+Snu56,Mud1,U1 snRNP complex,17
+Snu56,Nam8,U1 snRNP complex,17
+Snu56,Prp39,U1 snRNP complex,17
+Snu56,Prp40,U1 snRNP complex,17
+Snu56,Prp42,U1 snRNP complex,17
+Snu56,Snp1,U1 snRNP complex,17
+Snu56,Snu71,U1 snRNP complex,17
+Snu56,Yhc1,U1 snRNP complex,17
+Snu71,Smb1,U1 snRNP complex,17
+Snu71,Smd1,U1 snRNP complex,17
+Snu71,Smd2,U1 snRNP complex,17
+Snu71,Smd3,U1 snRNP complex,17
+Snu71,Sme1,U1 snRNP complex,17
+Snu71,Smx2,U1 snRNP complex,17
+Snu71,Smx3,U1 snRNP complex,17
+Snu71,Luc7,U1 snRNP complex,17
+Snu71,Mud1,U1 snRNP complex,17
+Snu71,Nam8,U1 snRNP complex,17
+Snu71,Prp39,U1 snRNP complex,17
+Snu71,Prp40,U1 snRNP complex,17
+Snu71,Prp42,U1 snRNP complex,17
+Snu71,Snp1,U1 snRNP complex,17
+Snu71,Snu56,U1 snRNP complex,17
+Snu71,Yhc1,U1 snRNP complex,17
+Yhc1,Smb1,U1 snRNP complex,17
+Yhc1,Smd1,U1 snRNP complex,17
+Yhc1,Smd2,U1 snRNP complex,17
+Yhc1,Smd3,U1 snRNP complex,17
+Yhc1,Sme1,U1 snRNP complex,17
+Yhc1,Smx2,U1 snRNP complex,17
+Yhc1,Smx3,U1 snRNP complex,17
+Yhc1,Luc7,U1 snRNP complex,17
+Yhc1,Mud1,U1 snRNP complex,17
+Yhc1,Nam8,U1 snRNP complex,17
+Yhc1,Prp39,U1 snRNP complex,17
+Yhc1,Prp40,U1 snRNP complex,17
+Yhc1,Prp42,U1 snRNP complex,17
+Yhc1,Snp1,U1 snRNP complex,17
+Yhc1,Snu56,U1 snRNP complex,17
+Yhc1,Snu71,U1 snRNP complex,17
+Air1,Mtr4,TRAMP complex (Air1p),3
+Air1,Pap2,TRAMP complex (Air1p),3
+Mtr4,Air1,TRAMP complex (Air1p),3
+Mtr4,Pap2,TRAMP complex (Air1p),3
+Pap2,Air1,TRAMP complex (Air1p),3
+Pap2,Mtr4,TRAMP complex (Air1p),3

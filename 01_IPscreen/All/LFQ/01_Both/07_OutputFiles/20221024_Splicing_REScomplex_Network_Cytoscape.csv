@@ -1,0 +1,7 @@
+bait,prey,complex,n_complex
+Bud13,Pml1,RES complex,3
+Bud13,Ist3,RES complex,3
+Pml1,Bud13,RES complex,3
+Pml1,Ist3,RES complex,3
+Ist3,Bud13,RES complex,3
+Ist3,Pml1,RES complex,3
