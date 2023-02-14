@@ -71,3 +71,23 @@ This **sub-folder** contains the output files from the **05_ClevelandDotPlot.R**
 This script generates a **cleveland dot plot** and a **bar plot** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the inclusion at **RBP census** and the **BioGRID**, respectively. With this script, you can generate the following figures:
 
 - Supplementary Figure 4
+
+## 06_InputFiles
+
+This **sub-folder** contains the input files from the **06_GOMF_FigureRDIandPPI.R** and **06_InterproFigureRDIandPPI.R** scripts.
+
+## 06_OutputFiles
+
+This **sub-folder** contains the output files from the **06_GOMF_FigureRDIandPPI.R** and **06_InterproFigureRDIandPPI.R** scripts, including **Figure 3A** and **Figure 3B**.
+
+## 06_GOMF_FigureRDIandPPI.R
+
+This script generates a **bar plot** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the **top5 most enriched GO molecular function terms** . With this script, you can generate the following figures:
+
+- Figure 3B
+
+## 06_InterproFigureRDIandPPI.R
+
+This script generates a **bar plot** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the interpro **overrepresented PFAM and SUPERFAMILY terms** . With this script, you can generate the following figures:
+
+- Figure 3A
