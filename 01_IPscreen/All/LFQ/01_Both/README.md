@@ -57,3 +57,17 @@ This **sub-folder** contains the output files from the **03_Individual_Networks_
 This script generates an **individual functional network** for the  **PPI** and **RDI** groups in each YAFXX strain. With this script, you can generate the following figures:
 
 - Figure 6C
+
+## 05_InputFiles
+
+This **sub-folder** contains the input files from the **05_ClevelandDotPlot.R** script.
+
+## 05_OutputFiles
+
+This **sub-folder** contains the output files from the **05_ClevelandDotPlot.R** script, including **Supplementary Figure 4**.
+
+## 05_ClevelandDotPlot.R
+
+This script generates a **cleveland dot plot** and a **bar plot** for the  **PPI** and **RDI** groups in each YAFXX strain, showing the inclusion at **RBP census** and the **BioGRID**, respectively. With this script, you can generate the following figures:
+
+- Supplementary Figure 4
