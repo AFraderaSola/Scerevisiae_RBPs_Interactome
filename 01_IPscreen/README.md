@@ -12,8 +12,7 @@ This folder contains all the scripts used to analyze the MS data for the **immun
 
 - Figure 7
 
-
-It is organized into a couple sub-folders containing the analysis scripts and several files summarizing the IP screen findings. 
+It also contains the scripts to generate Supplementary tables 1 to 8. 
 
 ## All
 
@@ -45,7 +44,7 @@ First we have the MasterFiles, containing general information on the strains:
 
 Then we have the CoreAnalysis files; this files summarize the main analysis conducted on each YAFXXX strain. More details on the analysis itself can be found on each YAFXXX folder.
 
-- 01_CoreAnalysis_LFQ_01_Summary.pdf: Here you can find a summary of the quality control figures for each YAFXXX strain. 
+- 01_CoreAnalysis_LFQ_01_Summary.pdf: Here you can find a summary the CoreAnalysis figures for each YAFXXX strain. 
 
 - 01_CoreAnalysis_LFQ_02_QuantifiedProteins.xlsx: Here you can find all quantified proteins for each YAFXXX strain and their associated statistical values.
 

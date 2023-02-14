@@ -16,6 +16,11 @@
 # date: 2022.04.27
 ###############################################################################
 
+
+#############################################
+############# Libraries #####################
+#############################################
+
 library(reshape2)
 library(ggplot2)
 library(RColorBrewer)
@@ -28,18 +33,18 @@ library(coin)
 # options(java.parameters = "-Xmx4096m")
 options(java.parameters=c("-XX:+UseConcMarkSweepGC", "-Xmx4096m"))
 library(xlsx)
-
 # devtools::install_github('talgalili/heatmaply')
 library(heatmaply)
-
 library(rMQanalysis)
 
 this.dir <- dirname(parent.frame(2)$ofile)
 setwd(this.dir)
-
 print(getwd())
-
 rMQanalysis::copySourcedScript()
+
+#############################################
+############# Functions #####################
+#############################################
 
 
 Enriched2 <- function (x, y = NULL, c = 1, s0 = 1, pvalue = 0.05, ...) 
@@ -71,6 +76,10 @@ createEnrichmentCurve2 <-  function (c, s0, pvalue = 1, step = 0.01, xlim = 50, 
   return(annotate("path", x = c(NA, x), y = c(NA, y), 
                   linetype = linetype, size = size))
 }
+
+#############################################
+############# Variables #####################
+#############################################
 
 # Main variable settings --------------------------------------------------
 
@@ -112,7 +121,6 @@ norm_sd_factor <- .2
 random_seed <- 1234
 original_na_replace <- 0.001
 original_average_function <- 'mean'
-
 
 
 # Contrast setup and labels -----------------------------------------------
@@ -191,6 +199,10 @@ create_scatter_pdfs <- TRUE
 scatter_height <- 8 # you might change the pdf size together with the font size
 scatter_width <- 8
 
+
+#############################################
+############### Script ######################
+#############################################
 
 # Create output directory -------------------------------------------------
 
@@ -1235,9 +1247,3 @@ writeLines(capture.output(sessionInfo()),
            file.path(out_dir, paste0(stock, '_sessionInfo.txt')))
 
 rMQanalysis::mylog(sprintf('Results are written in %s', out_dir), dbg_level=0)
-
-
-
-
-
-
