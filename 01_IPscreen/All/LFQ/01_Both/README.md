@@ -113,3 +113,17 @@ This script generates a **dot plot** and a **heat map** for the  **PPI** and **R
 
 - Figure 6D
 - Figure 6E
+
+## 08_InputFiles
+
+This **sub-folder** contains the input files from the **08_ComplexNetworks.R** script.
+
+## 08_OutputFiles
+
+This **sub-folder** contains the output files from the **08_ComplexNetworks.R** script, including **Figure 7**.
+
+## 08_ComplexNetworks.R
+
+This script generates the **CYC2008 complex networks** for  **PPI** and **RDI** groups in each YAFXX strain. With this script, you can generate the following figures:
+
+- Figure 7
