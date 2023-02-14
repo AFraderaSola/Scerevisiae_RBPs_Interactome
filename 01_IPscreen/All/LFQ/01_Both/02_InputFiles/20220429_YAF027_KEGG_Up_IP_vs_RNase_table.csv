@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce04141","Protein processing in endoplasmic reticulum","5/25","11/266",0.00154409162281737,0.0169850078509911,0.0146282364266909,"850636/851259/855512/851369/853418",5

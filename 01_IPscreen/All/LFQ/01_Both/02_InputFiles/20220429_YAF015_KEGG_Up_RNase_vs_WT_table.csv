@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce03040","Spliceosome","5/15","12/476",1.052196639797e-05,0.00014730752957158,0.000143984803340642,"854497/854956/855332/856209/855281",5

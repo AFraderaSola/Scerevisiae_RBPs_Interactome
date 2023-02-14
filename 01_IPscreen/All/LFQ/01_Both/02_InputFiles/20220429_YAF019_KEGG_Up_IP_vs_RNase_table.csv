@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce03018","RNA degradation","3/10","18/672",0.00172700466222677,0.0241780652711748,0.0218147957333908,"852702/856912/850440",3

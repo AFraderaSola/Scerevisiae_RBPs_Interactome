@@ -1,0 +1,108 @@
+Stock,Gene,KEGG,GeneRatio
+YAF005,IST3,Proteasome,0.222222222222222
+YAF005,IST3,Spliceosome,0.185185185185185
+YAF007,HRB1,Ribosome,0.666666666666667
+YAF008,CBC2,Spliceosome,0.523809523809524
+YAF008,CBC2,Nucleocytoplasmic transport,0.19047619047619
+YAF010,MTR4,Ribosome biogenesis in eukaryotes,0.285714285714286
+YAF010,MTR4,RNA degradation,0.142857142857143
+YAF011,LSM2,Spliceosome,0.439024390243902
+YAF011,LSM2,RNA degradation,0.219512195121951
+YAF013,SNP1,Spliceosome,0.636363636363636
+YAF014,RPO21,RNA polymerase,0.521739130434783
+YAF015,HSH49,Spliceosome,0.333333333333333
+YAF016,RPB7,RNA polymerase,0.705882352941177
+YAF017,STO1,Spliceosome,0.75
+YAF019,SGN1,Glutathione metabolism,0.19047619047619
+YAF019,SGN1,Pyrimidine metabolism,0.19047619047619
+YAF019,SGN1,Metabolic pathways,0.761904761904762
+YAF023,RRP40,RNA degradation,0.8
+YAF025,DHH1,RNA degradation,0.317073170731707
+YAF025,DHH1,Spliceosome,0.121951219512195
+YAF026,DIS3,RNA degradation,0.25
+YAF027,FAL1,Biosynthesis of secondary metabolites,0.64
+YAF027,FAL1,Metabolic pathways,0.72
+YAF027,FAL1,Biosynthesis of amino acids,0.4
+YAF027,FAL1,Carbon metabolism,0.32
+YAF027,FAL1,Purine metabolism,0.2
+YAF027,FAL1,"Glycine, serine and threonine metabolism",0.16
+YAF028,NMD2,Nucleocytoplasmic transport,0.25
+YAF029,UPF3,Glycolysis / Gluconeogenesis,0.276923076923077
+YAF029,UPF3,Metabolic pathways,0.676923076923077
+YAF029,UPF3,Biosynthesis of secondary metabolites,0.492307692307692
+YAF029,UPF3,Biosynthesis of amino acids,0.292307692307692
+YAF029,UPF3,Methane metabolism,0.107692307692308
+YAF029,UPF3,Carbon metabolism,0.246153846153846
+YAF029,UPF3,Purine metabolism,0.123076923076923
+YAF029,UPF3,Aminoacyl-tRNA biosynthesis,0.107692307692308
+YAF030,TIF4631,Ribosome biogenesis in eukaryotes,0.245614035087719
+YAF030,TIF4631,Nucleocytoplasmic transport,0.157894736842105
+YAF031,NAM7,Metabolic pathways,0.617647058823529
+YAF031,NAM7,Biosynthesis of secondary metabolites,0.470588235294118
+YAF031,NAM7,Carbon metabolism,0.220588235294118
+YAF035,CFT1,mRNA surveillance pathway,1
+YAF036,RNA14,mRNA surveillance pathway,0.6
+YAF037,MPE1,Ribosome,0.473684210526316
+YAF040,SUP35,mRNA surveillance pathway,0.378378378378378
+YAF041,HBS1,mRNA surveillance pathway,0.28125
+YAF042,MUD2,Ribosome,0.919642857142857
+YAF043,PRP22,Biosynthesis of cofactors,0.5
+YAF002,PAB1,Metabolic pathways,0.607142857142857
+YAF002,PAB1,Biosynthesis of secondary metabolites,0.464285714285714
+YAF006,NDC1,RNA degradation,0.666666666666667
+YAF008,CBC2,Spliceosome,0.434782608695652
+YAF009,MSL1,Spliceosome,0.5
+YAF010,MTR4,mRNA surveillance pathway,0.25
+YAF011,LSM2,Spliceosome,0.484848484848485
+YAF012,GBP2,Ribosome biogenesis in eukaryotes,0.315789473684211
+YAF012,GBP2,Nucleocytoplasmic transport,0.210526315789474
+YAF012,GBP2,RNA degradation,0.157894736842105
+YAF014,RPO21,RNA degradation,0.4
+YAF015,HSH49,mRNA surveillance pathway,0.25
+YAF015,HSH49,Ribosome biogenesis in eukaryotes,0.333333333333333
+YAF016,RPB7,Metabolic pathways,0.866666666666667
+YAF017,STO1,Spliceosome,0.5
+YAF017,STO1,RNA degradation,0.147058823529412
+YAF019,SGN1,RNA degradation,0.3
+YAF023,RRP40,Metabolic pathways,0.564102564102564
+YAF023,RRP40,Purine metabolism,0.153846153846154
+YAF023,RRP40,Biosynthesis of secondary metabolites,0.358974358974359
+YAF023,RRP40,"Alanine, aspartate and glutamate metabolism",0.102564102564103
+YAF027,FAL1,Protein processing in endoplasmic reticulum,0.2
+YAF028,NMD2,Aminoacyl-tRNA biosynthesis,0.363636363636364
+YAF030,TIF4631,RNA degradation,0.222222222222222
+YAF031,NAM7,Metabolic pathways,0.684210526315789
+YAF031,NAM7,Biosynthesis of secondary metabolites,0.508771929824561
+YAF031,NAM7,Aminoacyl-tRNA biosynthesis,0.140350877192982
+YAF031,NAM7,Biosynthesis of amino acids,0.298245614035088
+YAF031,NAM7,"Alanine, aspartate and glutamate metabolism",0.0964912280701754
+YAF031,NAM7,Carbon metabolism,0.184210526315789
+YAF031,NAM7,Glutathione metabolism,0.0701754385964912
+YAF031,NAM7,"Glycine, serine and threonine metabolism",0.0964912280701754
+YAF031,NAM7,Cysteine and methionine metabolism,0.087719298245614
+YAF031,NAM7,Glycolysis / Gluconeogenesis,0.12280701754386
+YAF031,NAM7,Purine metabolism,0.105263157894737
+YAF035,CFT1,Biosynthesis of secondary metabolites,0.346153846153846
+YAF035,CFT1,Metabolic pathways,0.423076923076923
+YAF036,RNA14,Metabolic pathways,0.555555555555556
+YAF036,RNA14,Biosynthesis of secondary metabolites,0.444444444444444
+YAF036,RNA14,Nucleocytoplasmic transport,0.222222222222222
+YAF037,MPE1,RNA degradation,0.166666666666667
+YAF039,GLC7,Protein processing in endoplasmic reticulum,0.194444444444444
+YAF040,SUP35,Purine metabolism,0.333333333333333
+YAF041,HBS1,Metabolic pathways,0.692307692307692
+YAF041,HBS1,Biosynthesis of secondary metabolites,0.538461538461538
+YAF041,HBS1,Aminoacyl-tRNA biosynthesis,0.192307692307692
+YAF041,HBS1,Carbon metabolism,0.230769230769231
+YAF042,MUD2,Aminoacyl-tRNA biosynthesis,0.179487179487179
+YAF042,MUD2,Metabolic pathways,0.512820512820513
+YAF042,MUD2,Protein processing in endoplasmic reticulum,0.153846153846154
+YAF042,MUD2,Biosynthesis of secondary metabolites,0.307692307692308
+YAF043,PRP22,Metabolic pathways,0.625
+YAF043,PRP22,Biosynthesis of secondary metabolites,0.479166666666667
+YAF043,PRP22,Protein processing in endoplasmic reticulum,0.166666666666667
+YAF043,PRP22,Glycolysis / Gluconeogenesis,0.229166666666667
+YAF043,PRP22,Biosynthesis of amino acids,0.208333333333333
+YAF043,PRP22,Carbon metabolism,0.1875
+YAF044,DBP2,Metabolic pathways,0.533333333333333
+YAF044,DBP2,Biosynthesis of amino acids,0.266666666666667

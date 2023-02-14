@@ -26,6 +26,20 @@ This **sub-folder** contains the output files from the **01_Overlap_PPIandRNAm.R
 
 ## 01_Overlap_PPIandRNAm.R
 
-This script compares the enriched proteins **PPI** and **RDI** groups for each YAFXX strain and creates a bar plot showing the **overlap** among them. With the script, you can generate the following figures:
+This script compares the enriched proteins for the **PPI** and **RDI** groups in each YAFXX strain and creates a **bar plot** showing the **overlap** among them. With the script, you can generate the following figures:
 
 - Figure 2E
+
+## 02_InputFiles
+
+This **sub-folder** contains the output files from the **02_KEGG_Enrichment.R** script, including **Figure 3C**.
+
+## 02_OutputFiles
+
+This **sub-folder** contains the output files from the **02_KEGG_Enrichment.R** script, including **Figure 3C**.
+
+## 02_KEGG_Enrichment.R
+
+This script compares the KEGG enrichment results for the  **PPI** and **RDI** groups in each YAFXX strain and creates a **heat map** comparing them. With the script, you can generate the following figures:
+
+- Figure 3C

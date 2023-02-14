@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce03015","mRNA surveillance pathway","3/12","11/468",0.00190184893147735,0.0171166403832962,0.0120116774619622,"856912/855104/851988",3

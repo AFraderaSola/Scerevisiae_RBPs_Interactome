@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce00970","Aminoacyl-tRNA biosynthesis","4/11","10/282",0.000237637142414791,0.00166345999690354,0.00150086616261973,"852986/855943/851942/852202",4

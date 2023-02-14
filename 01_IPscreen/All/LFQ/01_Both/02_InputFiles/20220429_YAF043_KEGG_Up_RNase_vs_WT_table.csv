@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce01240","Biosynthesis of cofactors","3/6","13/215",0.00314286893514702,0.0157143446757351,0.0132331323585138,"850747/853311/853573",3
