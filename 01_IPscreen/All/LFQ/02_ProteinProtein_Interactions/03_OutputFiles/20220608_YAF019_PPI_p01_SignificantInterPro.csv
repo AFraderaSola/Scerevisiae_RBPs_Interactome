@@ -1,0 +1,12 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF019","YGR180C;YJL026W","SUPERFAMILY","SSF47240","Ferritin-like","Ferritin-like superfamily",2,29,2,896,0.00620556073222346,30.4005661843534,0.15466556572233
+"YAF019","YCL064C;YER086W","PANTHER","PTHR48078","THREONINE DEHYDRATASE, MITOCHONDRIAL-RELATED","-",2,32,2,1026,0.00573669173228174,31.5940191136919,0.15466556572233
+"YAF019","YGR180C;YJL026W","PANTHER","PTHR23409","RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE SMALL CHAIN","Ribonucleotide reductase small subunit family",2,32,2,1026,0.00573669173228174,31.5940191136919,0.15466556572233
+"YAF019","YGR180C;YJL026W","PANTHER","PTHR23409:SF20","RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE SUBUNIT M2","-",2,32,2,1026,0.00573669173228174,31.5940191136919,0.15466556572233
+"YAF019","YGR180C;YJL026W","Gene3D","G3DSA:1.10.620.20","Ribonucleotide Reductase","Ribonucleotide reductase-like",2,30,2,901,0.00652681316708896,29.5565764440367,0.15466556572233
+"YAF019","YER062C;YKL033W-A","Pfam","PF13419","Haloacid dehalogenase-like hydrolase","Haloacid dehalogenase-like hydrolase",2,31,3,1026,0.00883521994198365,21.8047977067167,0.15466556572233
+"YAF019","YGR180C;YJL026W","Pfam","PF00268","Ribonucleotide reductase, small chain","Ribonucleotide reductase small subunit family",2,31,2,1027,0.00540615706341054,32.6189184055603,0.15466556572233
+"YAF019","YGR180C;YJL026W","CDD","cd01049","RNRR2","Ribonucleotide reductase small subunit",2,22,2,637,0.00721515859750119,28.3645935303003,0.15466556572233
+"YAF019","YCL064C;YER086W","ProSitePatterns","PS00165","Serine/threonine dehydratases pyridoxal-phosphate attachment site.","Serine/threonine dehydratase, pyridoxal-phosphate-binding site",2,12,3,477,0.00711459675585741,25.737324301778,0.15466556572233
+"YAF019","YGR180C;YJL026W","ProSitePatterns","PS00368","Ribonucleotide reductase small subunit signature.","Ribonucleotide reductase small subunit, acitve site",2,12,2,478,0.00433923574049992,38.353202764131,0.15466556572233
+"YAF019","YJL130C;YMR120C","SMART","SM00851","MGS_2a","Methylglyoxal synthase-like domain",2,10,3,432,0.00632804509963603,27.8374720995307,0.15466556572233

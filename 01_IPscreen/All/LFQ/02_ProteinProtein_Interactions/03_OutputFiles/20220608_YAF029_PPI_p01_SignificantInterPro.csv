@@ -1,0 +1,2 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF029","YDR050C;YHR179W;YKL060C;YKL182W;YKL216W;YLR354C;YLR432W","Gene3D","G3DSA:3.20.20.70","Aldolase class I","Aldolase-type TIM barrel",7,63,11,420,0.00690728209863727,4.22418579039955,0.444909010720246

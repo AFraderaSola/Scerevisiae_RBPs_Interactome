@@ -1,0 +1,5 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF025","YBL026W;YER112W;YJL124C;YLR438C-A;YNL147W","SMART","SM00651","Sm3","LSM domain, eukaryotic/archaea-type",5,44,6,449,0.00209940665776771,8.4314869685893,0.289402688448557
+"YAF025","YBL026W;YER112W;YJL124C;YLR438C-A;YNL147W","Pfam","PF01423","LSM domain","LSM domain, eukaryotic/archaea-type",5,80,6,1012,0.000772738588756267,10.4898630559561,0.280923517697869
+"YAF025","YBL026W;YER112W;YJL124C;YLR438C-A;YNL147W","SUPERFAMILY","SSF50182","Sm-like ribonucleoproteins","LSM domain superfamily",5,69,7,902,0.00110400592651967,9.29005871488764,0.280923517697869
+"YAF025","YBL026W;YER112W;YJL124C;YLR438C-A;YNL147W","Gene3D","G3DSA:2.30.30.100","-","-",5,71,7,906,0.0012161191242332,9.06971045877008,0.280923517697869

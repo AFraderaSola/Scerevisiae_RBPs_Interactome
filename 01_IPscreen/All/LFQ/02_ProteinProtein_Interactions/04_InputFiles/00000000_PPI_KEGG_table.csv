@@ -1,0 +1,49 @@
+"Stock","Gene","KEGG","GeneRatio"
+"YAF005","IST3","Proteasome",0.222222222222222
+"YAF005","IST3","Spliceosome",0.185185185185185
+"YAF007","HRB1","Ribosome",0.666666666666667
+"YAF008","CBC2","Spliceosome",0.523809523809524
+"YAF008","CBC2","Nucleocytoplasmic transport",0.19047619047619
+"YAF010","MTR4","Ribosome biogenesis in eukaryotes",0.285714285714286
+"YAF010","MTR4","RNA degradation",0.142857142857143
+"YAF011","LSM2","Spliceosome",0.439024390243902
+"YAF011","LSM2","RNA degradation",0.219512195121951
+"YAF013","SNP1","Spliceosome",0.636363636363636
+"YAF014","RPO21","RNA polymerase",0.5
+"YAF015","HSH49","Spliceosome",0.333333333333333
+"YAF016","RPB7","RNA polymerase",0.666666666666667
+"YAF017","STO1","Spliceosome",0.75
+"YAF019","SGN1","Glutathione metabolism",0.19047619047619
+"YAF019","SGN1","Pyrimidine metabolism",0.19047619047619
+"YAF019","SGN1","Metabolic pathways",0.761904761904762
+"YAF023","RRP40","RNA degradation",0.8
+"YAF025","DHH1","RNA degradation",0.317073170731707
+"YAF025","DHH1","Spliceosome",0.121951219512195
+"YAF026","DIS3","RNA degradation",0.25
+"YAF027","FAL1","Biosynthesis of secondary metabolites",0.64
+"YAF027","FAL1","Metabolic pathways",0.72
+"YAF027","FAL1","Biosynthesis of amino acids",0.4
+"YAF027","FAL1","Carbon metabolism",0.32
+"YAF027","FAL1","Purine metabolism",0.2
+"YAF027","FAL1","Glycine, serine and threonine metabolism",0.16
+"YAF028","NMD2","Nucleocytoplasmic transport",0.25
+"YAF029","UPF3","Glycolysis / Gluconeogenesis",0.276923076923077
+"YAF029","UPF3","Metabolic pathways",0.676923076923077
+"YAF029","UPF3","Biosynthesis of secondary metabolites",0.492307692307692
+"YAF029","UPF3","Biosynthesis of amino acids",0.292307692307692
+"YAF029","UPF3","Methane metabolism",0.107692307692308
+"YAF029","UPF3","Carbon metabolism",0.246153846153846
+"YAF029","UPF3","Purine metabolism",0.123076923076923
+"YAF029","UPF3","Aminoacyl-tRNA biosynthesis",0.107692307692308
+"YAF030","TIF4631","Ribosome biogenesis in eukaryotes",0.245614035087719
+"YAF030","TIF4631","Nucleocytoplasmic transport",0.157894736842105
+"YAF031","NAM7","Metabolic pathways",0.617647058823529
+"YAF031","NAM7","Biosynthesis of secondary metabolites",0.470588235294118
+"YAF031","NAM7","Carbon metabolism",0.220588235294118
+"YAF035","CFT1","mRNA surveillance pathway",1
+"YAF036","RNA14","mRNA surveillance pathway",0.6
+"YAF037","MPE1","Ribosome",0.467532467532468
+"YAF040","SUP35","mRNA surveillance pathway",0.378378378378378
+"YAF041","HBS1","mRNA surveillance pathway",0.28125
+"YAF042","MUD2","Ribosome",0.919642857142857
+"YAF043","PRP22","Biosynthesis of cofactors",0.5

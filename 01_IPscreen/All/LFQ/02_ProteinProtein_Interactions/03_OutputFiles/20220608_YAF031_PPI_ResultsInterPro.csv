@@ -1,0 +1,849 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF031","YAL035W;YDL145C;YDL182W;YDR194C;YDR214W;YDR233C;YER025W;YER036C;YER165W;YGR103W;YGR159C;YGR285C;YHL034C;YHR020W;YHR052W;YHR064C;YKL029C;YKR001C;YLR150W;YLR175W;YLR449W;YMR080C;YMR235C;YMR246W;YMR290C;YNL132W;YOL038W;YOR230W;YOR341W;YPL106C;YPR041W","MobiDBLite","mobidb-lite","consensus disorder prediction","-",31,0,259,0,1,0,1
+"YAF031","YBL099W;YJR121W","ProSitePatterns","PS00152","ATP synthase alpha and beta subunits signature.","ATPase, alpha/beta subunit, nucleotide-binding domain, active site",2,48,4,333,0.174780648938465,3.45199206549475,0.446070579052497
+"YAF031","YBR011C","ProSitePatterns","PS00387","Inorganic pyrophosphatase signature.","Inorganic pyrophosphatase",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YBR196C","ProSitePatterns","PS00174","Phosphoglucose isomerase signature 2.","Phosphoglucose isomerase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YBR196C","ProSitePatterns","PS00765","Phosphoglucose isomerase signature 1.","Phosphoglucose isomerase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YCL030C","ProSitePatterns","PS00611","Histidinol dehydrogenase signature.","Histidinol dehydrogenase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YCR012W","ProSitePatterns","PS00111","Phosphoglycerate kinase signature.","Phosphoglycerate kinase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YDL061C","ProSitePatterns","PS00527","Ribosomal protein S14 signature.","Ribosomal protein S14, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YDL145C;YMR146C","ProSitePatterns","PS00678","Trp-Asp (WD) repeats signature.","WD40 repeat, conserved site",2,48,9,328,0.426912751537449,1.51662354695617,0.483986648801814
+"YAF031","YDL182W","ProSitePatterns","PS00815","Alpha-isopropylmalate and homocitrate synthases signature 1.","Alpha-isopropylmalate/homocitrate synthase, conserved site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YDL182W","ProSitePatterns","PS00816","Alpha-isopropylmalate and homocitrate synthases signature 2.","Alpha-isopropylmalate/homocitrate synthase, conserved site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YDL208W","ProSitePatterns","PS01082","Ribosomal protein L7Ae signature.","Ribosomal protein L7Ae conserved site",1,49,3,334,0.426319314363054,2.26573516698061,0.483960881633026
+"YAF031","YDR050C","ProSitePatterns","PS00171","Triosephosphate isomerase active site.","Triosephosphate isomerase, active site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YDR194C;YKR059W;YMR290C","ProSitePatterns","PS00039","DEAD-box subfamily ATP-dependent helicases signature.","ATP-dependent RNA helicase DEAD-box, conserved site",3,47,10,327,0.228697195311709,2.08219612939481,0.446070579052497
+"YAF031","YDR353W","ProSitePatterns","PS00573","Pyridine nucleotide-disulphide oxidoreductases class-II active site.","Pyridine nucleotide-disulphide oxidoreductase, class-II, active site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YER036C","ProSitePatterns","PS00211","ABC transporters family signature.","ABC transporter, conserved site",1,49,7,330,0.672942757913558,0.962190213568619,0.685883964796511
+"YAF031","YER086W","ProSitePatterns","PS00165","Serine/threonine dehydratases pyridoxal-phosphate attachment site.","Serine/threonine dehydratase, pyridoxal-phosphate-binding site",1,49,3,334,0.426319314363054,2.26573516698061,0.483960881633026
+"YAF031","YGL026C","ProSitePatterns","PS00167","Tryptophan synthase alpha chain signature.","Tryptophan synthase, alpha chain, active site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YGL026C","ProSitePatterns","PS00168","Tryptophan synthase beta chain pyridoxal-phosphate attachment site.","Tryptophan synthase, beta chain, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YGL234W","ProSitePatterns","PS00184","Phosphoribosylglycinamide synthetase signature.","Phosphoribosylglycinamide synthetase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YGL245W","ProSitePatterns","PS00178","Aminoacyl-transfer RNA synthetases class-I signature.","Aminoacyl-tRNA synthetase, class I, conserved site",1,49,7,330,0.672942757913558,0.962190213568619,0.685883964796511
+"YAF031","YGL253W","ProSitePatterns","PS00378","Hexokinase domain signature.","Hexokinase, binding site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YGR155W","ProSitePatterns","PS00901","Cysteine synthase/cystathionine beta-synthase P-phosphate attachment site.","Cysteine synthase/cystathionine beta-synthase, pyridoxal-phosphate attachment site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YGR180C;YJL026W","ProSitePatterns","PS00368","Ribonucleotide reductase small subunit signature.","Ribonucleotide reductase small subunit, acitve site",2,48,2,335,0.0827979457181771,6.91851338671801,0.446070579052497
+"YAF031","YGR192C;YJR009C","ProSitePatterns","PS00071","Glyceraldehyde 3-phosphate dehydrogenase active site.","Glyceraldehyde 3-phosphate dehydrogenase, active site",2,48,2,335,0.0827979457181771,6.91851338671801,0.446070579052497
+"YAF031","YGR240C","ProSitePatterns","PS00433","Phosphofructokinase signature.","Phosphofructokinase, conserved site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YGR285C","ProSitePatterns","PS00636","Nt-dnaJ domain signature.","DnaJ domain, conserved site",1,49,4,333,0.501212354263439,1.69617478634455,0.54074818882366
+"YAF031","YHR174W","ProSitePatterns","PS00164","Enolase signature.","Enolase, conserved site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YHR183W","ProSitePatterns","PS00461","6-phosphogluconate dehydrogenase signature.","6-phosphogluconate-binding site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YHR208W","ProSitePatterns","PS00770","Aminotransferases class-IV signature.","Aminotransferase, class IV, conserved site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YJL014W","ProSitePatterns","PS00750","Chaperonins TCP-1 signature 1.","Chaperonin TCP-1, conserved site",1,49,7,330,0.672942757913558,0.962190213568619,0.685883964796511
+"YAF031","YJL014W","ProSitePatterns","PS00751","Chaperonins TCP-1 signature 2.","Chaperonin TCP-1, conserved site",1,49,7,330,0.672942757913558,0.962190213568619,0.685883964796511
+"YAF031","YJL014W","ProSitePatterns","PS00995","Chaperonins TCP-1 signature 3.","Chaperonin TCP-1, conserved site",1,49,8,329,0.716090151328655,0.839648718029883,0.726368957328588
+"YAF031","YJR016C","ProSitePatterns","PS00886","Dihydroxy-acid and 6-phosphogluconate dehydratases signature 1.","Dihydroxy-acid/6-phosphogluconate dehydratase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YJR016C","ProSitePatterns","PS00887","Dihydroxy-acid and 6-phosphogluconate dehydratases signature 2.","Dihydroxy-acid/6-phosphogluconate dehydratase, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YJR109C","ProSitePatterns","PS00866","Carbamoyl-phosphate synthase subdomain signature 1.","Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain",1,49,5,332,0.566498695328434,1.35391466761024,0.592343888580163
+"YAF031","YJR109C","ProSitePatterns","PS00867","Carbamoyl-phosphate synthase subdomain signature 2.","Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain",1,49,5,332,0.566498695328434,1.35391466761024,0.592343888580163
+"YAF031","YKL029C","ProSitePatterns","PS00331","Malic enzymes signature.","Malic enzyme, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YKL196C","ProSitePatterns","PS00417","Synaptobrevin signature.","Synaptobrevin",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YKR001C","ProSitePatterns","PS00410","Dynamin-type guanine nucleotide-binding (G) domain signature.","Dynamin, GTPase region, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YLR058C","ProSitePatterns","PS00096","Serine hydroxymethyltransferase pyridoxal-phosphate attachment site.","Serine hydroxymethyltransferase, pyridoxal phosphate binding site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YLR259C","ProSitePatterns","PS00296","Chaperonins cpn60 signature.","Chaperonin Cpn60, conserved site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YLR354C","ProSitePatterns","PS00958","Transaldolase active site.","Transaldolase, active site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YLR354C","ProSitePatterns","PS01054","Transaldolase signature 1.","Transaldolase, active site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YLR359W","ProSitePatterns","PS00163","Fumarate lyases signature.","Fumarate lyase, conserved site",1,49,3,334,0.426319314363054,2.26573516698061,0.483960881633026
+"YAF031","YLR432W","ProSitePatterns","PS00487","IMP dehydrogenase / GMP reductase signature.","IMP dehydrogenase / GMP reductase, conserved site",1,49,3,334,0.426319314363054,2.26573516698061,0.483960881633026
+"YAF031","YML085C","ProSitePatterns","PS00227","Tubulin subunits alpha, beta, and gamma signature.","Tubulin, conserved site",1,49,2,335,0.340438972201835,3.4022771041433,0.453206041486902
+"YAF031","YML126C","ProSitePatterns","PS01226","Hydroxymethylglutaryl-coenzyme A synthase active site.","Hydroxymethylglutaryl-coenzyme A synthase, active site",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YMR083W","ProSitePatterns","PS00059","Zinc-containing alcohol dehydrogenases signature.","Alcohol dehydrogenase, zinc-type, conserved site",1,49,3,334,0.426319314363054,2.26573516698061,0.483960881633026
+"YAF031","YMR246W","ProSitePatterns","PS00455","Putative AMP-binding domain signature.","AMP-binding, conserved site",1,49,3,334,0.426319314363054,2.26573516698061,0.483960881633026
+"YAF031","YOL038W","ProSitePatterns","PS00388","Proteasome alpha-type subunits signature.","Proteasome alpha-subunit, N-terminal domain",1,49,5,332,0.566498695328434,1.35391466761024,0.592343888580163
+"YAF031","YOL038W","ProSitePatterns","PS00854","Proteasome beta-type subunits signature.","Proteasome beta-type subunit, conserved site",1,49,4,333,0.501212354263439,1.69617478634455,0.54074818882366
+"YAF031","YOL059W","ProSitePatterns","PS00957","NAD-dependent glycerol-3-phosphate dehydrogenase signature.","Glycerol-3-phosphate dehydrogenase, NAD-dependent",1,49,1,336,0.241997027754348,6.79737918503151,0.446070579052497
+"YAF031","YPL106C","ProSitePatterns","PS00329","Heat shock hsp70 proteins family signature 2.","Heat shock protein 70, conserved site",1,49,6,331,0.623388630324702,1.12545950479289,0.641545580722509
+"YAF031","YPL106C","ProSitePatterns","PS01036","Heat shock hsp70 proteins family signature 3.","Heat shock protein 70, conserved site",1,49,6,331,0.623388630324702,1.12545950479289,0.641545580722509
+"YAF031","YAL035W;YER025W;YOR335C","SUPERFAMILY","SSF50447","Translation proteins","Translation protein, beta-barrel domain superfamily",3,79,9,563,0.181685275129167,2.37137985186854,0.446070579052497
+"YAF031","YAL035W","SUPERFAMILY","SSF52156","Initiation factor IF2/eIF5b, domain 3","Translation initiation factor IF-2, domain 3 superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YAL035W;YBL039C;YBL099W;YDL192W;YDR194C;YER025W;YER036C;YJR121W;YKR001C;YKR059W;YLR293C;YMR080C;YMR290C","SUPERFAMILY","SSF52540","P-loop containing nucleoside triphosphate hydrolases","P-loop containing nucleoside triphosphate hydrolase",13,69,77,495,0.329251152408048,1.21080647278362,0.446070579052497
+"YAF031","YBL039C;YMR217W","SUPERFAMILY","SSF52317","Class I glutamine amidotransferase-like","Class I glutamine amidotransferase-like",2,80,6,566,0.26459615711851,2.35409285042783,0.446070579052497
+"YAF031","YBL099W;YJR121W","SUPERFAMILY","SSF47917","C-terminal domain of alpha and beta subunits of F1 ATP synthase","-",2,80,3,569,0.120723951045906,4.72347932866442,0.446070579052497
+"YAF031","YBL099W;YJR121W","SUPERFAMILY","SSF50615","N-terminal domain of alpha and beta subunits of F1 ATP synthase","ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain superfamily",2,80,3,569,0.120723951045906,4.72347932866442,0.446070579052497
+"YAF031","YBR011C","SUPERFAMILY","SSF50324","Inorganic pyrophosphatase","Inorganic pyrophosphatase superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YBR121C;YHR020W","SUPERFAMILY","SSF52954","Class II aaRS ABD-related","-",2,80,5,567,0.215120597968228,2.82858282204734,0.446070579052497
+"YAF031","YBR121C;YHR019C;YHR020W;YOR335C","SUPERFAMILY","SSF55681","Class II aaRS and biotin synthetases","-",4,78,11,561,0.106340937852273,2.61009182837823,0.446070579052497
+"YAF031","YBR196C","SUPERFAMILY","SSF53697","SIS domain","-",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YBR249C;YDL182W;YLR354C","SUPERFAMILY","SSF51569","Aldolase","-",3,79,8,564,0.149176526104185,2.6716052354131,0.446070579052497
+"YAF031","YCL030C","SUPERFAMILY","SSF101386","all-alpha NTP pyrophosphatases","-",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YCL030C","SUPERFAMILY","SSF141734","HisI-like","Phosphoribosyl-AMP cyclohydrolase domain superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YCL030C","SUPERFAMILY","SSF53720","ALDH-like","Aldehyde/histidinol dehydrogenase",1,81,4,568,0.489336609605393,1.75124432351553,0.529605010899351
+"YAF031","YCR012W","SUPERFAMILY","SSF53748","Phosphoglycerate kinase","Phosphoglycerate kinase superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YDL145C","SUPERFAMILY","SSF50969","YVTN repeat-like/Quinoprotein amine dehydrogenase","Quinoprotein amine dehydrogenase, beta chain-like",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YDL145C;YMR146C;YOR230W","SUPERFAMILY","SSF50978","WD40 repeat-like","WD40-repeat-containing domain superfamily",3,79,13,559,0.324249524728329,1.63145361180849,0.446070579052497
+"YAF031","YDL208W","SUPERFAMILY","SSF55315","L30e-like","50S ribosomal protein L30e-like",1,81,6,566,0.61031426179826,1.16430713004365,0.629618605845407
+"YAF031","YDR050C","SUPERFAMILY","SSF51351","Triosephosphate isomerase (TIM)","Triosephosphate isomerase superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YDR101C","SUPERFAMILY","SSF55920","Creatinase/aminopeptidase","Creatinase/aminopeptidase-like",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YDR214W","SUPERFAMILY","SSF103111","Activator of Hsp90 ATPase, Aha1","Activator of Hsp90 ATPase, Aha1",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YDR214W","SUPERFAMILY","SSF55961","Bet v1-like","-",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YDR353W;YGR175C","SUPERFAMILY","SSF51905","FAD/NAD(P)-binding domain","FAD/NAD(P)-binding domain superfamily",2,80,5,567,0.215120597968228,2.82858282204734,0.446070579052497
+"YAF031","YER025W","SUPERFAMILY","SSF50465","EF-Tu/eEF-1alpha/eIF2-gamma C-terminal domain","Translation elongation factor EF1A/initiation factor IF2gamma, C-terminal",1,81,4,568,0.489336609605393,1.75124432351553,0.529605010899351
+"YAF031","YER086W;YGL026C;YGR155W","SUPERFAMILY","SSF53686","Tryptophan synthase beta subunit-like PLP-dependent enzymes","Tryptophan synthase beta subunit-like PLP-dependent enzyme",3,79,5,567,0.066693920517381,4.29139316201119,0.446070579052497
+"YAF031","YER086W","SUPERFAMILY","SSF55021","ACT-like","-",1,81,4,568,0.489336609605393,1.75124432351553,0.529605010899351
+"YAF031","YER165W;YGR159C;YHL034C","SUPERFAMILY","SSF54928","RNA-binding domain, RBD","RNA-binding domain superfamily",3,79,13,559,0.324249524728329,1.63145361180849,0.446070579052497
+"YAF031","YER165W","SUPERFAMILY","SSF63570","PABC (PABP) domain","PABC (PABP) domain",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YGL026C","SUPERFAMILY","SSF51366","Ribulose-phoshate binding barrel","Ribulose-phosphate binding barrel",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YGL234W","SUPERFAMILY","SSF51246","Rudiment single hybrid motif","Rudiment single hybrid motif",1,81,5,567,0.553858024108256,1.39918233828162,0.582719112213152
+"YAF031","YGL234W;YJR109C","SUPERFAMILY","SSF52440","PreATP-grasp domain","Pre-ATP-grasp domain superfamily",2,80,8,564,0.3629584927037,1.76063349709876,0.464937767088728
+"YAF031","YGL234W","SUPERFAMILY","SSF55326","PurM N-terminal domain-like","PurM-like, N-terminal domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YGL234W","SUPERFAMILY","SSF56042","PurM C-terminal domain-like","PurM-like, C-terminal domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YGL234W;YJR109C","SUPERFAMILY","SSF56059","Glutathione synthetase ATP-binding domain-like","-",2,80,9,563,0.410465596392481,1.56263027269917,0.478272704626479
+"YAF031","YGL245W","SUPERFAMILY","SSF47616","GST C-terminal domain-like","Glutathione S-transferase, C-terminal domain superfamily",1,81,5,567,0.553858024108256,1.39918233828162,0.582719112213152
+"YAF031","YGL245W","SUPERFAMILY","SSF50715","Ribosomal protein L25-like","Ribosomal protein L25/Gln-tRNA synthetase, anti-codon-binding domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YGL245W;YPL160W","SUPERFAMILY","SSF52374","Nucleotidylyl transferase","-",2,80,10,562,0.456221660645144,1.40417189597273,0.504813815920345
+"YAF031","YGL253W;YHR064C;YPL106C","SUPERFAMILY","SSF53067","Actin-like ATPase domain","ATPase, nucleotide binding domain",3,79,10,562,0.215895416626486,2.13097821626817,0.446070579052497
+"YAF031","YGR103W","SUPERFAMILY","SSF52113","BRCT domain","BRCT domain superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YGR155W;YLR432W","SUPERFAMILY","SSF54631","CBS-domain pair","-",2,80,4,568,0.166729537091081,3.53925202111297,0.446070579052497
+"YAF031","YGR180C;YJL026W","SUPERFAMILY","SSF47240","Ferritin-like","Ferritin-like superfamily",2,80,2,570,0.078744864447216,7.08720450515802,0.446070579052497
+"YAF031","YGR192C;YHR183W;YJR009C;YKL029C;YLR355C;YMR083W;YOL059W","SUPERFAMILY","SSF51735","NAD(P)-binding Rossmann-fold domains","NAD(P)-binding domain superfamily",7,75,26,546,0.10567080468914,1.9575447036662,0.446070579052497
+"YAF031","YGR192C;YJR009C","SUPERFAMILY","SSF55347","Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain","-",2,80,5,567,0.215120597968228,2.82858282204734,0.446070579052497
+"YAF031","YGR234W","SUPERFAMILY","SSF46458","Globin-like","Globin-like superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YGR234W","SUPERFAMILY","SSF52343","Ferredoxin reductase-like, C-terminal NADP-linked domain","Ferredoxin-NADP reductase (FNR), nucleotide-binding domain",1,81,4,568,0.489336609605393,1.75124432351553,0.529605010899351
+"YAF031","YGR234W","SUPERFAMILY","SSF63380","Riboflavin synthase domain-like","Riboflavin synthase-like beta-barrel",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YGR240C","SUPERFAMILY","SSF53784","Phosphofructokinase","Phosphofructokinase superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YGR285C","SUPERFAMILY","SSF46565","Chaperone J-domain","Chaperone J-domain superfamily",1,81,4,568,0.489336609605393,1.75124432351553,0.529605010899351
+"YAF031","YHR019C","SUPERFAMILY","SSF50249","Nucleic acid-binding proteins","Nucleic acid-binding, OB-fold",1,81,13,559,0.849802377266728,0.531273746391421,0.853829876685054
+"YAF031","YHR020W","SUPERFAMILY","SSF55826","YbaK/ProRS associated domain","YbaK/aminoacyl-tRNA synthetase-associated domain superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YHR020W","SUPERFAMILY","SSF64586","C-terminal domain of ProRS","Prolyl-tRNA synthetase, class II",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YHR052W","SUPERFAMILY","SSF56808","Ribosomal protein L1","Ribosomal protein L1-like",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YHR064C;YPL106C","SUPERFAMILY","SSF100920","Heat shock protein 70kD (HSP70), peptide-binding domain","Heat shock protein 70kD, peptide-binding domain superfamily",2,80,7,565,0.314137362742676,2.01513096864263,0.446070579052497
+"YAF031","YHR174W","SUPERFAMILY","SSF51604","Enolase C-terminal domain-like","Enolase-like, C-terminal domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YHR174W","SUPERFAMILY","SSF54826","Enolase N-terminal domain-like","Enolase-like, N-terminal",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YHR183W;YLR355C;YOL059W","SUPERFAMILY","SSF48179","6-phosphogluconate dehydrogenase C-terminal domain-like","6-phosphogluconate dehydrogenase-like, C-terminal domain superfamily",3,79,4,568,0.045751884898214,5.36923441814039,0.446070579052497
+"YAF031","YHR208W","SUPERFAMILY","SSF56752","D-aminoacid aminotransferase-like PLP-dependent enzymes","Aminotransferase-like, PLP-dependent enzymes",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YIL053W","SUPERFAMILY","SSF56784","HAD-like","HAD-like superfamily",1,81,9,563,0.740669292402157,0.77256869949375,0.74772328566313
+"YAF031","YJL014W;YLR259C","SUPERFAMILY","SSF48592","GroEL equatorial domain-like","GroEL-like equatorial domain superfamily",2,80,9,563,0.410465596392481,1.56263027269917,0.478272704626479
+"YAF031","YJL014W;YLR259C","SUPERFAMILY","SSF52029","GroEL apical domain-like","GroEL-like apical domain superfamily",2,80,9,563,0.410465596392481,1.56263027269917,0.478272704626479
+"YAF031","YJL014W;YLR259C","SUPERFAMILY","SSF54849","GroEL-intermediate domain like","TCP-1-like chaperonin intermediate domain superfamily",2,80,9,563,0.410465596392481,1.56263027269917,0.478272704626479
+"YAF031","YJR016C","SUPERFAMILY","SSF143975","IlvD/EDD N-terminal domain-like","IlvD/EDD, N-terminal domain",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YJR016C","SUPERFAMILY","SSF52016","LeuD/IlvD-like","-",1,81,5,567,0.553858024108256,1.39918233828162,0.582719112213152
+"YAF031","YJR109C","SUPERFAMILY","SSF48108","Carbamoyl phosphate synthetase, large subunit connection domain","Carbamoyl-phosphate synthetase, large subunit oligomerisation domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YJR109C;YMR120C","SUPERFAMILY","SSF52335","Methylglyoxal synthase-like","Methylglyoxal synthase-like domain superfamily",2,80,4,568,0.166729537091081,3.53925202111297,0.446070579052497
+"YAF031","YKL029C","SUPERFAMILY","SSF53223","Aminoacid dehydrogenase-like, N-terminal domain","-",1,81,7,565,0.659702562466796,0.996478012178591,0.675637406970825
+"YAF031","YKL196C","SUPERFAMILY","SSF58038","SNARE fusion complex","-",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YKL196C","SUPERFAMILY","SSF64356","SNARE-like","Longin-like domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YLR058C","SUPERFAMILY","SSF53383","PLP-dependent transferases","Pyridoxal phosphate-dependent transferase",1,81,11,561,0.802550389399305,0.630006632756343,0.808269275784573
+"YAF031","YLR175W","SUPERFAMILY","SSF55120","Pseudouridine synthase","Pseudouridine synthase, catalytic domain superfamily",1,81,4,568,0.489336609605393,1.75124432351553,0.529605010899351
+"YAF031","YLR175W","SUPERFAMILY","SSF88697","PUA domain-like","PUA-like superfamily",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YLR359W","SUPERFAMILY","SSF48557","L-aspartase-like","L-Aspartase-like",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YLR432W","SUPERFAMILY","SSF51412","Inosine monophosphate dehydrogenase (IMPDH)","-",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YLR449W","SUPERFAMILY","SSF54534","FKBP-like","-",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YML085C","SUPERFAMILY","SSF52490","Tubulin nucleotide-binding domain-like","Tubulin/FtsZ, GTPase domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YML085C","SUPERFAMILY","SSF55307","Tubulin C-terminal domain-like","Tubulin/FtsZ, C-terminal",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YML126C","SUPERFAMILY","SSF53901","Thiolase-like","Thiolase-like",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YMR083W","SUPERFAMILY","SSF50129","GroES-like","GroES-like superfamily",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YMR120C","SUPERFAMILY","SSF53927","Cytidine deaminase-like","Cytidine deaminase-like",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YMR217W;YPR145W","SUPERFAMILY","SSF52402","Adenine nucleotide alpha hydrolases-like","-",2,80,4,568,0.166729537091081,3.53925202111297,0.446070579052497
+"YAF031","YMR217W","SUPERFAMILY","SSF54810","GMP synthetase C-terminal dimerisation domain","-",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YMR235C","SUPERFAMILY","SSF52047","RNI-like","-",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YMR246W","SUPERFAMILY","SSF56801","Acetyl-CoA synthetase-like","-",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YOL038W;YPR145W","SUPERFAMILY","SSF56235","N-terminal nucleophile aminohydrolases (Ntn hydrolases)","Nucleophile aminohydrolases, N-terminal",2,80,12,560,0.54134643648355,1.16635872904571,0.5731108341299
+"YAF031","YOR335C","SUPERFAMILY","SSF101353","Putative anticodon-binding domain of alanyl-tRNA synthetase (AlaRS)","Alanine-tRNA ligase, class IIc, anti-codon-binding domain superfamily",1,81,1,571,0.235211749113712,7.0123949302478,0.446070579052497
+"YAF031","YOR335C","SUPERFAMILY","SSF55186","ThrRS/AlaRS common domain","Threonyl/alanyl tRNA synthetase, class II-like, putative editing domain superfamily",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YOR341W","SUPERFAMILY","SSF64484","beta and beta-prime subunits of DNA dependent RNA-polymerase","-",1,81,6,566,0.61031426179826,1.16430713004365,0.629618605845407
+"YAF031","YPL106C","SUPERFAMILY","SSF100934","Heat shock protein 70kD (HSP70), C-terminal subdomain","Heat shock protein 70kD, C-terminal domain superfamily",1,81,6,566,0.61031426179826,1.16430713004365,0.629618605845407
+"YAF031","YPL160W","SUPERFAMILY","SSF47323","Anticodon-binding domain of a subclass of class I aminoacyl-tRNA synthetases","Aminoacyl-tRNA synthetase, class Ia, anticodon-binding",1,81,6,566,0.61031426179826,1.16430713004365,0.629618605845407
+"YAF031","YPL160W","SUPERFAMILY","SSF50677","ValRS/IleRS/LeuRS editing domain","Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain",1,81,3,569,0.415614077893496,2.33746352729079,0.478272704626479
+"YAF031","YPR041W","SUPERFAMILY","SSF100966","Translation initiation factor 2 beta, aIF2beta, N-terminal domain","Translation initiation factor IF2/IF5, N-terminal",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YPR041W","SUPERFAMILY","SSF48371","ARM repeat","Armadillo-type fold",1,81,26,546,0.975186996684073,0.259592942420794,0.97749240329562
+"YAF031","YPR041W","SUPERFAMILY","SSF75689","Zinc-binding domain of translation initiation factor 2 beta","Translation initiation factor IF2/IF5, zinc-binding",1,81,2,570,0.331396774531926,3.50799127674313,0.446070579052497
+"YAF031","YAL035W;YER025W","Pfam","PF00009","Elongation factor Tu GTP binding domain","Translational (tr)-type GTP-binding domain",2,85,6,638,0.244603776828246,2.49749704502211,0.446070579052497
+"YAF031","YAL035W;YER025W","Pfam","PF03144","Elongation factor Tu domain 2","Translation elongation factor EFTu-like, domain 2",2,85,6,638,0.244603776828246,2.49749704502211,0.446070579052497
+"YAF031","YAL035W","Pfam","PF11987","Translation-initiation factor 2","Translation initiation factor IF- 2, domain 3",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YBL039C;YMR217W","Pfam","PF00117","Glutamine amidotransferase class-I","Glutamine amidotransferase",2,85,5,639,0.198083774814736,3.00045734010152,0.446070579052497
+"YAF031","YBL039C","Pfam","PF06418","CTP synthase N-terminus","CTP synthase, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YBL099W;YJR121W","Pfam","PF00006","ATP synthase alpha/beta family, nucleotide-binding domain","ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain",2,85,4,640,0.152905395931059,3.75406846304209,0.446070579052497
+"YAF031","YBL099W","Pfam","PF00306","ATP synthase alpha/beta chain, C terminal domain","ATP synthase, alpha subunit, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YBL099W;YJR121W","Pfam","PF02874","ATP synthase alpha/beta family, beta-barrel domain","ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain",2,85,4,640,0.152905395931059,3.75406846304209,0.446070579052497
+"YAF031","YBR011C","Pfam","PF00719","Inorganic pyrophosphatase","Inorganic pyrophosphatase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YBR121C;YHR020W","Pfam","PF03129","Anticodon binding domain","Anticodon-binding",2,85,4,640,0.152905395931059,3.75406846304209,0.446070579052497
+"YAF031","YBR196C","Pfam","PF00342","Phosphoglucose isomerase","Phosphoglucose isomerase (PGI)",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YBR249C","Pfam","PF00793","DAHP synthetase I family","DAHP synthetase I/KDSA",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YCL030C","Pfam","PF00815","Histidinol dehydrogenase","Histidinol dehydrogenase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YCL030C","Pfam","PF01502","Phosphoribosyl-AMP cyclohydrolase","Phosphoribosyl-AMP cyclohydrolase domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YCL030C","Pfam","PF01503","Phosphoribosyl-ATP pyrophosphohydrolase","Phosphoribosyl-ATP pyrophosphohydrolase-like",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YCR012W","Pfam","PF00162","Phosphoglycerate kinase","Phosphoglycerate kinase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YDL061C","Pfam","PF00253","Ribosomal protein S14p/S29e","Ribosomal protein S14",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YDL145C;YMR146C","Pfam","PF00400","WD domain, G-beta repeat","WD40 repeat",2,85,11,633,0.470594965785426,1.35338086973008,0.516922967598499
+"YAF031","YDL145C","Pfam","PF04053","Coatomer WD associated region","Coatomer, WD associated region",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YDL145C","Pfam","PF06957","Coatomer (COPI) alpha subunit C-terminus","Coatomer, alpha subunit, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YDL182W","Pfam","PF00682","HMGL-like","Pyruvate carboxyltransferase",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YDL192W","Pfam","PF00025","ADP-ribosylation factor family","Small GTPase superfamily, ARF/SAR type",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YDL208W","Pfam","PF01248","Ribosomal protein L7Ae/L30e/S12e/Gadd45 family","Ribosomal protein L7Ae/L30e/S12e/Gadd45",1,86,5,639,0.533769636520195,1.48510809010118,0.566818225671598
+"YAF031","YDR050C","Pfam","PF00121","Triosephosphate isomerase","Triosephosphate isomerase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YDR101C","Pfam","PF00557","Metallopeptidase family M24","Peptidase M24",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YDR194C;YKR059W;YMR290C","Pfam","PF00270","DEAD/DEAH box helicase","DEAD/DEAH box helicase domain",3,84,17,627,0.432353380424851,1.31667707374764,0.488847555467032
+"YAF031","YDR194C;YKR059W;YMR290C","Pfam","PF00271","Helicase conserved C-terminal domain","Helicase, C-terminal",3,84,17,627,0.432353380424851,1.31667707374764,0.488847555467032
+"YAF031","YDR214W","Pfam","PF08327","Activator of Hsp90 ATPase homolog 1-like protein","Activator of Hsp90 ATPase homologue 1-like",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YDR214W","Pfam","PF09229","Activator of Hsp90 ATPase, N-terminal","Activator of Hsp90 ATPase, N-terminal",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YDR233C","Pfam","PF02453","Reticulon","Reticulon",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YDR353W","Pfam","PF07992","Pyridine nucleotide-disulphide oxidoreductase","FAD/NAD(P)-binding domain",1,86,4,640,0.470292263088672,1.85844010062744,0.516922967598499
+"YAF031","YER025W","Pfam","PF09173","Initiation factor eIF2 gamma, C terminal","Initiation factor eIF2 gamma, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YER036C","Pfam","PF00005","ABC transporter","ABC transporter-like",1,86,7,637,0.63901920918199,1.05807159386274,0.655245815461097
+"YAF031","YER036C","Pfam","PF12848","ABC transporter","ABC-transporter extension domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YER086W;YGL026C;YGR155W","Pfam","PF00291","Pyridoxal-phosphate dependent enzyme","Pyridoxal-phosphate dependent enzyme",3,84,5,639,0.0585237687742066,4.54900017715692,0.446070579052497
+"YAF031","YER086W","Pfam","PF00585","C-terminal regulatory domain of Threonine dehydratase","Threonine dehydratase, ACT-like domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YER165W;YGR159C;YHL034C","Pfam","PF00076","RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)","RNA recognition motif domain",3,84,12,632,0.260277278854378,1.87883225170478,0.446070579052497
+"YAF031","YER165W","Pfam","PF00658","Poly-adenylate binding protein, unique domain","Polyadenylate-binding protein/Hyperplastic disc protein",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL026C","Pfam","PF00290","Tryptophan synthase alpha chain","Tryptophan synthase, alpha chain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL234W","Pfam","PF00586","AIR synthase related protein, N-terminal domain","PurM-like, N-terminal domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL234W","Pfam","PF01071","Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain","Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL234W","Pfam","PF02769","AIR synthase related protein, C-terminal domain","PurM-like, C-terminal domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YGL234W","Pfam","PF02843","Phosphoribosylglycinamide synthetase, C domain","Phosphoribosylglycinamide synthetase, C-domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL234W","Pfam","PF02844","Phosphoribosylglycinamide synthetase, N domain","Phosphoribosylglycinamide synthetase, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL245W","Pfam","PF00749","tRNA synthetases class I (E and Q), catalytic domain","Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YGL245W","Pfam","PF03950","tRNA synthetases class I (E and Q), anti-codon binding domain","Glutamyl/glutaminyl-tRNA synthetase, class Ib, anti-codon binding domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YGL253W","Pfam","PF00349","Hexokinase","Hexokinase, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGL253W","Pfam","PF03727","Hexokinase","Hexokinase, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGR103W","Pfam","PF06732","Pescadillo N-terminus","Pescadillo",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGR103W","Pfam","PF16589","BRCT domain, a BRCA1 C-terminus domain","BRCT domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGR155W;YLR432W","Pfam","PF00571","CBS domain","CBS domain",2,85,4,640,0.152905395931059,3.75406846304209,0.446070579052497
+"YAF031","YGR175C","Pfam","PF08491","Squalene epoxidase","Squalene epoxidase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGR180C;YJL026W","Pfam","PF00268","Ribonucleotide reductase, small chain","Ribonucleotide reductase small subunit family",2,85,2,642,0.0716130753645303,7.51495258700859,0.446070579052497
+"YAF031","YGR192C;YJR009C","Pfam","PF00044","Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain","Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain",2,85,2,642,0.0716130753645303,7.51495258700859,0.446070579052497
+"YAF031","YGR192C;YJR009C","Pfam","PF02800","Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain","Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain",2,85,2,642,0.0716130753645303,7.51495258700859,0.446070579052497
+"YAF031","YGR234W","Pfam","PF00042","Globin","Globin",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGR234W","Pfam","PF00970","Oxidoreductase FAD-binding domain","Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YGR240C","Pfam","PF00365","Phosphofructokinase","Phosphofructokinase domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YGR240C","Pfam","PF18468","Phosphofructokinase N-terminal domain yeast","Phosphofructokinase, N-terminal domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YGR285C","Pfam","PF00226","DnaJ domain","DnaJ domain",1,86,4,640,0.470292263088672,1.85844010062744,0.516922967598499
+"YAF031","YGR285C","Pfam","PF16717","Ribosome-associated complex head domain","Ribosome-associated complex head domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YHR019C","Pfam","PF00152","tRNA synthetases class II (D, K and N)","Aminoacyl-tRNA synthetase, class II (D/K/N)",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YHR019C","Pfam","PF01336","OB-fold nucleic acid binding domain","OB-fold nucleic acid binding domain, AA-tRNA synthetase-type",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YHR020W","Pfam","PF00587","tRNA synthetase class II core domain (G, H, P, S and T)","Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YHR020W","Pfam","PF09180","Prolyl-tRNA synthetase, C-terminal","Proline-tRNA ligase, class II, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YHR052W","Pfam","PF00687","Ribosomal protein L1p/L10e family","Ribosomal protein L1/ribosomal biogenesis protein",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YHR064C;YPL106C","Pfam","PF00012","Hsp70 protein","Heat shock protein 70 family",2,85,7,637,0.291519028809465,2.13825896709312,0.446070579052497
+"YAF031","YHR174W","Pfam","PF00113","Enolase, C-terminal TIM barrel domain","Enolase, C-terminal TIM barrel domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YHR174W","Pfam","PF03952","Enolase, N-terminal domain","Enolase, N-terminal",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YHR183W","Pfam","PF00393","6-phosphogluconate dehydrogenase, C-terminal domain","6-phosphogluconate dehydrogenase, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YHR183W","Pfam","PF03446","NAD binding domain of 6-phosphogluconate dehydrogenase","6-phosphogluconate dehydrogenase, NADP-binding",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YHR208W","Pfam","PF01063","Amino-transferase class IV","Aminotransferase class IV",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YIL053W","Pfam","PF13419","Haloacid dehalogenase-like hydrolase","Haloacid dehalogenase-like hydrolase",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YJL014W;YLR259C","Pfam","PF00118","TCP-1/cpn60 chaperonin family","Chaperonin Cpn60/TCP-1 family",2,85,9,635,0.383725280013493,1.65874224080279,0.478272704626479
+"YAF031","YJR016C","Pfam","PF00920","Dehydratase family","Dihydroxy-acid/6-phosphogluconate dehydratase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YJR109C;YMR120C","Pfam","PF02142","MGS-like domain","Methylglyoxal synthase-like domain",2,85,4,640,0.152905395931059,3.75406846304209,0.446070579052497
+"YAF031","YJR109C","Pfam","PF02786","Carbamoyl-phosphate synthase L chain, ATP binding domain","Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain",1,86,5,639,0.533769636520195,1.48510809010118,0.566818225671598
+"YAF031","YJR109C","Pfam","PF02787","Carbamoyl-phosphate synthetase large chain, oligomerisation domain","Carbamoyl-phosphate synthetase, large subunit oligomerisation domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YKL029C","Pfam","PF00390","Malic enzyme, N-terminal domain","Malic enzyme, N-terminal domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKL029C","Pfam","PF03949","Malic enzyme, NAD binding domain","Malic enzyme, NAD-binding",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKL142W","Pfam","PF07957","Protein of unknown function (DUF3294)","Protein of unknown function DUF3294",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKL196C","Pfam","PF00957","Synaptobrevin","Synaptobrevin",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKL196C","Pfam","PF13774","Regulated-SNARE-like domain","Longin domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKR001C","Pfam","PF00350","Dynamin family","Dynamin superfamily",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKR001C","Pfam","PF01031","Dynamin central region","Dynamin stalk domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YKR001C","Pfam","PF02212","Dynamin GTPase effector domain","Dynamin GTPase effector",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR058C","Pfam","PF00464","Serine hydroxymethyltransferase","Serine hydroxymethyltransferase-like domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YLR150W","Pfam","PF09598","Stm1","Stm1-like, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR175W","Pfam","PF01472","PUA domain","PUA domain",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YLR175W","Pfam","PF01509","TruB family pseudouridylate synthase (N terminal domain)","Pseudouridine synthase II, N-terminal",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YLR175W","Pfam","PF08068","DKCLD (NUC011) domain","Dyskerin-like",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR175W","Pfam","PF16198","tRNA pseudouridylate synthase B C-terminal domain","tRNA pseudouridylate synthase B, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR293C","Pfam","PF00071","Ras family","Small GTPase",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YLR354C","Pfam","PF00923","Transaldolase/Fructose-6-phosphate aldolase","Transaldolase/Fructose-6-phosphate aldolase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR355C","Pfam","PF01450","Acetohydroxy acid isomeroreductase, catalytic domain","Ketol-acid reductoisomerase, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR355C","Pfam","PF07991","Acetohydroxy acid isomeroreductase, NADPH-binding domain","Ketol-acid reductoisomerase, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR359W","Pfam","PF00206","Lyase","Fumarate lyase, N-terminal",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YLR359W","Pfam","PF10397","Adenylosuccinate lyase C-terminus","Adenylosuccinate lyase C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YLR432W","Pfam","PF00478","IMP dehydrogenase / GMP reductase domain","IMP dehydrogenase/GMP reductase",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YLR449W","Pfam","PF00254","FKBP-type peptidyl-prolyl cis-trans isomerase","FKBP-type peptidyl-prolyl cis-trans isomerase domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YLR449W","Pfam","PF17800","Nucleoplasmin-like domain","Nucleoplasmin-like domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YML085C","Pfam","PF00091","Tubulin/FtsZ family, GTPase domain","Tubulin/FtsZ, GTPase domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YML085C","Pfam","PF03953","Tubulin C-terminal domain","Tubulin/FtsZ, 2-layer sandwich domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YML126C","Pfam","PF01154","Hydroxymethylglutaryl-coenzyme A synthase N terminal","Hydroxymethylglutaryl-coenzyme A synthase, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YML126C","Pfam","PF08540","Hydroxymethylglutaryl-coenzyme A synthase C terminal","Hydroxymethylglutaryl-coenzyme A synthase, C-terminal domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR080C","Pfam","PF09416","RNA helicase (UPF2 interacting domain)","RNA helicase UPF1, Cys/His rich zinc-binding domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR080C","Pfam","PF13086","AAA domain","DNA2/NAM7 helicase, helicase domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR080C","Pfam","PF13087","AAA domain","DNA2/NAM7 helicase-like, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR080C","Pfam","PF18141","Domain of unknown function (DUF5599)","RNA helicase UPF1, 1B domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR083W","Pfam","PF00107","Zinc-binding dehydrogenase","Alcohol dehydrogenase, C-terminal",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YMR083W","Pfam","PF08240","Alcohol dehydrogenase GroES-like domain","Alcohol dehydrogenase, N-terminal",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YMR120C","Pfam","PF01808","AICARFT/IMPCHase bienzyme","Bifunctional purine biosynthesis protein PurH-like",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YMR217W","Pfam","PF00958","GMP synthase C terminal domain","GMP synthase, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR217W","Pfam","PF02540","NAD synthase","NAD/GMP synthase",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR235C","Pfam","PF13516","Leucine Rich repeat","Leucine-rich repeat",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YMR246W","Pfam","PF00501","AMP-binding enzyme","AMP-dependent synthetase/ligase",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YMR290C","Pfam","PF13959","Domain of unknown function (DUF4217)","Domain of unknown function DUF4217",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YNL132W","Pfam","PF05127","Helicase","Helicase domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YNL132W","Pfam","PF08351","Domain of unknown function (DUF1726)","tRNA(Met) cytidine acetyltransferase TmcA, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YNL132W","Pfam","PF13718","GNAT acetyltransferase 2","GNAT domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YNL132W","Pfam","PF13725","Possible tRNA binding domain","Possible tRNA binding domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YNL248C","Pfam","PF06870","A49-like RNA polymerase I associated factor","RNA polymerase I associated factor, A49-like",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YOL038W","Pfam","PF00227","Proteasome subunit","Proteasome, subunit alpha/beta",1,86,7,637,0.63901920918199,1.05807159386274,0.655245815461097
+"YAF031","YOL038W","Pfam","PF10584","Proteasome subunit A N-terminal signature","Proteasome alpha-subunit, N-terminal domain",1,86,5,639,0.533769636520195,1.48510809010118,0.566818225671598
+"YAF031","YOL059W","Pfam","PF01210","NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus","Glycerol-3-phosphate dehydrogenase, NAD-dependent, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YOL059W","Pfam","PF07479","NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus","Glycerol-3-phosphate dehydrogenase, NAD-dependent, C-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YOR335C","Pfam","PF01411","tRNA synthetases class II (A)","Alanyl-tRNA synthetase, class IIc, N-terminal",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YOR335C","Pfam","PF02272","DHHA1 domain","DHHA1 domain",1,86,1,643,0.224009144913142,7.43962155062871,0.446070579052497
+"YAF031","YOR335C","Pfam","PF07973","Threonyl and Alanyl tRNA synthetase second additional domain","Threonyl/alanyl tRNA synthetase, SAD",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YOR341W","Pfam","PF00623","RNA polymerase Rpb1, domain 2","RNA polymerase, alpha subunit",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YOR341W","Pfam","PF04983","RNA polymerase Rpb1, domain 3","RNA polymerase Rpb1, domain 3",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YOR341W","Pfam","PF04997","RNA polymerase Rpb1, domain 1","RNA polymerase Rpb1, domain 1",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YOR341W","Pfam","PF04998","RNA polymerase Rpb1, domain 5","RNA polymerase Rpb1, domain 5",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YOR341W","Pfam","PF05000","RNA polymerase Rpb1, domain 4","RNA polymerase Rpb1, domain 4",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YPL160W","Pfam","PF00133","tRNA synthetases class I (I, L, M and V)","Aminoacyl-tRNA synthetase, class Ia",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YPL160W","Pfam","PF08264","Anticodon-binding domain of tRNA ligase","Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding",1,86,3,641,0.398285117602289,2.4801325230616,0.478272704626479
+"YAF031","YPR041W","Pfam","PF01873","Domain found in IF2B/IF5","Translation initiation factor IF2/IF5",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YPR041W","Pfam","PF02020","eIF4-gamma/eIF5/eIF2-epsilon","W2 domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YPR145W","Pfam","PF00733","Asparagine synthase","Asparagine synthase",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YPR145W","Pfam","PF13537","Glutamine amidotransferase domain","Glutamine amidotransferase type 2 domain",1,86,2,642,0.316617107042849,3.72206656344397,0.446070579052497
+"YAF031","YAL035W;YBR121C;YDR050C;YDR233C;YER036C;YER165W;YGR103W;YGR159C;YGR285C;YHL034C;YHR019C;YHR052W;YJL026W;YKL142W;YKR001C;YLR175W;YLR293C;YLR359W;YLR449W;YMR146C;YMR235C;YNL132W;YOL038W;YOR341W;YPL106C;YPR041W","Coils","Coil","Coil","-",26,0,197,0,1,0,1
+"YAF031","YAL035W;YER025W;YGR234W","Gene3D","G3DSA:2.40.30.10","Translation factors","-",3,79,10,574,0.207922404188362,2.17641454542386,0.446070579052497
+"YAF031","YAL035W","Gene3D","G3DSA:3.40.50.10050","-","Translation initiation factor IF-2, domain 3 superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YAL035W;YBL039C;YBL099W;YDL192W;YDR194C;YER025W;YER036C;YJR121W;YKR059W;YLR293C;YMR080C;YMR290C","Gene3D","G3DSA:3.40.50.300","-","-",12,70,67,517,0.252395505153509,1.32221233097383,0.446070579052497
+"YAF031","YBL039C;YMR217W","Gene3D","G3DSA:3.40.50.880","-","Class I glutamine amidotransferase-like",2,80,6,578,0.257473923797984,2.40401623614722,0.446070579052497
+"YAF031","YBL099W","Gene3D","G3DSA:1.20.150.20","-","ATP synthase, alpha subunit, C-terminal domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YBL099W","Gene3D","G3DSA:2.40.30.20","-","ATP synthase subunit alpha, N-terminal domain-like superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YBR011C","Gene3D","G3DSA:3.90.80.10","Inorganic Pyrophosphatase","Inorganic pyrophosphatase superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YBR121C;YHR020W","Gene3D","G3DSA:3.40.50.800","-","Anticodon-binding domain superfamily",2,80,5,579,0.209032410024595,2.88837463549478,0.446070579052497
+"YAF031","YBR196C","Gene3D","G3DSA:1.10.1390.10","-","Phosphoglucose isomerase, C-terminal",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YBR196C","Gene3D","G3DSA:3.40.50.10490","-","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YBR249C;YDL182W;YDR050C;YGL026C;YLR354C;YLR432W","Gene3D","G3DSA:3.20.20.70","Aldolase class I","Aldolase-type TIM barrel",6,76,19,565,0.0745135207095494,2.34376214409638,0.446070579052497
+"YAF031","YCL030C","Gene3D","G3DSA:1.10.287.1080","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YCL030C","Gene3D","G3DSA:3.10.20.400","-","Phosphoribosyl-AMP cyclohydrolase domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YCL030C","Gene3D","G3DSA:3.40.50.1980","Nitrogenase molybdenum iron protein domain","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YCR012W","Gene3D","G3DSA:3.40.50.1260","-","Phosphoglycerate kinase, N-terminal",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YDL061C","Gene3D","G3DSA:4.10.830.10","30s Ribosomal Protein S14; Chain N","Ribosomal protein S14/S29",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YDL145C","Gene3D","G3DSA:1.25.40.470","-","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YDL145C;YMR146C;YOR230W","Gene3D","G3DSA:2.130.10.10","-","WD40/YVTN repeat-like-containing domain superfamily",3,79,14,570,0.349715018836189,1.54492822290472,0.455877461773615
+"YAF031","YDL182W","Gene3D","G3DSA:1.10.238.260","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YDL208W","Gene3D","G3DSA:3.30.1330.30","-","50S ribosomal protein L30e-like",1,81,4,580,0.482663595035337,1.78819187919853,0.526767990463276
+"YAF031","YDR214W","Gene3D","G3DSA:3.15.10.20","-","Activator of Hsp90 ATPase, Aha1",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YDR214W","Gene3D","G3DSA:3.30.530.20","-","START-like domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YDR353W;YGR175C","Gene3D","G3DSA:3.50.50.60","-","FAD/NAD(P)-binding domain superfamily",2,80,6,578,0.257473923797984,2.40401623614722,0.446070579052497
+"YAF031","YER086W","Gene3D","G3DSA:3.40.1020.10","Biosynthetic Threonine Deaminase; Domain 3","Threonine dehydratase, ACT-like domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YER086W;YGL026C;YGR155W","Gene3D","G3DSA:3.40.50.1100","-","Tryptophan synthase beta subunit-like PLP-dependent enzyme",3,79,5,579,0.0637078687044267,4.38207203278115,0.446070579052497
+"YAF031","YER165W","Gene3D","G3DSA:1.10.1900.10","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YER165W;YGR159C;YHL034C","Gene3D","G3DSA:3.30.70.330","-","Nucleotide-binding alpha-beta plait domain superfamily",3,79,14,570,0.349715018836189,1.54492822290472,0.455877461773615
+"YAF031","YGL234W","Gene3D","G3DSA:3.30.1330.10","-","PurM-like, N-terminal domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YGL234W;YJR109C","Gene3D","G3DSA:3.30.1490.20","-","ATP-grasp fold, subdomain 1",2,80,5,579,0.209032410024595,2.88837463549478,0.446070579052497
+"YAF031","YGL234W;YJR109C","Gene3D","G3DSA:3.30.470.20","-","-",2,80,7,577,0.306104744398973,2.05785409568928,0.446070579052497
+"YAF031","YGL234W;YJR109C","Gene3D","G3DSA:3.40.50.20","-","-",2,80,4,580,0.161774145662399,3.6145155564996,0.446070579052497
+"YAF031","YGL234W","Gene3D","G3DSA:3.90.600.10","Glycinamide Ribonucleotide Synthetase; Chain A","Phosphoribosylglycinamide synthetase, C-domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGL234W","Gene3D","G3DSA:3.90.650.10","-","PurM-like, C-terminal domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YGL245W","Gene3D","G3DSA:1.20.1050.10","-","-",1,81,4,580,0.482663595035337,1.78819187919853,0.526767990463276
+"YAF031","YGL245W","Gene3D","G3DSA:2.40.240.10","Ribosomal Protein L25; Chain P","Ribosomal protein L25/Gln-tRNA synthetase, N-terminal",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YGL245W","Gene3D","G3DSA:3.40.30.70","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGL245W;YMR217W;YPL160W;YPR145W","Gene3D","G3DSA:3.40.50.620","HUPs","Rossmann-like alpha/beta/alpha sandwich fold",4,78,14,570,0.170459686838552,2.0849597268428,0.446070579052497
+"YAF031","YGL253W;YHR064C;YPL106C","Gene3D","G3DSA:3.30.420.40","-","-",3,79,10,574,0.207922404188362,2.17641454542386,0.446070579052497
+"YAF031","YGL253W","Gene3D","G3DSA:3.40.367.20","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGR103W","Gene3D","G3DSA:3.40.50.10190","-","BRCT domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGR155W","Gene3D","G3DSA:3.10.580.10","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGR175C","Gene3D","G3DSA:3.30.9.50","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGR180C;YJL026W","Gene3D","G3DSA:1.10.620.20","Ribonucleotide Reductase","Ribonucleotide reductase-like",2,80,2,582,0.0761727094227374,7.23547864917933,0.446070579052497
+"YAF031","YGR192C;YJR009C","Gene3D","G3DSA:3.30.360.10","Dihydrodipicolinate Reductase; domain 2","-",2,80,5,579,0.209032410024595,2.88837463549478,0.446070579052497
+"YAF031","YGR192C;YHR183W;YJR009C;YKL029C;YLR355C;YMR083W;YOL059W","Gene3D","G3DSA:3.40.50.720","-","-",7,75,25,559,0.0854329767770941,2.08401487678935,0.446070579052497
+"YAF031","YGR234W","Gene3D","G3DSA:1.10.490.10","Globins","Globin/Protoglobin",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGR234W","Gene3D","G3DSA:3.40.50.80","-","Ferredoxin-NADP reductase (FNR), nucleotide-binding domain",1,81,4,580,0.482663595035337,1.78819187919853,0.526767990463276
+"YAF031","YGR240C","Gene3D","G3DSA:3.10.180.90","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YGR240C","Gene3D","G3DSA:3.40.50.450","-","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YGR240C","Gene3D","G3DSA:3.40.50.460","-","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YGR285C","Gene3D","G3DSA:1.10.287.110","-","Chaperone J-domain superfamily",1,81,4,580,0.482663595035337,1.78819187919853,0.526767990463276
+"YAF031","YGR285C","Gene3D","G3DSA:1.10.8.840","-","Ribosome-associated complex head domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YHR019C","Gene3D","G3DSA:1.10.10.1430","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YHR019C","Gene3D","G3DSA:2.40.50.140","-","-",1,81,17,567,0.909088678081765,0.412161926805928,0.912316211850103
+"YAF031","YHR019C;YHR020W;YOR335C","Gene3D","G3DSA:3.30.930.10","Bira Bifunctional Protein; Domain 2","-",3,79,10,574,0.207922404188362,2.17641454542386,0.446070579052497
+"YAF031","YHR020W","Gene3D","G3DSA:3.30.110.30","-","Prolyl-tRNA synthetase, class II",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YHR020W","Gene3D","G3DSA:3.90.960.10","YbaK/ProRS associated domain","YbaK/aminoacyl-tRNA synthetase-associated domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YHR052W","Gene3D","G3DSA:3.40.50.790","-","Ribosomal protein L1, 3-layer alpha/beta-sandwich",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YHR064C;YPL106C","Gene3D","G3DSA:2.60.34.10","Substrate Binding Domain Of DNAk; Chain A","Heat shock protein 70kD, peptide-binding domain superfamily",2,80,7,577,0.306104744398973,2.05785409568928,0.446070579052497
+"YAF031","YHR064C;YPL106C","Gene3D","G3DSA:3.30.30.30","-","-",2,80,7,577,0.306104744398973,2.05785409568928,0.446070579052497
+"YAF031","YHR064C;YPL106C","Gene3D","G3DSA:3.90.640.10","Actin; Chain A","-",2,80,9,575,0.401028677844863,1.59588689777251,0.478272704626479
+"YAF031","YHR174W","Gene3D","G3DSA:3.20.20.120","Enolase superfamily","Enolase-like, C-terminal domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YHR174W","Gene3D","G3DSA:3.30.390.10","-","Enolase-like, N-terminal",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YHR183W;YLR355C;YOL059W","Gene3D","G3DSA:1.10.1040.10","-","6-phosphogluconate dehydrogenase, domain 2",3,79,3,581,0.0273325315285642,7.31662727744721,0.446070579052497
+"YAF031","YHR183W","Gene3D","G3DSA:1.20.5.320","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YHR208W","Gene3D","G3DSA:3.20.10.10","-","Branched-chain-amino-acid aminotransferase-like, C-terminal",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YHR208W","Gene3D","G3DSA:3.30.470.10","-","Branched-chain-amino-acid aminotransferase-like, N-terminal",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YIL053W","Gene3D","G3DSA:1.10.150.240","Putative phosphatase; domain 2","Phosphoglycolate phosphatase-like, domain 2",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YIL053W","Gene3D","G3DSA:3.40.50.1000","-","HAD superfamily",1,81,9,575,0.733790523486606,0.789009477704431,0.74166193553831
+"YAF031","YJL014W;YLR259C","Gene3D","G3DSA:1.10.560.10","GROEL","GroEL-like equatorial domain superfamily",2,80,9,575,0.401028677844863,1.59588689777251,0.478272704626479
+"YAF031","YJL014W;YLR259C","Gene3D","G3DSA:3.30.260.10","GROEL","TCP-1-like chaperonin intermediate domain superfamily",2,80,3,581,0.116960274284454,4.8229537121979,0.446070579052497
+"YAF031","YJL014W;YLR259C","Gene3D","G3DSA:3.50.7.10","GroEL","GroEL-like apical domain superfamily",2,80,9,575,0.401028677844863,1.59588689777251,0.478272704626479
+"YAF031","YJR016C","Gene3D","G3DSA:3.50.30.80","-","Dihydroxy-acid dehydratase, C-terminal",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YJR109C","Gene3D","G3DSA:1.10.1030.10","Carbamoyl Phosphate Synthetase; Chain A","Carbamoyl-phosphate synthetase, large subunit oligomerisation domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YJR109C;YMR120C","Gene3D","G3DSA:3.40.50.1380","-","Methylglyoxal synthase-like domain superfamily",2,80,4,580,0.161774145662399,3.6145155564996,0.446070579052497
+"YAF031","YJR121W","Gene3D","G3DSA:1.10.1140.10","-","ATPase, F1/V1 complex, beta/alpha subunit, C-terminal",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YJR121W","Gene3D","G3DSA:2.40.10.170","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YKL029C","Gene3D","G3DSA:3.40.50.10380","-","Malic enzyme, N-terminal domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YKL196C","Gene3D","G3DSA:1.20.5.110","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YKL196C","Gene3D","G3DSA:3.30.450.50","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YKR001C","Gene3D","G3DSA:1.20.120.1240","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YLR058C","Gene3D","G3DSA:3.40.640.10","-","Pyridoxal phosphate-dependent transferase, major domain",1,81,11,573,0.796227822462743,0.643460861801399,0.802855164623551
+"YAF031","YLR058C","Gene3D","G3DSA:3.90.1150.10","Aspartate Aminotransferase","Pyridoxal phosphate-dependent transferase domain 1",1,81,9,575,0.733790523486606,0.789009477704431,0.74166193553831
+"YAF031","YLR175W","Gene3D","G3DSA:2.30.130.70","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YLR175W","Gene3D","G3DSA:3.30.2350.10","Pseudouridine synthase","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YLR359W","Gene3D","G3DSA:1.10.275.60","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YLR359W","Gene3D","G3DSA:1.10.40.30","-","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YLR359W","Gene3D","G3DSA:1.20.200.10","Fumarase/aspartase (Central domain)","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YLR449W","Gene3D","G3DSA:2.60.120.340","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YLR449W","Gene3D","G3DSA:3.10.50.40","-","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YML085C","Gene3D","G3DSA:1.10.287.600","Helix hairpin bin","Tubulin, C-terminal",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YML085C","Gene3D","G3DSA:3.30.1330.20","-","Tubulin/FtsZ, C-terminal domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YML085C","Gene3D","G3DSA:3.40.50.1440","-","Tubulin/FtsZ, GTPase domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YML126C","Gene3D","G3DSA:3.40.47.10","-","Thiolase-like",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YMR080C","Gene3D","G3DSA:2.40.30.230","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YMR083W","Gene3D","G3DSA:3.90.180.10","-","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YMR120C","Gene3D","G3DSA:1.10.287.440","-","AICAR transformylase, insert domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YMR120C","Gene3D","G3DSA:3.40.140.20","-","AICAR transformylase, duplicated domain superfamily",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YMR217W","Gene3D","G3DSA:3.30.300.10","-","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YMR235C","Gene3D","G3DSA:3.80.10.10","Ribonuclease Inhibitor","Leucine-rich repeat domain superfamily",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YNL132W","Gene3D","G3DSA:3.40.630.30","-","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YOL038W;YPR145W","Gene3D","G3DSA:3.60.20.10","Glutamine Phosphoribosylpyrophosphate","Nucleophile aminohydrolases, N-terminal",2,80,11,573,0.489634821397513,1.30170323500184,0.529605010899351
+"YAF031","YOR335C","Gene3D","G3DSA:2.40.30.130","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YOR335C","Gene3D","G3DSA:3.10.310.40","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YOR335C","Gene3D","G3DSA:3.30.54.20","-","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YOR335C","Gene3D","G3DSA:3.30.980.10","-","-",1,81,2,582,0.326185375519555,3.58235810066027,0.446070579052497
+"YAF031","YOR341W","Gene3D","G3DSA:1.10.132.30","-","RNA polymerase Rpb1, funnel domain superfamily",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YOR341W","Gene3D","G3DSA:1.10.274.100","-","RNA polymerase Rpb1, domain 3 superfamily",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YOR341W","Gene3D","G3DSA:1.10.357.120","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YOR341W","Gene3D","G3DSA:1.20.120.1280","-","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YOR341W","Gene3D","G3DSA:2.40.40.20","-","-",1,81,5,579,0.546841484909924,1.42875080507754,0.577486400004503
+"YAF031","YOR341W","Gene3D","G3DSA:3.30.1490.180","RNA polymerase ii","-",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YOR341W","Gene3D","G3DSA:3.30.70.2850","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YPL106C","Gene3D","G3DSA:1.20.1270.10","-","Heat shock protein 70kD, C-terminal domain superfamily",1,81,6,578,0.603142997390812,1.18896359684546,0.625263156219326
+"YAF031","YPL160W","Gene3D","G3DSA:1.10.730.10","-","-",1,81,5,579,0.546841484909924,1.42875080507754,0.577486400004503
+"YAF031","YPL160W","Gene3D","G3DSA:3.90.740.10","-","Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain",1,81,3,581,0.40952293088516,2.38669620431288,0.478272704626479
+"YAF031","YPR041W","Gene3D","G3DSA:1.25.40.180","-","MIF4G-like domain superfamily",1,81,4,580,0.482663595035337,1.78819187919853,0.526767990463276
+"YAF031","YPR041W","Gene3D","G3DSA:2.20.25.350","-","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YPR041W","Gene3D","G3DSA:3.30.30.50","Translation initiation factor 2 beta","-",1,81,1,583,0.231249294407189,7.15924574692866,0.446070579052497
+"YAF031","YAL035W","CDD","cd01887","IF2_eIF5B","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YAL035W","CDD","cd03703","aeIF5B_II","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YAL035W","CDD","cd16266","IF2_aeIF5B_IV","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBL039C","CDD","cd01746","GATase1_CTP_Synthase","CTP synthase GATase domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBL039C","CDD","cd03113","CTPS_N","CTP synthase, N-terminal",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBL099W","CDD","cd01132","F1_ATPase_alpha","ATP synthase, F1 complex, alpha subunit nucleotide-binding domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBL099W","CDD","cd18113","ATP-synt_F1_alpha_C","ATP synthase, alpha subunit, C-terminal",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBL099W","CDD","cd18116","ATP-synt_F1_alpha_N","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBR011C","CDD","cd00412","pyrophosphatase","Inorganic pyrophosphatase",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBR121C","CDD","cd00774","GlyRS-like_core","Glycyl-tRNA synthetase-like core domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBR121C","CDD","cd00858","GlyRS_anticodon","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBR196C","CDD","cd05015","SIS_PGI_1","Phosphoglucose isomerase, SIS domain 1",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YBR196C","CDD","cd05016","SIS_PGI_2","Phosphoglucose isomerase, SIS domain 2",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YCL030C","CDD","cd06572","Histidinol_dh","Histidinol dehydrogenase",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YCL030C","CDD","cd11546","NTP-PPase_His4","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YCR012W","CDD","cd00318","Phosphoglycerate_kinase","Phosphoglycerate kinase",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YDL145C","CDD","cd00200","WD40","-",1,66,5,422,0.584931594315551,1.27809279022672,0.608615941079249
+"YAF031","YDL182W","CDD","cd07948","DRE_TIM_HCS","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YDL192W","CDD","cd04150","Arf1_5_like","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YDR050C","CDD","cd00311","TIM","Triosephosphate isomerase",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YDR194C","CDD","cd17964","DEADc_MSS116","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YDR194C;YKR059W;YMR290C","CDD","cd18787","SF2_C_DEAD","-",3,64,13,414,0.372405159487276,1.49140153894471,0.473462631552039
+"YAF031","YDR214W","CDD","cd08892","SRPBCC_Aha1","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER025W","CDD","cd01888","eIF2_gamma","Initiation factor eIF2 gamma, GTP-binding domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER025W","CDD","cd03688","eIF2_gamma_II","Initiation factor eIF2 gamma, domain 2",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER025W","CDD","cd15490","eIF2_gamma_III","Initiation factor eIF2 gamma, C-terminal",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER036C","CDD","cd03221","ABCF_EF-3","-",1,66,4,423,0.519032108104987,1.60046478738046,0.555030551920592
+"YAF031","YER086W","CDD","cd01562","Thr-dehyd","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER086W","CDD","cd04906","ACT_ThrD-I_1","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER086W","CDD","cd04907","ACT_ThrD-I_2","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER165W","CDD","cd12378","RRM1_I_PABPs","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER165W","CDD","cd12379","RRM2_I_PABPs","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER165W","CDD","cd12380","RRM3_I_PABPs","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YER165W","CDD","cd12381","RRM4_I_PABPs","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGL026C","CDD","cd04724","Tryptophan_synthase_alpha","Tryptophan synthase, alpha chain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGL026C","CDD","cd06446","Trp-synth_B","Tryptophan synthase, beta chain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGL234W","CDD","cd02196","PurM","Phosphoribosylformylglycinamidine cyclo-ligase",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGL245W","CDD","cd10306","GST_C_GluRS_N","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGL253W","CDD","cd00012","NBD_sugar-kinase_HSP70_actin","-",1,66,3,424,0.442850432556605,2.1371588227313,0.49154079425131
+"YAF031","YGR103W","CDD","cd17709","BRCT_pescadillo_like","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR155W","CDD","cd01561","CBS_like","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR155W","CDD","cd04608","CBS_pair_CBS","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR159C","CDD","cd12447","RRM1_gar2","Gar2, RNA recognition motif 1",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR159C","CDD","cd12448","RRM2_gar2","Gar2, RNA recognition motif 2",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR180C;YJL026W","CDD","cd01049","RNRR2","Ribonucleotide reductase small subunit",2,65,2,425,0.0906898569084211,6.49673487756671,0.446070579052497
+"YAF031","YGR234W","CDD","cd06184","flavohem_like_fad_nad_binding","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR234W","CDD","cd14777","Yhb1-globin-like","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YGR285C","CDD","cd06257","DnaJ","DnaJ domain",1,66,4,423,0.519032108104987,1.60046478738046,0.555030551920592
+"YAF031","YHL034C","CDD","cd00590","RRM_SF","-",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YHR019C","CDD","cd00776","AsxRS_core","-",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YHR019C","CDD","cd04323","AsnRS_cyto_like_N","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YHR020W","CDD","cd00778","ProRS_core_arch_euk","Prolyl-tRNA synthetase, catalytic domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YHR020W","CDD","cd00862","ProRS_anticodon_zinc","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YHR052W","CDD","cd00403","Ribosomal_L1","Ribosomal protein L1/ribosomal biogenesis protein",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YHR064C","CDD","cd10232","ScSsz1p_like_NBD","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YHR174W","CDD","cd03313","enolase","Enolase",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YHR208W","CDD","cd01557","BCAT_beta_family","Branched-chain aminotransferase",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YIL053W","CDD","cd07527","HAD_ScGPP-like","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YJL014W","CDD","cd03337","TCP1_gamma","T-complex protein 1, gamma subunit",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YJR109C","CDD","cd01423","MGS_CPS_I_III","-",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YJR121W","CDD","cd01133","F1-ATPase_beta","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YJR121W","CDD","cd18110","ATP-synt_F1_beta_C","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YJR121W","CDD","cd18115","ATP-synt_F1_beta_N","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YKL029C","CDD","cd05312","NAD_bind_1_malic_enz","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YKL196C","CDD","cd14824","Longin","Longin domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YKL196C","CDD","cd15867","R-SNARE_YKT6","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YKR001C","CDD","cd08771","DLP_1","Dynamin, GTPase domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YKR059W","CDD","cd18046","DEADc_EIF4AII_EIF4AI_DDX2","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR058C","CDD","cd00378","SHMT","Serine hydroxymethyltransferase",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YLR175W","CDD","cd02572","PseudoU_synth_hDyskerin","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR259C","CDD","cd03344","GroEL","Chaperonin Cpn60",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR293C","CDD","cd00877","Ran","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR354C","CDD","cd00957","Transaldolase_TalAB","Transaldolase type 1",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR359W","CDD","cd03302","Adenylsuccinate_lyase_2","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR363C","CDD","cd18717","PIN_ScNmd4p-like","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YLR432W","CDD","cd00381","IMPDH","IMP dehydrogenase/GMP reductase",1,66,3,424,0.442850432556605,2.1371588227313,0.49154079425131
+"YAF031","YLR432W","CDD","cd04601","CBS_pair_IMPDH","-",1,66,3,424,0.442850432556605,2.1371588227313,0.49154079425131
+"YAF031","YML085C","CDD","cd02186","alpha_tubulin","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YML126C","CDD","cd00827","init_cond_enzymes","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR080C","CDD","cd18039","DEXXQc_UPF1","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR080C","CDD","cd18808","SF1_C_Upf1","DNA2/NAM7 helicase-like, C-terminal",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR080C","CDD","cd21400","ZBD_UPF1-like","RNA helicase UPF1, Cys/His rich zinc-binding domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR080C","CDD","cd21407","1B_UPF1-like","RNA helicase UPF1, 1B domain",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR083W","CDD","cd08297","CAD3","-",1,66,3,424,0.442850432556605,2.1371588227313,0.49154079425131
+"YAF031","YMR120C","CDD","cd01421","IMPCH","-",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YMR217W","CDD","cd01742","GATase1_GMP_Synthase","GMP synthase, glutamine amidotransferase",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR217W","CDD","cd01997","GMP_synthase_C","GMP synthase, C-terminal",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR246W","CDD","cd17639","LC_FACS_euk1","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YMR290C","CDD","cd17942","DEADc_DDX18","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YOL038W","CDD","cd03755","proteasome_alpha_type_7","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YOR335C","CDD","cd00673","AlaRS_core","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YOR341W","CDD","cd01435","RNAP_I_RPA1_N","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YOR341W","CDD","cd02735","RNAP_I_Rpa1_C","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YPL106C","CDD","cd11732","HSP105-110_like_NBD","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YPL160W","CDD","cd00812","LeuRS_core","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YPL160W","CDD","cd07959","Anticodon_Ia_Leu_AEc","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YPR041W","CDD","cd11561","W2_eIF5","-",1,66,1,426,0.253098028266172,6.41371474089473,0.446070579052497
+"YAF031","YPR145W","CDD","cd00712","AsnB","Asparagine synthase, N-terminal domain",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YPR145W","CDD","cd01991","Asn_Synthase_B_C","Asparagine synthase",1,66,2,425,0.354810288644559,3.20864172424491,0.455877461773615
+"YAF031","YAL035W","PANTHER","PTHR43381","TRANSLATION INITIATION FACTOR IF-2-RELATED","Translation initiation factor IF- 2",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YAL035W","PANTHER","PTHR43381:SF4","EUKARYOTIC TRANSLATION INITIATION FACTOR 5B","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBL039C","PANTHER","PTHR11550","CTP SYNTHASE","CTP synthase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBL099W","PANTHER","PTHR48082","ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBL099W","PANTHER","PTHR48082:SF3","ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR011C","PANTHER","PTHR10286","INORGANIC PYROPHOSPHATASE","Inorganic pyrophosphatase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR011C","PANTHER","PTHR10286:SF3","INORGANIC PYROPHOSPHATASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR121C","PANTHER","PTHR10745","GLYCYL-TRNA SYNTHETASE/DNA POLYMERASE SUBUNIT GAMMA-2","Glycyl-tRNA synthetase/DNA polymerase subunit gamma-2",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR121C","PANTHER","PTHR10745:SF0","GLYCINE--TRNA LIGASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR196C","PANTHER","PTHR11469","GLUCOSE-6-PHOSPHATE ISOMERASE","Phosphoglucose isomerase (PGI)",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR196C","PANTHER","PTHR11469:SF5","GLUCOSE-6-PHOSPHATE ISOMERASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YBR249C","PANTHER","PTHR21225","PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE  DAHP SYNTHETASE","DHAP synthase, class 1",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YBR249C","PANTHER","PTHR21225:SF0","PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE, TYROSINE-INHIBITED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YCL030C","PANTHER","PTHR21256","HISTIDINOL DEHYDROGENASE  HDH","Histidinol dehydrogenase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YCL030C","PANTHER","PTHR21256:SF2","HISTIDINE BIOSYNTHESIS TRIFUNCTIONAL PROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YCR012W","PANTHER","PTHR11406","PHOSPHOGLYCERATE KINASE","Phosphoglycerate kinase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YCR012W","PANTHER","PTHR11406:SF0","PHOSPHOGLYCERATE KINASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL061C","PANTHER","PTHR12010","40S RIBOSOMAL PROTEIN S29","40S ribosomal protein S29/30S ribosomal protein S14 type Z",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL061C","PANTHER","PTHR12010:SF2","40S RIBOSOMAL PROTEIN S29","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL145C","PANTHER","PTHR19876","COATOMER","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YDL145C","PANTHER","PTHR19876:SF1","COATOMER SUBUNIT ALPHA","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL182W","PANTHER","PTHR10277","HOMOCITRATE SYNTHASE-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL182W","PANTHER","PTHR10277:SF48","HOMOCITRATE SYNTHASE, CYTOSOLIC ISOZYME-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL192W","PANTHER","PTHR11711","ADP RIBOSYLATION FACTOR-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL192W","PANTHER","PTHR11711:SF377","ADP RIBOSYLATION FACTOR","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDL208W;YHR052W","PANTHER","PTHR23105","RIBOSOMAL PROTEIN L7AE FAMILY MEMBER","-",2,83,5,638,0.19209225651022,3.06772997417696,0.446070579052497
+"YAF031","YDL208W","PANTHER","PTHR23105:SF146","-","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR050C","PANTHER","PTHR21139","TRIOSEPHOSPHATE ISOMERASE","Triosephosphate isomerase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR101C","PANTHER","PTHR10804","PROTEASE FAMILY M24  METHIONYL AMINOPEPTIDASE, AMINOPEPTIDASE P","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR101C","PANTHER","PTHR10804:SF102","METALLOPROTEASE ARX1-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR194C;YKR059W;YMR290C","PANTHER","PTHR24031","RNA HELICASE","-",3,82,7,636,0.10055559587192,3.31555189139362,0.446070579052497
+"YAF031","YDR194C","PANTHER","PTHR24031:SF741","ATP-DEPENDENT RNA HELICASE MSS116, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR214W","PANTHER","PTHR13009","HEAT SHOCK PROTEIN 90  HSP90  CO-CHAPERONE AHA-1","Activator of 90kDa heat shock protein ATPase-like",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YDR214W","PANTHER","PTHR13009:SF8","LD43819P","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR353W","PANTHER","PTHR48105","THIOREDOXIN REDUCTASE 1-RELATED-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YDR353W","PANTHER","PTHR48105:SF9","THIOREDOXIN REDUCTASE 1, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YER025W","PANTHER","PTHR42854","EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT 3 FAMILY MEMBER","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YER025W","PANTHER","PTHR42854:SF4","EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT 3, Y-LINKED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YER036C","PANTHER","PTHR19211","ATP-BINDING TRANSPORT PROTEIN-RELATED","-",1,84,4,639,0.463455337361929,1.89956054799046,0.511066483852947
+"YAF031","YER036C","PANTHER","PTHR19211:SF15","ATP-BINDING CASSETTE SUB-FAMILY F MEMBER 2","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YER086W","PANTHER","PTHR48078","THREONINE DEHYDRATASE, MITOCHONDRIAL-RELATED","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YER086W","PANTHER","PTHR48078:SF11","THREONINE DEHYDRATASE, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YER165W","PANTHER","PTHR24012","RNA BINDING PROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YER165W","PANTHER","PTHR24012:SF466","POLYADENYLATE-BINDING PROTEIN 1-LIKE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGL026C","PANTHER","PTHR48077","TRYPTOPHAN SYNTHASE-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGL026C","PANTHER","PTHR48077:SF3","TRYPTOPHAN SYNTHASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGL234W","PANTHER","PTHR10520","TRIFUNCTIONAL PURINE BIOSYNTHETIC PROTEIN ADENOSINE-3-RELATED","Phosphoribosylformylglycinamidine cyclo-ligase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGL245W","PANTHER","PTHR43097","GLUTAMINE-TRNA LIGASE","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YGL245W","PANTHER","PTHR43097:SF5","GLUTAMATE--TRNA LIGASE, CYTOPLASMIC","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGL253W","PANTHER","PTHR19443","HEXOKINASE","Hexokinase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGL253W","PANTHER","PTHR19443:SF16","HEXOKINASE TYPE 1-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR103W","PANTHER","PTHR12221","PESCADILLO - RELATED","Pescadillo",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR103W","PANTHER","PTHR12221:SF6","PESCADILLO HOMOLOG","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR155W","PANTHER","PTHR10314","CYSTATHIONINE BETA-SYNTHASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR155W","PANTHER","PTHR10314:SF8","CYSTATHIONINE BETA-SYNTHASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR159C","PANTHER","PTHR48024","GEO13361P1-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR159C","PANTHER","PTHR48024:SF11","NUCLEAR LOCALIZATION SEQUENCE-BINDING PROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR175C","PANTHER","PTHR10835","SQUALENE MONOOXYGENASE","Squalene monooxygenase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR175C","PANTHER","PTHR10835:SF0","SQUALENE MONOOXYGENASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR180C;YJL026W","PANTHER","PTHR23409","RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE SMALL CHAIN","Ribonucleotide reductase small subunit family",2,83,2,641,0.0691285968433002,7.68292885110899,0.446070579052497
+"YAF031","YGR180C;YJL026W","PANTHER","PTHR23409:SF20","RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE SUBUNIT M2","-",2,83,2,641,0.0691285968433002,7.68292885110899,0.446070579052497
+"YAF031","YGR192C;YJR009C","PANTHER","PTHR10836","GLYCERALDEHYDE 3-PHOSPHATE DEHYDROGENASE","Glyceraldehyde/Erythrose phosphate dehydrogenase family",2,83,2,641,0.0691285968433002,7.68292885110899,0.446070579052497
+"YAF031","YGR192C;YJR009C","PANTHER","PTHR10836:SF76","GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE-RELATED","-",2,83,2,641,0.0691285968433002,7.68292885110899,0.446070579052497
+"YAF031","YGR234W","PANTHER","PTHR43396","FLAVOHEMOPROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR234W","PANTHER","PTHR43396:SF3","FLAVOHEMOPROTEIN","Flavohemoprotein",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR240C","PANTHER","PTHR13697","PHOSPHOFRUCTOKINASE","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YGR240C","PANTHER","PTHR13697:SF55","ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE SUBUNIT BETA","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YGR285C","PANTHER","PTHR43999","DNAJ HOMOLOG SUBFAMILY C MEMBER 2","J-protein Zuotin/DnaJC2",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YGR285C","PANTHER","PTHR43999:SF1","DNAJ HOMOLOG SUBFAMILY C MEMBER 2","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHL034C","PANTHER","PTHR23003","RNA RECOGNITION MOTIF  RRM  DOMAIN CONTAINING PROTEIN","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YHL034C","PANTHER","PTHR23003:SF34","NUCLEOLIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR019C","PANTHER","PTHR22594","ASPARTYL/LYSYL-TRNA SYNTHETASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR019C","PANTHER","PTHR22594:SF16","ASPARAGINE--TRNA LIGASE, CYTOPLASMIC","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR020W","PANTHER","PTHR43382","PROLYL-TRNA SYNTHETASE","Proline-tRNA ligase, class IIa, archaeal-type",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR020W","PANTHER","PTHR43382:SF2","BIFUNCTIONAL GLUTAMATE/PROLINE--TRNA LIGASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR052W","PANTHER","PTHR23105:SF172","PROTEASOME-INTERACTING PROTEIN CIC1","Proteasome-interacting protein Cic1, fungi",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR064C","PANTHER","PTHR19375","HEAT SHOCK PROTEIN 70KDA","Heat shock protein 70 family",1,84,6,637,0.582274973536535,1.263444364562,0.607023348225965
+"YAF031","YHR064C","PANTHER","PTHR19375:SF435","RIBOSOME-ASSOCIATED COMPLEX SUBUNIT SSZ1","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR174W","PANTHER","PTHR11902","ENOLASE","Enolase",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YHR183W","PANTHER","PTHR11811","6-PHOSPHOGLUCONATE DEHYDROGENASE","6-phosphogluconate dehydrogenase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR183W","PANTHER","PTHR11811:SF25","6-PHOSPHOGLUCONATE DEHYDROGENASE, DECARBOXYLATING","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YHR208W","PANTHER","PTHR11825","SUBGROUP IIII AMINOTRANSFERASE","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YHR208W","PANTHER","PTHR11825:SF44","BRANCHED-CHAIN-AMINO-ACID AMINOTRANSFERASE","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YIL053W","PANTHER","PTHR43481","FRUCTOSE-1-PHOSPHATE PHOSPHATASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YIL053W","PANTHER","PTHR43481:SF8","GLYCEROL-1-PHOSPHATE PHOSPHOHYDROLASE 1-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YJL014W","PANTHER","PTHR11353","CHAPERONIN","-",1,84,8,635,0.675022289282757,0.945007302456399,0.687177552595172
+"YAF031","YJL014W","PANTHER","PTHR11353:SF24","T-COMPLEX PROTEIN 1 SUBUNIT GAMMA","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YJR016C","PANTHER","PTHR21000","DIHYDROXY-ACID DEHYDRATASE  DAD","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YJR109C","PANTHER","PTHR11405","CARBAMOYLTRANSFERASE FAMILY MEMBER","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YJR109C","PANTHER","PTHR11405:SF51","CARBAMOYL-PHOSPHATE SYNTHASE ARGININE-SPECIFIC LARGE CHAIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YJR121W","PANTHER","PTHR15184","ATP SYNTHASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YJR121W","PANTHER","PTHR15184:SF60","ATP SYNTHASE SUBUNIT BETA-1, MITOCHONDRIAL-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKL029C","PANTHER","PTHR23406","MALIC ENZYME-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKL029C","PANTHER","PTHR23406:SF34","MALIC ENZYME-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKL196C","PANTHER","PTHR45806","SYNAPTOBREVIN HOMOLOG YKT6","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKL196C","PANTHER","PTHR45806:SF1","SYNAPTOBREVIN HOMOLOG YKT6","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKR001C","PANTHER","PTHR11566","DYNAMIN","Dynamin superfamily",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKR001C","PANTHER","PTHR11566:SF133","VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 1","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YKR059W","PANTHER","PTHR24031:SF720","EUKARYOTIC INITIATION FACTOR 4A-II","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR058C","PANTHER","PTHR11680","SERINE HYDROXYMETHYLTRANSFERASE","Serine hydroxymethyltransferase",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YLR175W","PANTHER","PTHR23127","CENTROMERE/MICROTUBULE BINDING PROTEIN CBF5","tRNA pseudouridine synthase B family",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR175W","PANTHER","PTHR23127:SF0","H/ACA RIBONUCLEOPROTEIN COMPLEX SUBUNIT DKC1","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR259C","PANTHER","PTHR45633","60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR259C","PANTHER","PTHR45633:SF3","60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR293C","PANTHER","PTHR24071","RAN GTPASE","Ran GTPase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR293C","PANTHER","PTHR24071:SF19","GTP-BINDING NUCLEAR PROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR354C","PANTHER","PTHR10683","TRANSALDOLASE","Transaldolase/Fructose-6-phosphate aldolase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR354C","PANTHER","PTHR10683:SF18","TRANSALDOLASE","Transaldolase type 1",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR355C","PANTHER","PTHR21371","KETOL-ACID REDUCTOISOMERASE, MITOCHONDRIAL","Ketol-acid reductoisomerase",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR359W","PANTHER","PTHR43172","ADENYLOSUCCINATE LYASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR432W","PANTHER","PTHR11911","INOSINE-5-MONOPHOSPHATE DEHYDROGENASE RELATED","-",1,84,3,640,0.392083981611951,2.53527942580579,0.478272704626479
+"YAF031","YLR449W","PANTHER","PTHR43811","FKBP-TYPE PEPTIDYL-PROLYL CIS-TRANS ISOMERASE FKPA","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YLR449W","PANTHER","PTHR43811:SF19","39 KDA FK506-BINDING NUCLEAR PROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YML085C","PANTHER","PTHR11588","TUBULIN","Tubulin",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YML085C","PANTHER","PTHR11588:SF304","TUBULIN ALPHA CHAIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YML126C","PANTHER","PTHR43323","3-HYDROXY-3-METHYLGLUTARYL COENZYME A SYNTHASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR080C","PANTHER","PTHR10887","DNA2/NAM7 HELICASE FAMILY","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR080C","PANTHER","PTHR10887:SF486","REGULATOR OF NONSENSE TRANSCRIPTS 1-LIKE PROTEIN","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR083W","PANTHER","PTHR42940","ALCOHOL DEHYDROGENASE 1-RELATED","-",1,84,3,640,0.392083981611951,2.53527942580579,0.478272704626479
+"YAF031","YMR083W","PANTHER","PTHR42940:SF3","ALCOHOL DEHYDROGENASE 1-RELATED","-",1,84,3,640,0.392083981611951,2.53527942580579,0.478272704626479
+"YAF031","YMR120C","PANTHER","PTHR11692","BIFUNCTIONAL PURINE BIOSYNTHESIS PROTEIN PURH","Bifunctional purine biosynthesis protein PurH-like",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YMR120C","PANTHER","PTHR11692:SF0","BIFUNCTIONAL PURINE BIOSYNTHESIS PROTEIN PURH","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YMR146C","PANTHER","PTHR19877","EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT I","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR146C","PANTHER","PTHR19877:SF1","EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT I","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR217W","PANTHER","PTHR11922","GMP SYNTHASE-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR217W","PANTHER","PTHR11922:SF2","GMP SYNTHASE [GLUTAMINE-HYDROLYZING]","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR235C","PANTHER","PTHR24113","RAN GTPASE-ACTIVATING PROTEIN 1","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR235C","PANTHER","PTHR24113:SF5","RAN GTPASE-ACTIVATING PROTEIN 1","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR246W","PANTHER","PTHR43272","LONG-CHAIN-FATTY-ACID--COA LIGASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR246W","PANTHER","PTHR43272:SF5","ACYL-COA SYNTHETASE LONG-CHAIN, ISOFORM J","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YMR290C","PANTHER","PTHR24031:SF301","ATP-DEPENDENT RNA HELICASE DDX18","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YNL132W","PANTHER","PTHR10925","N-ACETYLTRANSFERASE 10","TmcA/NAT10/Kre33",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YNL132W","PANTHER","PTHR10925:SF5","RNA CYTIDINE ACETYLTRANSFERASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YNL248C","PANTHER","PTHR14440","DNA-DIRECTED RNA POLYMERASE I SUBUNIT RPA49","RNA polymerase I associated factor, A49-like",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOL038W","PANTHER","PTHR11599","PROTEASOME SUBUNIT ALPHA/BETA","-",1,84,7,636,0.631521335879662,1.08154029587776,0.649127385243579
+"YAF031","YOL038W","PANTHER","PTHR11599:SF15","PROTEASOME SUBUNIT ALPHA TYPE-7-1-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOL059W","PANTHER","PTHR11728","GLYCEROL-3-PHOSPHATE DEHYDROGENASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOL059W","PANTHER","PTHR11728:SF8","GLYCEROL-3-PHOSPHATE DEHYDROGENASE [NAD(+)]-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOR230W","PANTHER","PTHR22850","WD40 REPEAT FAMILY","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOR230W","PANTHER","PTHR22850:SF199","TRANSCRIPTIONAL MODULATOR WTM1-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOR335C","PANTHER","PTHR11777","ALANYL-TRNA SYNTHETASE","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOR335C","PANTHER","PTHR11777:SF34","ALANINE--TRNA LIGASE, CYTOPLASMIC","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YOR341W","PANTHER","PTHR19376","DNA-DIRECTED RNA POLYMERASE","-",1,84,3,640,0.392083981611951,2.53527942580579,0.478272704626479
+"YAF031","YOR341W","PANTHER","PTHR19376:SF11","DNA-DIRECTED RNA POLYMERASE I SUBUNIT RPA1","DNA-directed RNA pol I, largest subunit",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YPL106C","PANTHER","PTHR45639","HSC70CB, ISOFORM G-RELATED","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YPL160W","PANTHER","PTHR45794","LEUCYL-TRNA SYNTHETASE","Leucyl-tRNA synthetase, class Ia, archaeal/eukaryotic cytosolic",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YPL160W","PANTHER","PTHR45794:SF1","LEUCINE--TRNA LIGASE, CYTOPLASMIC","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YPR041W","PANTHER","PTHR23001","EUKARYOTIC TRANSLATION INITIATION FACTOR","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YPR041W","PANTHER","PTHR23001:SF7","EUKARYOTIC TRANSLATION INITIATION FACTOR 5","-",1,84,1,642,0.22002584760494,7.60361177479157,0.446070579052497
+"YAF031","YPR145W","PANTHER","PTHR11772","ASPARAGINE SYNTHETASE","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YPR145W","PANTHER","PTHR11772:SF2","ASPARAGINE SYNTHETASE","-",1,84,2,641,0.311345135419788,3.80441110062796,0.446070579052497
+"YAF031","YDL145C;YMR146C;YOR230W","SMART","SM00320","WD40_4","WD40 repeat",3,38,12,252,0.326706670109436,1.65466357105186,0.446070579052497
+"YAF031","YDL192W;YLR293C","SMART","SM00175","rab_sub_5","-",2,39,4,260,0.186316601202228,3.31421798104022,0.446070579052497
+"YAF031","YDL192W","SMART","SM00177","arf_sub_2","-",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YDL192W","SMART","SM00178","sar_sub_1","-",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YDR194C;YKR059W;YMR290C","SMART","SM00487","ultradead3","Helicase superfamily 1/2, ATP-binding domain",3,38,17,247,0.520785225383494,1.14648430804285,0.555504240409061
+"YAF031","YDR194C;YKR059W;YMR290C","SMART","SM00490","helicmild6","Helicase, C-terminal",3,38,17,247,0.520785225383494,1.14648430804285,0.555504240409061
+"YAF031","YDR214W","SMART","SM01000","Aha1_N_2","Activator of Hsp90 ATPase, N-terminal",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YER036C;YJR121W;YMR080C","SMART","SM00382","AAA_5","AAA+ ATPase domain",3,38,23,241,0.710086623594074,0.827717478959302,0.721141864440449
+"YAF031","YER165W;YGR159C;YHL034C","SMART","SM00360","rrm1_1","RNA recognition motif domain",3,38,13,251,0.366756707995422,1.52187937406025,0.46809485057454
+"YAF031","YER165W","SMART","SM00361","rrm2_1","RNA recognition motif domain, eukaryote",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YER165W","SMART","SM00517","poly_2","Polyadenylate-binding protein/Hyperplastic disc protein",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YGL234W","SMART","SM01209","GARS_A_3","-",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YGL234W","SMART","SM01210","GARS_C_2","Phosphoribosylglycinamide synthetase, C-domain",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YGR103W","SMART","SM00292","BRCT_7","BRCT domain",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YGR155W;YLR432W","SMART","SM00116","cbs_1","CBS domain",2,39,4,260,0.186316601202228,3.31421798104022,0.446070579052497
+"YAF031","YGR192C;YJR009C","SMART","SM00846","gp_dh_n_7","Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain",2,39,2,262,0.0887723228265093,6.64736712600167,0.446070579052497
+"YAF031","YGR285C","SMART","SM00271","dnaj_3","DnaJ domain",1,40,4,260,0.516623723486472,1.62193923501185,0.553851981689669
+"YAF031","YHR020W","SMART","SM00946","ProRS_C_1_2","Proline-tRNA ligase, class II, C-terminal",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YHR174W","SMART","SM01192","Enolase_C_3","Enolase, C-terminal TIM barrel domain",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YHR174W","SMART","SM01193","Enolase_N_3","Enolase, N-terminal",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YHR183W","SMART","SM01350","6PGD_2","6-phosphogluconate dehydrogenase, C-terminal",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YJR109C","SMART","SM01096","CPSase_L_D3_2","Carbamoyl-phosphate synthetase, large subunit oligomerisation domain",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YKL029C","SMART","SM00919","Malic_M_2","Malic enzyme, NAD-binding",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YKL029C","SMART","SM01274","malic_2","Malic enzyme, N-terminal domain",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YKL196C","SMART","SM01270","Longin_2","Longin domain",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YKR001C","SMART","SM00053","dynamin_3","Dynamin, GTPase domain",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YKR001C","SMART","SM00302","GED_2","Dynamin GTPase effector",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YLR150W","SMART","SM01233","HABP4_PAI_RBP1_2","Hyaluronan/mRNA-binding protein",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YLR175W","SMART","SM00359","pua_5","PUA domain",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YLR175W","SMART","SM01136","DKCLD_2","Dyskerin-like",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YLR293C","SMART","SM00173","ras_sub_4","-",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YLR293C","SMART","SM00174","rho_sub_3","-",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YLR293C","SMART","SM00176","ran_sub_2","-",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YLR359W","SMART","SM00998","ADSL_C_2","Adenylosuccinate lyase C-terminal",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YLR363C","SMART","SM00670","PIN_9","PIN domain",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YLR432W","SMART","SM01240","IMPDH_2","-",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YML085C","SMART","SM00864","Tubulin_4","Tubulin/FtsZ, GTPase domain",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YML085C","SMART","SM00865","Tubulin_C_4","Tubulin/FtsZ, 2-layer sandwich domain",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YMR083W","SMART","SM00829","PKS_ER_names_mod","Polyketide synthase, enoylreductase domain",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YMR120C","SMART","SM00798","aicarft_impchas","Bifunctional purine biosynthesis protein PurH-like",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YMR120C","SMART","SM00851","MGS_2a","Methylglyoxal synthase-like domain",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YMR235C","SMART","SM00368","LRR_RI_2","-",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YMR290C","SMART","SM01178","DUF4217_3","Domain of unknown function DUF4217",1,40,1,263,0.251164797238999,6.50665906748829,0.446070579052497
+"YAF031","YOL038W","SMART","SM00948","Proteasome_A_N_2","Proteasome alpha-subunit, N-terminal domain",1,40,5,259,0.582685147943321,1.29379842269368,0.607023348225965
+"YAF031","YOR335C","SMART","SM00863","tRNA_SAD_4","Threonyl/alanyl tRNA synthetase, SAD",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YOR341W","SMART","SM00663","rpolaneu7","RNA polymerase, N-terminal",1,40,3,261,0.440399002959339,2.1678228683123,0.491392571723052
+"YAF031","YPR041W","SMART","SM00515","542_3","W2 domain",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YPR041W","SMART","SM00653","eIF2Bneu4","Translation initiation factor IF2/IF5",1,40,2,262,0.352492332926131,3.2564558489403,0.455877461773615
+"YAF031","YAL035W;YER025W","ProSiteProfiles","PS51722","Translational (tr)-type guanine nucleotide-binding (G) domain profile.","Translational (tr)-type GTP-binding domain",2,40,6,250,0.31399498764716,2.07687157212924,0.446070579052497
+"YAF031","YBL039C;YMR217W","ProSiteProfiles","PS51273","Glutamine amidotransferase type 1 domain profile.","Glutamine amidotransferase",2,40,6,250,0.31399498764716,2.07687157212924,0.446070579052497
+"YAF031","YBR121C;YHR019C;YHR020W","ProSiteProfiles","PS50862","Aminoacyl-transfer RNA synthetases class-II family profile.","Aminoacyl-tRNA synthetase, class II",3,39,9,247,0.230819210419263,2.10445255488509,0.446070579052497
+"YAF031","YBR196C","ProSiteProfiles","PS51463","Glucose-6-phosphate isomerase family profile.","Phosphoglucose isomerase (PGI)",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YDL145C;YMR146C","ProSiteProfiles","PS50082","Trp-Asp (WD) repeats profile.","WD40 repeat",2,40,11,245,0.570155446220393,1.11325303224613,0.595433273885337
+"YAF031","YDL145C;YMR146C;YOR230W","ProSiteProfiles","PS50294","Trp-Asp (WD) repeats circular profile.","WD40-repeat-containing domain",3,39,12,244,0.355862623319601,1.56139971507108,0.456537828403966
+"YAF031","YDL182W","ProSiteProfiles","PS50991","Pyruvate carboxyltransferase domain.","Pyruvate carboxyltransferase",1,41,3,253,0.457189871022199,2.05063966845326,0.504813815920345
+"YAF031","YDL192W","ProSiteProfiles","PS51417","small GTPase Arf family profile.","-",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YDR050C","ProSiteProfiles","PS51440","Triosephosphate isomerase (TIM) family profile.","Triosephosphate isomerase",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YDR194C;YKR059W;YMR290C","ProSiteProfiles","PS51192","Superfamilies 1 and 2 helicase ATP-binding type-1 domain profile.","Helicase superfamily 1/2, ATP-binding domain",3,39,17,239,0.555880322210851,1.08117521937736,0.583399150043071
+"YAF031","YDR194C;YKR059W;YMR290C","ProSiteProfiles","PS51194","Superfamilies 1 and 2 helicase C-terminal domain profile.","Helicase, C-terminal",3,39,17,239,0.555880322210851,1.08117521937736,0.583399150043071
+"YAF031","YDR194C;YKR059W;YMR290C","ProSiteProfiles","PS51195","DEAD-box RNA helicase Q motif profile.","RNA helicase, DEAD-box type, Q motif",3,39,13,243,0.397781242224945,1.43590489614899,0.478272704626479
+"YAF031","YDR233C","ProSiteProfiles","PS50845","Reticulon domain profile.","Reticulon",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YER036C","ProSiteProfiles","PS50893","ATP-binding cassette, ABC transporter-type domain profile.","ABC transporter-like",1,41,7,249,0.708008122947253,0.867999117495569,0.719893151390012
+"YAF031","YER086W","ProSiteProfiles","PS51672","ACT-like domain profile.","Threonine dehydratase, ACT-like domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YER165W;YGR159C;YHL034C","ProSiteProfiles","PS50102","Eukaryotic RNA Recognition Motif (RRM) profile.","RNA recognition motif domain",3,39,14,242,0.4390628000527,1.32827976084421,0.491392571723052
+"YAF031","YER165W","ProSiteProfiles","PS51309","Poly(A)-binding protein C-terminal (PABC) domain profile.","Polyadenylate-binding protein/Hyperplastic disc protein",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YGL234W;YJR109C","ProSiteProfiles","PS50975","ATP-grasp fold profile.","ATP-grasp fold",2,40,7,249,0.36970029298269,1.77443272741314,0.470729502176158
+"YAF031","YGL253W","ProSiteProfiles","PS51748","Hexokinase domain profile.","Hexokinase",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YGR103W","ProSiteProfiles","PS50172","BRCT domain profile.","BRCT domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YGR155W;YLR432W","ProSiteProfiles","PS51371","CBS domain profile.","CBS domain",2,40,4,252,0.201267201728424,3.1327870645708,0.446070579052497
+"YAF031","YGR234W","ProSiteProfiles","PS01033","Globin family profile.","Globin",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YGR234W","ProSiteProfiles","PS51384","Ferredoxin reductase-type FAD binding domain profile.","FAD-binding domain, ferredoxin reductase-type",1,41,4,252,0.534734175161885,1.53402186300997,0.566818225671598
+"YAF031","YGR285C","ProSiteProfiles","PS50076","dnaJ domain profile.","DnaJ domain",1,41,4,252,0.534734175161885,1.53402186300997,0.566818225671598
+"YAF031","YJR109C;YMR120C","ProSiteProfiles","PS51855","MGS-like domain profile.","Methylglyoxal synthase-like domain",2,40,4,252,0.201267201728424,3.1327870645708,0.446070579052497
+"YAF031","YKL196C","ProSiteProfiles","PS50859","Longin domain profile.","Longin domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YKL196C","ProSiteProfiles","PS50892","v-SNARE coiled-coil homology domain profile.","v-SNARE, coiled-coil homology domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YKR001C","ProSiteProfiles","PS51388","GED domain profile.","GTPase effector domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YKR001C","ProSiteProfiles","PS51718","Dynamin-type guanine nucleotide-binding (G) domain profile.","Dynamin-type guanine nucleotide-binding (G) domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YLR175W","ProSiteProfiles","PS50890","PUA domain profile.","PUA domain",1,41,3,253,0.457189871022199,2.05063966845326,0.504813815920345
+"YAF031","YLR293C","ProSiteProfiles","PS51418","small GTPase Ran family profile.","Ran GTPase",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YLR355C","ProSiteProfiles","PS51850","KARI N-terminal domain profile.","Ketol-acid reductoisomerase, N-terminal",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YLR355C","ProSiteProfiles","PS51851","KARI C-terminal domain profile.","Ketol-acid reductoisomerase, C-terminal",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YLR449W","ProSiteProfiles","PS50059","FKBP-type peptidyl-prolyl cis-trans isomerase domain profile.","FKBP-type peptidyl-prolyl cis-trans isomerase domain",1,41,2,254,0.367079098622723,3.08085702501945,0.46809485057454
+"YAF031","YMR217W","ProSiteProfiles","PS51553","GMP synthetase ATP pyrophosphatase (GMPS ATP-PPase) domain profile.","GMP synthetase ATP pyrophosphatase domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YOL038W","ProSiteProfiles","PS51475","Proteasome alpha-type subunit profile.","Proteasome alpha-type subunit",1,41,5,251,0.601427569848578,1.22348560048782,0.624247954995831
+"YAF031","YOR335C","ProSiteProfiles","PS50860","Alanyl-transfer RNA synthetases family profile.","Alanyl-tRNA synthetase, class IIc, core domain",1,41,1,255,0.262422886583961,6.1570756383008,0.446070579052497
+"YAF031","YPR041W","ProSiteProfiles","PS51363","W2 domain profile.","W2 domain",1,41,2,254,0.367079098622723,3.08085702501945,0.46809485057454
+"YAF031","YPR145W","ProSiteProfiles","PS51278","Glutamine amidotransferase type 2 domain profile.","Glutamine amidotransferase type 2 domain",1,41,5,251,0.601427569848578,1.22348560048782,0.624247954995831
+"YAF031","YBL099W","PIRSF","PIRSF039088","F_ATPase_subunit_alpha","ATP synthase, F1 complex, alpha subunit",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YBR249C","PIRSF","PIRSF001361","DAHP_synthase","DHAP synthase, class 1",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YCL030C","PIRSF","PIRSF001257","HIS4","Histidine biosynthesis trifunctional-protein",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YCR012W","PIRSF","PIRSF000724","Pgk","Phosphoglycerate kinase",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YDL145C","PIRSF","PIRSF003354","Alpha-COP","Coatomer alpha subunit",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YGR192C;YJR009C","PIRSF","PIRSF000149","GAPDH","Glyceraldehyde/Erythrose phosphate dehydrogenase family",2,18,2,155,0.063519852444458,8.41272469427621,0.446070579052497
+"YAF031","YGR240C","PIRSF","PIRSF000533","ATP_PFK_euk","ATP-dependent 6-phosphofructokinase, eukaryotic-type",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YHR174W","PIRSF","PIRSF001400","Enolase","Enolase",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YHR183W","PIRSF","PIRSF000109","6PGD","6-phosphogluconate dehydrogenase, decarboxylating",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YHR208W","PIRSF","PIRSF006468","BCAT1","Branched-chain amino acid aminotransferase II",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YJR121W","PIRSF","PIRSF039072","ATPase_subunit_beta","-",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YKL029C","PIRSF","PIRSF000106","ME","Malic oxidoreductase",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YKL142W","PIRSF","PIRSF022944","MRP8","Protein of unknown function DUF3294",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YLR058C","PIRSF","PIRSF000412","SHMT","Serine hydroxymethyltransferase",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YLR355C","PIRSF","PIRSF000119","Ilv5_fungal","Ketol-acid reductoisomerase, fungi",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YLR432W","PIRSF","PIRSF000130","IMPDH","Inosine-5'-monophosphate dehydrogenase",1,19,3,154,0.3836840054549,2.68035887238479,0.478272704626479
+"YAF031","YLR449W","PIRSF","PIRSF001473","FK506-bp_FPR3","Peptidyl-prolyl cis-trans isomerase Fpr3/Fpr4-like",1,19,1,156,0.213790446841294,8.02779212088188,0.446070579052497
+"YAF031","YMR120C","PIRSF","PIRSF000414","PurH","Bifunctional purine biosynthesis protein PurH-like",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YPR145W","PIRSF","PIRSF001589","Asn_synthetase_glu-h","Asparagine synthase, glutamine-hydrolyzing",1,19,2,155,0.303642967202289,4.027653203588,0.446070579052497
+"YAF031","YAL035W;YDL192W;YLR293C","TIGRFAM","TIGR00231","small_GTP: small GTP-binding protein domain","Small GTP-binding protein domain",3,40,9,213,0.30545862981176,1.77046077602308,0.446070579052497
+"YAF031","YBL039C","TIGRFAM","TIGR00337","PyrG: CTP synthase","CTP synthase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YBL099W","TIGRFAM","TIGR00962","atpA: ATP synthase F1, alpha subunit","ATP synthase, F1 complex, alpha subunit",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YBR121C","TIGRFAM","TIGR00389","glyS_dimeric: glycine--tRNA ligase","Glycyl-tRNA synthetase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YBR249C","TIGRFAM","TIGR00034","aroFGH: 3-deoxy-7-phosphoheptulonate synthase","DHAP synthase, class 1",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YCL030C","TIGRFAM","TIGR00069","hisD: histidinol dehydrogenase","Histidinol dehydrogenase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YCL030C","TIGRFAM","TIGR03188","histidine_hisI: phosphoribosyl-ATP diphosphatase","Phosphoribosyl-ATP pyrophosphohydrolase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YDL182W","TIGRFAM","TIGR02146","LysS_fung_arch: homocitrate synthase","Homocitrate synthase, fungi/archaea",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YDR050C","TIGRFAM","TIGR00419","tim: triose-phosphate isomerase","Triosephosphate isomerase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YDR353W","TIGRFAM","TIGR01292","TRX_reduct: thioredoxin-disulfide reductase","Thioredoxin reductase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YER086W","TIGRFAM","TIGR01124","ilvA_2Cterm: threonine ammonia-lyase, biosynthetic","Threonine dehydratase, biosynthetic",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YER165W","TIGRFAM","TIGR01628","PABP-1234: polyadenylate binding protein, human types 1, 2, 3, 4 family","Polyadenylate binding protein, human types 1, 2, 3, 4",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGL026C","TIGRFAM","TIGR00262","trpA: tryptophan synthase, alpha subunit","Tryptophan synthase, alpha chain",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGL026C","TIGRFAM","TIGR00263","trpB: tryptophan synthase, beta subunit","Tryptophan synthase, beta chain",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGL234W","TIGRFAM","TIGR00877","purD: phosphoribosylamine--glycine ligase","Phosphoribosylglycinamide synthetase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGL234W","TIGRFAM","TIGR00878","purM: phosphoribosylformylglycinamidine cyclo-ligase","Phosphoribosylformylglycinamidine cyclo-ligase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGL245W","TIGRFAM","TIGR00463","gltX_arch: glutamate--tRNA ligase","Glutamyl-tRNA synthetase, archaeal/eukaryotic cytosolic",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGR155W","TIGRFAM","TIGR01137","cysta_beta: cystathionine beta-synthase","Cystathionine beta-synthase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YGR192C;YJR009C","TIGRFAM","TIGR01534","GAPDH-I: glyceraldehyde-3-phosphate dehydrogenase, type I","Glyceraldehyde-3-phosphate dehydrogenase, type I",2,41,2,220,0.124536899872892,5.31445599283035,0.446070579052497
+"YAF031","YGR240C","TIGRFAM","TIGR02478","6PF1K_euk: 6-phosphofructokinase","ATP-dependent 6-phosphofructokinase, eukaryotic-type",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YHR019C","TIGRFAM","TIGR00457","asnS: asparagine--tRNA ligase","Asparagine-tRNA ligase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YHR020W","TIGRFAM","TIGR00408","proS_fam_I: proline--tRNA ligase","Proline-tRNA ligase, class IIa, archaeal-type",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YHR174W","TIGRFAM","TIGR01060","eno: phosphopyruvate hydratase","Enolase",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YHR183W","TIGRFAM","TIGR00873","gnd: 6-phosphogluconate dehydrogenase (decarboxylating)","6-phosphogluconate dehydrogenase, decarboxylating",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YHR208W","TIGRFAM","TIGR01123","ilvE_II: branched-chain amino acid aminotransferase","Branched-chain amino acid aminotransferase II",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YIL053W","TIGRFAM","TIGR01509","HAD-SF-IA-v3: HAD hydrolase, family IA, variant 3","HAD hydrolase, subfamily IA",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YJL014W","TIGRFAM","TIGR02344","chap_CCT_gamma: T-complex protein 1, gamma subunit","T-complex protein 1, gamma subunit",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YJR016C","TIGRFAM","TIGR00110","ilvD: dihydroxy-acid dehydratase","Dihydroxy-acid dehydratase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YJR109C","TIGRFAM","TIGR01369","CPSaseII_lrg: carbamoyl-phosphate synthase, large subunit","Carbamoyl-phosphate synthase, large subunit",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YJR121W","TIGRFAM","TIGR01039","atpD: ATP synthase F1, beta subunit","ATP synthase, F1 complex, beta subunit",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YLR175W","TIGRFAM","TIGR00425","CBF5: putative rRNA pseudouridine synthase","tRNA pseudouridine synthase B family",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YLR175W","TIGRFAM","TIGR00451","unchar_dom_2: uncharacterized domain 2","Uncharacterised domain CHP00451",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YLR259C","TIGRFAM","TIGR02348","GroEL: chaperonin GroL","Chaperonin Cpn60",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YLR354C","TIGRFAM","TIGR00874","talAB: transaldolase","Transaldolase type 1",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YLR355C","TIGRFAM","TIGR00465","ilvC: ketol-acid reductoisomerase","Ketol-acid reductoisomerase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YLR359W","TIGRFAM","TIGR00928","purB: adenylosuccinate lyase","Adenylosuccinate lyase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YLR432W","TIGRFAM","TIGR01302","IMP_dehydrog: inosine-5'-monophosphate dehydrogenase","Inosine-5'-monophosphate dehydrogenase",1,42,3,219,0.509651102486351,1.73379272934895,0.549153919832816
+"YAF031","YML126C","TIGRFAM","TIGR01833","HMG-CoA-S_euk: hydroxymethylglutaryl-CoA synthase","Hydroxymethylglutaryl-CoA synthase, eukaryotic",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YMR120C","TIGRFAM","TIGR00355","purH: phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase","Bifunctional purine biosynthesis protein PurH-like",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YMR217W","TIGRFAM","TIGR00884","guaA_Cterm: GMP synthase (glutamine-hydrolyzing), C-terminal domain","GMP synthase, C-terminal",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YMR217W","TIGRFAM","TIGR00888","guaA_Nterm: GMP synthase (glutamine-hydrolyzing), N-terminal domain","GMP synthase, glutamine amidotransferase",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YOL059W","TIGRFAM","TIGR03376","glycerol3P_DH: glycerol-3-phosphate dehydrogenase (NAD(+))","Glycerol-3-phosphate dehydrogenase, NAD-dependent, eukaryotic",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YOR335C","TIGRFAM","TIGR00344","alaS: alanine--tRNA ligase","Alanine-tRNA ligase, class IIc",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YPL160W","TIGRFAM","TIGR00395","leuS_arch: leucine--tRNA ligase","Leucyl-tRNA synthetase, class Ia, archaeal/eukaryotic cytosolic",1,42,1,221,0.298713550600343,5.21223397075303,0.446070579052497
+"YAF031","YPR145W","TIGRFAM","TIGR01536","asn_synth_AEB: asparagine synthase (glutamine-hydrolyzing)","Asparagine synthase, glutamine-hydrolyzing",1,42,2,220,0.413372551832987,2.6064436831296,0.478272704626479
+"YAF031","YAL035W;YER025W","PRINTS","PR00315","GTP-binding elongation factor signature","Translational (tr)-type GTP-binding domain",2,32,6,167,0.388901672592298,1.73411292520403,0.478272704626479
+"YAF031","YBR121C","PRINTS","PR01043","Glycyl-tRNA synthetase signature","Glycyl-tRNA synthetase",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YBR196C","PRINTS","PR00662","Glucose-6-phosphate isomerase signature","Phosphoglucose isomerase (PGI)",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YCL030C","PRINTS","PR00083","Histidinol dehydrogenase signature","Histidinol dehydrogenase",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YCR012W","PRINTS","PR00477","Phosphoglycerate kinase family signature","Phosphoglycerate kinase",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YDL145C","PRINTS","PR00320","G protein beta WD-40 repeat signature","G-protein beta WD-40 repeat",1,33,6,167,0.720959667850365,0.844092299110025,0.730434645564049
+"YAF031","YDL192W","PRINTS","PR00328","GTP-binding SAR1 protein signature","Small GTPase superfamily, ARF/SAR type",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YDL208W","PRINTS","PR00881","Ribosomal protein L7A/RS6 family signature","Ribosomal protein L7Ae/L8/Nhp2 family",1,33,3,170,0.514937179764368,1.71188269228702,0.552742694228081
+"YAF031","YDL208W","PRINTS","PR00883","High mobility group-like nuclear protein signature","H/ACA ribonucleoprotein complex, subunit Nhp2, eukaryote",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YDR353W","PRINTS","PR00368","FAD-dependent pyridine nucleotide reductase signature","-",1,33,3,170,0.514937179764368,1.71188269228702,0.552742694228081
+"YAF031","YDR353W","PRINTS","PR00469","Pyridine nucleotide disulphide reductase class-II signature","-",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YGL245W","PRINTS","PR00987","Glutamyl-tRNA synthetase signature","Glutamyl/glutaminyl-tRNA synthetase",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YGL253W","PRINTS","PR00475","Hexokinase family signature","-",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YGR175C","PRINTS","PR00420","Aromatic-ring hydroxylase (flavoprotein monooxygenase) signature","-",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YGR192C;YJR009C","PRINTS","PR00078","Glyceraldehyde-3-phosphate dehydrogenase signature","Glyceraldehyde/Erythrose phosphate dehydrogenase family",2,32,2,171,0.126886923575863,5.27880339985268,0.446070579052497
+"YAF031","YGR240C","PRINTS","PR00476","ATP-dependent phosphofructokinase family signature","ATP-dependent 6-phosphofructokinase",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YHR019C","PRINTS","PR01042","Aspartyl-tRNA synthetase signature","Aspartyl/Asparaginyl-tRNA synthetase, class IIb",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YHR020W","PRINTS","PR01046","Prolyl-tRNA synthetase signature","Proline-tRNA ligase, class IIa",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YHR064C;YPL106C","PRINTS","PR00301","70kDa heat shock protein signature","-",2,32,7,166,0.451832979662025,1.47897738923714,0.50085538137699
+"YAF031","YHR174W","PRINTS","PR00148","Enolase signature","Enolase",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YHR183W","PRINTS","PR00076","6-phosphogluconate dehydrogenase signature","6-phosphogluconate dehydrogenase",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YJL014W","PRINTS","PR00304","Tailless complex polypeptide 1 (chaperone) signature","Chaperone tailless complex polypeptide 1 (TCP-1)",1,33,8,165,0.807966967397525,0.626228256164093,0.812759179541045
+"YAF031","YJR109C","PRINTS","PR00098","Carbamoyl-phosphate synthase protein CPSase domain signature","Carbamoyl-phosphate synthase large subunit, CPSase domain",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YKL029C","PRINTS","PR00072","Malic enzyme signature","Malic oxidoreductase",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YKL196C","PRINTS","PR00219","Synaptobrevin signature","Synaptobrevin",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YKR001C","PRINTS","PR00195","Dynamin signature","Dynamin superfamily",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YLR259C","PRINTS","PR00298","60kDa chaperonin signature","Chaperonin Cpn60",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YLR293C","PRINTS","PR00627","GTP-binding nuclear protein Ran/Tc4 family signature","Ran GTPase",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YLR359W","PRINTS","PR00149","Fumarate lyase superfamily signature","Fumarate lyase family",1,33,3,170,0.514937179764368,1.71188269228702,0.552742694228081
+"YAF031","YML085C","PRINTS","PR01161","Tubulin signature","Tubulin",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YML085C","PRINTS","PR01162","Alpha-tubulin signature","Alpha tubulin",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YMR217W","PRINTS","PR00096","Glutamine amidotransferase superfamily signature","-",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YMR217W","PRINTS","PR00097","Anthranilate synthase component II signature","-",1,33,2,171,0.417924615717242,2.57524452596264,0.478272704626479
+"YAF031","YOL059W","PRINTS","PR00077","NAD-dependent glycerol-3-phosphate dehydrogenase signature","Glycerol-3-phosphate dehydrogenase, NAD-dependent",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YOR335C","PRINTS","PR00980","Alanyl-tRNA synthetase signature","Alanine-tRNA ligase, class IIc",1,33,1,172,0.302190328783828,5.14993561650608,0.446070579052497
+"YAF031","YHR174W","SFLD","SFLDF00002","enolase","Enolase",1,1,2,13,0.330882352941177,5.50761894334377,0.446070579052497
+"YAF031","YHR174W","SFLD","SFLDG00178","enolase","-",1,1,1,14,0.227941176470588,10.2470193201314,0.446070579052497
+"YAF031","YIL053W","SFLD","SFLDF00037","glycerol-3-phosphate phosphatase","-",1,1,1,14,0.227941176470588,10.2470193201314,0.446070579052497
+"YAF031","YIL053W","SFLD","SFLDG01135","C1.5.6: HAD, Beta-PGM, Phosphatase Like","-",1,1,0,15,0.117647058823529,Inf,0.446070579052497

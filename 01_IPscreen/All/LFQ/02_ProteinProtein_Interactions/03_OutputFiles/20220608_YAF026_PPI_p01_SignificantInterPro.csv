@@ -1,0 +1,4 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF026","YCR035C;YDL111C;YDR280W;YGR095C;YGR158C;YGR195W","Gene3D","G3DSA:3.30.230.70","GHMP Kinase","PNPase/RNase PH domain superfamily",6,86,6,450,0.00752249807067003,5.2090955706356,0.421437530311584
+"YAF026","YCR035C;YDL111C;YDR280W;YGR095C;YGR158C;YGR195W","Pfam","PF01138","3' exoribonuclease family, domain 1","Exoribonuclease, phosphorolytic domain 1",6,90,6,493,0.00616580821440126,5.45397405865783,0.421437530311584
+"YAF026","YCR035C;YDL111C;YDR280W;YGL123W;YGR095C;YGR158C;YGR195W;YNL088W","SUPERFAMILY","SSF54211","Ribosomal protein S5 domain 2-like","Ribosomal protein S5 domain 2-type fold",8,76,12,430,0.0074801926557921,3.75841302590826,0.421437530311584

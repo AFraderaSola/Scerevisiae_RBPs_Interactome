@@ -1,0 +1,3 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF024","YEL026W;YGL030W;YOR369C","Gene3D","G3DSA:3.30.1330.30","-","50S ribosomal protein L30e-like",3,26,5,479,0.00753078727590476,10.919741908914,0.244941992379811
+"YAF024","YEL026W;YGL030W;YOR369C","Pfam","PF01248","Ribosomal protein L7Ae/L30e/S12e/Gadd45 family","Ribosomal protein L7Ae/L30e/S12e/Gadd45",3,27,6,525,0.00934007912809898,9.62293656801803,0.244941992379811

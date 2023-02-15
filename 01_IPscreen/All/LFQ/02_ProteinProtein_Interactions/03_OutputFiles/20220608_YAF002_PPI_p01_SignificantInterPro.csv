@@ -1,0 +1,3 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF002","YGR254W;YHR174W","SMART","SM01192","Enolase_C_3","Enolase, C-terminal TIM barrel domain",2,10,2,263,0.0098633520732058,25.1772863090053,0.193235319749871
+"YAF002","YGR254W;YHR174W","SMART","SM01193","Enolase_N_3","Enolase, N-terminal",2,10,2,263,0.0098633520732058,25.1772863090053,0.193235319749871

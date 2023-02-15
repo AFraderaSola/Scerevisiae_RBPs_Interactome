@@ -1,0 +1,2 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF016","YIL021W;YOL005C","Gene3D","G3DSA:3.30.1360.10","-","RNA polymerase, RBP11-like subunit",2,21,2,517,0.00982452972139967,24.0893263588261,0.152337433619948
