@@ -16,6 +16,10 @@ Within this folder you can find the data and scripts to generate the following f
 
 It is organized in **14 sub-folders**, usually an **Input** and **Output** folder for each script (the prefix number of the folders matches the one of the scripts)
 
+## 00_IPsResultsFiles
+
+This **sub-folder** contains the **quantified proteins** and the **enriched proteins** for the **PPI** and **RDI** groups for each YAFXXX strain.
+
 ## 01_OutputFiles
 
 This **sub-folder** contains the output files from the **01_Overlap_PPIandRNAm.R** script, including **Figure 2E**.
