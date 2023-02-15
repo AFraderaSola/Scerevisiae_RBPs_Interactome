@@ -24,12 +24,20 @@ This folder contains the scripts for the analysis of the IP screen (described in
 
 - Figure 2A, 2B, 2C, 2D and 2E
 
-- Figure 3A, 3B, 3C, 3D and 3E
+- Figure 3A, 3B and 3C
 
-- Figure 5A, 5B, 5C and 5D
+- Figure 5A and 5B
 
-- Figure 6A, 6B, 6C and 6D
+- Figure 6A, 6B, 6C, 6D and 6E
 
-- Figure 7A, 7B, 7C and 7D
+- Figure 7
 
 It also contains the scripts to generate Supplementary tables 1 to 8. More details inside the folder.
+
+## 02_KOscreen
+
+This folder contains the scripts for the analysis of the KO screen (described in Figure 4A). Within this folder you can find the scripts and the data to generate the following figures:
+
+- Figure 4B, 4C, 4D and 4E
+
+It also contains the scripts to generate Supplementary tables 9, 11 and 12. More details inside the folder.

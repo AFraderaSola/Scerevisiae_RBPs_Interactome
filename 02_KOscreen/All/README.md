@@ -6,7 +6,7 @@ Within this folder you can find the data and scripts to generate the following f
 
 - Figure 4C, 4D and 4E
 
-It is organized in **xxx sub-folders**, usually an **Input** and **Output** folder for each script (the prefix number of the folders matches the one of the scripts)
+It is organized in **7 sub-folders**, usually an **Input** and **Output** folder for each script (the prefix number of the folders matches the one of the scripts)
 
 ## 00_IPsResultsFiles
 
