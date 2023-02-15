@@ -30,6 +30,8 @@ Within this folder you can find the data and scripts to generate the following f
 
 - Figure 2C
 
+- Figure 5A
+
 - Figure 6A
 
 More details on the scripts and how to run them inside this folder.
@@ -41,6 +43,8 @@ This **sub-folder** contains all the scripts from the **RDI** group.
 Within this folder you can find the data and scripts to generate the following figures:
 
 - Figure 2D
+
+- Figure 5B
 
 - Figure 6B
 

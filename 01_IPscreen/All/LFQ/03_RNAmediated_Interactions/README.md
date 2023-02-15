@@ -1,20 +1,20 @@
-# 02_ProteinProtein_Interactions
+# 03_RNAmediated_Interactions
 
-This **sub-folder** contains all the scripts from the **PPI** group. 
+This **sub-folder** contains all the scripts from the **RDI** group. 
 
 Within this folder you can find the data and scripts to generate the following figures:
 
-- Figure 2C
+- Figure 2D
 
-- Figure 5A
+- Figure 5B
 
-- Figure 6A
+- Figure 6B
 
 It is organized in **7 sub-folders**, usually an **Input** and **Output** folder for each script (the prefix number of the folders matches the one of the scripts)
 
 ## 00_IPsResultsFiles
 
-This **sub-folder** contains the **quantified proteins** and the **enriched proteins** for the **PPI** group for each YAFXXX strain.
+This **sub-folder** contains the **quantified proteins** and the **enriched proteins** for the **RDI** groups for each YAFXXX strain.
 
 ## 01_InputFiles
 
@@ -22,7 +22,7 @@ This **sub-folder** contains the input files from the **01_Interactors_SGDandCen
 
 ## 01_OutputFiles
 
-This **sub-folder** contains the output files from the **01_Interactors_SGDandCensus.R** script, including **Figure 2C**.
+This **sub-folder** contains the output files from the **01_Interactors_SGDandCensus.R** script, including **Figure 2D**.
 
 ## 01_Interactors_SGDandCensus.R
 
@@ -54,10 +54,10 @@ This **sub-folder** contains the output files from the **04_Fulll_Network_v02.R*
 
 This script generates a **global network**, highlighting all functionalities, for the  **PPI** group in each YAFXX strain. With this script, you can generate the following figures:
 
-- Figure 5A
+- Figure 5B
 
 ## 04_Individual_Networks_v02.R
 
 This script generates an **individual functional network** for the  **PPI** group in each YAFXX strain. With this script, you can generate the following figures:
 
-- Figure 6A
+- Figure 6B
