@@ -32,7 +32,7 @@ This script summarizes the enriched proteins for the **PPI** group in each YAFXX
 
 ## 03_InputFiles
 
-This **sub-folder** should contains the input files from the **03_InterPro_FunctionalAnalysis.R** script, but they are too heavy for github. These are .fasta files containing the aminoacid sequences of all enriched and quantified yeast proteins. If you need them, contact me. 
+This **sub-folder** should contain the input files from the **03_InterPro_FunctionalAnalysis.R** script, but they are too heavy for github. These are .fasta files containing the aminoacid sequences of all enriched and quantified yeast proteins. If you need them, contact me. 
 
 ## 03_OutputFiles
 
