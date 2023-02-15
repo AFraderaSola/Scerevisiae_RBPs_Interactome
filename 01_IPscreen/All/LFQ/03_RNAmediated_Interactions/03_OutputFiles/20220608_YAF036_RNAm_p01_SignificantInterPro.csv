@@ -1,0 +1,3 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF036","YGR155W;YLR432W;YML056C","SUPERFAMILY","SSF54631","CBS-domain pair","-",3,16,3,193,0.00996277801594756,11.7526397600867,0.321737308736744
+"YAF036","YGR155W;YLR432W;YML056C","Pfam","PF00571","CBS domain","CBS domain",3,17,3,221,0.00810010981219088,12.681485523236,0.321737308736744

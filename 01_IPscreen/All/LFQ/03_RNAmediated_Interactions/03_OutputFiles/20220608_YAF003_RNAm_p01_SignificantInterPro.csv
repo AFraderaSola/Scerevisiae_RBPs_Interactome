@@ -1,0 +1,5 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF003","YLR432W;YML056C","ProSitePatterns","PS00487","IMP dehydrogenase / GMP reductase signature.","IMP dehydrogenase / GMP reductase, conserved site",2,4,3,280,0.00350470126178491,43.266760656418,0.131855029603091
+"YAF003","YDL192W;YPL218W","Pfam","PF00025","ADP-ribosylation factor family","Small GTPase superfamily, ARF/SAR type",2,17,2,492,0.00747003424657535,28.1825260978201,0.131855029603091
+"YAF003","YDL192W;YPL218W","PRINTS","PR00328","GTP-binding SAR1 protein signature","Small GTPase superfamily, ARF/SAR type",2,3,2,145,0.00508958292883193,42.7755051445078,0.131855029603091
+"YAF003","YDL192W;YFL038C;YPL218W","TIGRFAM","TIGR00231","small_GTP: small GTP-binding protein domain","Small GTP-binding protein domain",3,3,7,153,0.00290507045933726,20.6698227199549,0.131855029603091

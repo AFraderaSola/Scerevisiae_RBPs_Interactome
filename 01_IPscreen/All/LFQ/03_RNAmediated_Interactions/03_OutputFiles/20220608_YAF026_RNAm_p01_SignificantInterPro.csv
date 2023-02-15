@@ -1,0 +1,4 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF026","YDL192W;YPL218W","PRINTS","PR00328","GTP-binding SAR1 protein signature","Small GTPase superfamily, ARF/SAR type",2,2,2,120,0.00447341800606946,50.8729023213034,0.129794798196392
+"YAF026","YBL032W;YJL080C","Pfam","PF00013","KH domain","K Homology domain, type 1",2,16,2,497,0.00660031014544615,30.1882736000096,0.129794798196392
+"YAF026","YDL192W;YPL218W","Pfam","PF00025","ADP-ribosylation factor family","Small GTPase superfamily, ARF/SAR type",2,16,2,497,0.00660031014544615,30.1882736000096,0.129794798196392

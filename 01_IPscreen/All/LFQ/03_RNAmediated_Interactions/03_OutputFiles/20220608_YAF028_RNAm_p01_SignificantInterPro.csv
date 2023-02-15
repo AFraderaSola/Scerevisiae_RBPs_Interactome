@@ -1,0 +1,10 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF028","YBL076C;YGR094W;YPL160W","Pfam","PF00133","tRNA synthetases class I (I, L, M and V)","Aminoacyl-tRNA synthetase, class Ia",3,10,3,311,0.000923331701270929,29.8154957517283,0.0263728616684684
+"YAF028","YBL076C;YGR094W;YPL160W","Pfam","PF08264","Anticodon-binding domain of tRNA ligase","Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding",3,10,3,311,0.000923331701270929,29.8154957517283,0.0263728616684684
+"YAF028","YBL076C;YDR341C;YGR094W;YPL160W","Gene3D","G3DSA:1.10.730.10","-","-",4,9,5,285,0.000231544167168979,24.3905577886286,0.0214924605703316
+"YAF028","YBL076C;YDR341C;YGR094W;YPL160W","Gene3D","G3DSA:3.40.50.620","HUPs","Rossmann-like alpha/beta/alpha sandwich fold",4,9,7,283,0.000577298323405613,17.4445164459085,0.0251124770681442
+"YAF028","YBL076C;YGR094W;YPL160W","Gene3D","G3DSA:3.90.740.10","-","Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain",3,10,3,287,0.00115481853909798,27.523648338119,0.0263728616684684
+"YAF028","YBL076C;YDR341C;YGR094W;YPL160W","SUPERFAMILY","SSF47323","Anticodon-binding domain of a subclass of class I aminoacyl-tRNA synthetases","Aminoacyl-tRNA synthetase, class Ia, anticodon-binding",4,9,5,280,0.000247039776670479,23.9634665013196,0.0214924605703316
+"YAF028","YBL076C;YGR094W;YPL160W","SUPERFAMILY","SSF50677","ValRS/IleRS/LeuRS editing domain","Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain",3,10,3,282,0.00121254536406751,27.0449893614385,0.0263728616684684
+"YAF028","YBL076C;YDR341C;YGR094W;YPL160W","SUPERFAMILY","SSF52374","Nucleotidylyl transferase","-",4,9,6,279,0.000401560450179074,19.990754744307,0.0232905061103863
+"YAF028","YBL076C;YDR341C;YGR094W","ProSitePatterns","PS00178","Aminoacyl-transfer RNA synthetases class-I signature.","Aminoacyl-tRNA synthetase, class I, conserved site",3,6,5,193,0.00288639333645063,18.4506358379066,0.0558036045047121

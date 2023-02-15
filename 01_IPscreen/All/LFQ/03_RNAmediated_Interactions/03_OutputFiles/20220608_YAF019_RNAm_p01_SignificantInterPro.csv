@@ -1,0 +1,4 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF019","YCL011C;YDL213C;YER165W;YHL034C","Gene3D","G3DSA:3.30.70.330","-","Nucleotide-binding alpha-beta plait domain superfamily",4,20,26,877,0.00604138507338546,6.71363606966045,0.114562738100633
+"YAF019","YCL011C;YDL213C;YER165W;YHL034C;YNR051C","ProSiteProfiles","PS50102","Eukaryotic RNA Recognition Motif (RRM) profile.","RNA recognition motif domain",5,11,24,418,0.00191882425266327,7.83965340075437,0.114562738100633
+"YAF019","YCL011C;YDL213C;YER165W;YHL034C","SUPERFAMILY","SSF54928","RNA-binding domain, RBD","RNA-binding domain superfamily",4,22,25,873,0.00725832951257392,6.32021477003249,0.114562738100633

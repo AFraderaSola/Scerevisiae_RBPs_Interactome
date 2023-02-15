@@ -1,0 +1,6 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF013","YDL213C;YER165W;YHL034C;YNL175C","SUPERFAMILY","SSF54928","RNA-binding domain, RBD","RNA-binding domain superfamily",4,7,19,596,0.000387713049255371,17.6433819260597,0.0523412616494751
+"YAF013","YER165W;YHL034C;YNL175C","Pfam","PF00076","RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)","RNA recognition motif domain",3,9,17,672,0.00371675328031162,13.0190870450971,0.0903345556155209
+"YAF013","YDL213C;YNL175C","PANTHER","PTHR23236","EUKARYOTIC TRANSLATION INITIATION FACTOR 4B/4H","-",2,12,4,686,0.00526908970501122,27.8771420145639,0.0903345556155209
+"YAF013","YDL213C;YER165W;YHL034C;YNL175C","Gene3D","G3DSA:3.30.70.330","-","Nucleotide-binding alpha-beta plait domain superfamily",4,9,20,602,0.000898320111734333,13.2118700243256,0.0606366075420674
+"YAF013","YDL213C;YER165W;YHL034C;YNL175C","ProSiteProfiles","PS50102","Eukaryotic RNA Recognition Motif (RRM) profile.","RNA recognition motif domain",4,5,20,264,0.00334690329960883,10.3719917858972,0.0903345556155209

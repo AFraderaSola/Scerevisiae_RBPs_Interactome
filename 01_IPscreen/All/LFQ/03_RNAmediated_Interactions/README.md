@@ -26,9 +26,9 @@ This **sub-folder** contains the output files from the **01_Interactors_SGDandCe
 
 ## 01_Interactors_SGDandCensus.R
 
-This script summarizes the enriched proteins for the **PPI** group in each YAFXX strain and creates a **bar plot** showing their **inclusion** at **BioGRID** and the **RBP census**. With this script, you can generate the following figures:
+This script summarizes the enriched proteins for the **RDI** group in each YAFXX strain and creates a **bar plot** showing their **inclusion** at **BioGRID** and the **RBP census**. With this script, you can generate the following figures:
 
-- Figure 2C
+- Figure 2D
 
 ## 03_InputFiles
 
@@ -48,7 +48,7 @@ This **sub-folder** contains the input files from the **04_Full_Network_v02.R** 
 
 ## 04_OutputFiles
 
-This **sub-folder** contains the output files from the **04_Fulll_Network_v02.R**  and the **04_Individual_Networks_v02.R** script, including **Figure 5A** and **Figure 6A**.
+This **sub-folder** contains the output files from the **04_Fulll_Network_v02.R**  and the **04_Individual_Networks_v02.R** script, including **Figure 5B** and **Figure 6B**.
 
 ## 04_Full_Network_v02.R
 

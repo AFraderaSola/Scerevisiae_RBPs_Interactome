@@ -1,0 +1,8 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF024","YDR381W;YER165W;YHL034C;YNL175C;YOL041C;YPL043W","SUPERFAMILY","SSF54928","RNA-binding domain, RBD","RNA-binding domain superfamily",6,21,13,462,0.000229623978039095,10.0400360778549,0.0248378871131352
+"YAF024","YDR381W;YER165W;YHL034C;YNL175C;YOL041C;YPL043W","Pfam","PF00076","RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)","RNA recognition motif domain",6,24,12,519,0.000165898272697853,10.6968949015225,0.0248378871131352
+"YAF024","YDR381W;YER165W;YHL034C;YNL175C;YOL041C;YPL043W","SMART","SM00360","rrm1_1","RNA recognition motif domain",6,12,13,237,0.000610390674792611,8.95957059524539,0.0396753938615197
+"YAF024","YDR381W;YER165W;YHL034C;YNL175C;YOL041C;YPL043W","Gene3D","G3DSA:3.30.70.330","-","Nucleotide-binding alpha-beta plait domain superfamily",6,21,14,470,0.00028659100515156,9.49078037675776,0.0248378871131352
+"YAF024","YDR381W;YER165W;YHL034C;YNL175C;YNR051C;YOL041C;YPL043W","ProSiteProfiles","PS50102","Eukaryotic RNA Recognition Motif (RRM) profile.","RNA recognition motif domain",7,15,14,210,0.000892983884141002,6.90055340798512,0.0464351619753321
+"YAF024","YLR432W;YML056C","ProSitePatterns","PS00487","IMP dehydrogenase / GMP reductase signature.","IMP dehydrogenase / GMP reductase, conserved site",2,3,2,287,0.00137401501095046,84.3604860291214,0.0595406504745201
+"YAF024","YLR432W;YML056C","PIRSF","PIRSF000130","IMPDH","Inosine-5'-monophosphate dehydrogenase",2,2,2,112,0.00509562689320269,47.494605568937,0.171707923785176

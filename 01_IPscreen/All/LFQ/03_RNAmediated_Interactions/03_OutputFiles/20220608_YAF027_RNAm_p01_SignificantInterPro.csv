@@ -1,0 +1,2 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF027","YAL005C;YJL034W;YLL024C;YNL209W","ProSitePatterns","PS00297","Heat shock hsp70 proteins family signature 1.","Heat shock protein 70, conserved site",4,17,5,176,0.00784106596676486,8.11725057725295,0.357129288182322

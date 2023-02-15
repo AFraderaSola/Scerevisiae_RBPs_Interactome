@@ -1,0 +1,2 @@
+"Pulldown stock ID","Enriched Interacors ID","Analysis","Signature accession","Signature description","Interpro description","Enriched IN signature","Enriched NOT in signature","Quantified IN signature","Quantified NOT in signature","P-value","Estimate","Adjusted P-value"
+"YAF011","YDR381W;YER165W;YMR268C;YOL041C;YPL043W","SUPERFAMILY","SSF54928","RNA-binding domain, RBD","RNA-binding domain superfamily",5,34,15,496,0.00973845333948172,4.83755251435564,0.266156049567221
