@@ -39,3 +39,17 @@ This **sub-folder** contains the output files from the **03_KEGG_Enrichment.R** 
 This script compares the KEGG enrichment results for the **KO** enriched proteins in each YKAFXX strain and creates a **heat map** comparing them. With this script, you can generate the following figures:
 
 - Figure 4D
+
+## 07_InputFiles
+
+This **sub-folder** contains the input files from the **07_ProteinComplexAnalysisPerGroup.R** script, including **Figure 4E**.
+
+## 07_OutputFiles
+
+This **sub-folder** contains the output files from the **07_ProteinComplexAnalysisPerGroup.R** script, including **Figure 4E**.
+
+## 07_ProteinComplexAnalysisPerGroup.R
+
+This script generates the **CYC2008 complex networks** for  **KO** enriched proteins in each YKAFXX strain. With this script, you can generate the following figures:
+
+- Figure 4E
