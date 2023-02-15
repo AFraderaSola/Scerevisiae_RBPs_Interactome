@@ -6,11 +6,11 @@ Script to perform a functional analysis, including GO, Reactome and KEGG databas
 
 It requires the following input files for each KO-RBP:
 
-- **_YAFXXX_QuantifiedProteins.csv_**:  Obtained during the **CoreAnalysis**, it contains all the quantified proteins and its associated statistical values. We need the **Protein.IDs column** which we will use as our universe (background) during the enrichment analysis. It can be found, for each KO-RBP, on the different sheets of the 01_CoreAnalysis_LFQ_QuantifiedProteins.xlsx file. 
+- **_YKAFXXX_QuantifiedProteins.csv_**:  Obtained during the **CoreAnalysis**, it contains all the quantified proteins and its associated statistical values. We need the **Protein.IDs column** which we will use as our universe (background) during the enrichment analysis. It can be found, for each KO-RBP, on the different sheets of the 01_CoreAnalysis_LFQ_QuantifiedProteins.xlsx file. 
 
 - **YKAFXXX_Enriched_YKAFXXX_vs_YKAF000.csv_**:  Obtained during the **CoreAnalysis**, it contains all the enriched proteins and its associated statistical values. We need the **Protein.IDs column** which we will compare to the universe (background) during the enrichment analysis. It can be found, for each KO-RBP, on the different sheets of the 01_CoreAnalysis_LFQ_EnrichedProteins.xlsx file.
 
-Additionally, it requires the 00_KOScreeningMasterFile.xlsx (02_KOscreen folder) file to match the stock ID, YAFXXX, to its systematic and gene name. 
+Additionally, it requires the 00_KOScreeningMasterFile.xlsx (02_KOscreen folder) file to match the stock ID, YKAFXXX, to its systematic and gene name. 
 
 ## LFQ_KO_Enrichment.R Script
 

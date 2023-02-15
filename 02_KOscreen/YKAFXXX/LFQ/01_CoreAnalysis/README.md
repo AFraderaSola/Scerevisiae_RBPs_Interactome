@@ -12,7 +12,7 @@ It requires the following input files:
 
 - **_volcano_contrasts.txt_**:  It contains two colums (right and left) in which the user can specify the **direction of the contrasts** in the statistical analysis as well as the volcano plot output. For instance, if you want to compare *KO* against the *WT* this would go on the right and left column respectively. For this project, we were always interested in the same comparison, KO against WT. If not provided, a combination of all possible contrasts will be generated automatically. **Not necessary** for the analysis.
 
-A minimal example of each file can be found in this folder. Additionally, it requires the 00_KOScreeningMasterFile.xlsx (02_KOscreen folder) file to match the stock ID, YAFXXX, to its systematic and gene name. 
+A minimal example of each file can be found in this folder. Additionally, it requires the 00_KOScreeningMasterFile.xlsx (02_KOscreen folder) file to match the stock ID, YKAFXXX, to its systematic and gene name. 
 
 ## RBP_label_free_analysis.R Script
 
@@ -44,12 +44,12 @@ The script performs the core label free quantification (LFQ) analysis. Its goal 
 If the script runs properly, it generates a series of output files that can roughly be categorized into the following categories:
 
 - **_Tables_**: Either in .txt or .csv format, a number of tables will be generated containing the analysis results. Noteworthy are the following:
-  - YAFXXX_QuantifiedProteins.csv contains **all** the proteins detected in **all** conditions after the filtering steps and its associated intensity, imputed intensity, and statistical values.
+  - YKAFXXX_QuantifiedProteins.csv contains **all** the proteins detected in **all** conditions after the filtering steps and its associated intensity, imputed intensity, and statistical values.
   - YKAFXXX_Enriched_YKAFXXX_vs_YKAF000.csv contains the **significantly enriched** proteins from comparing a RBP-KO (KO) to a wild type (WT). We obtain the **PPI** set for each bait from this file.
 
 Supplementary table 9 from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the output tables of this script. A table summary can be found on the 00_KOScreeningMasterFile.xlsx file, while the combined Quantified and Enriched tables for each KO-RBP can be found at  01_CoreAnalysis_LFQ_QuantifiedProteins.xlsx, 01_CoreAnalysis_LFQ_EnrichedProteins.xlsx, respectively (02_KOscreen folder).
 
 - **_Plots_**: The previously mention plots (RBP_label_free_analysis.R Script section) will be generated in .pdf.
 
-Figure 4B from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the volcano plots obtained within this script. The script output's **plots for all RBP-baits** are included in the 01_CoreAnalysis_LFQ_Summary.pdf file, in the 02_KOscreen folder.
+Figure 4B from the **"RNA-dependent interactome allows network-based assignment of RBP function"** publication were generated from the volcano plots obtained within this script. The script output's **plots for all KO-RBP** are included in the 01_CoreAnalysis_LFQ_Summary.pdf file, in the 02_KOscreen folder.
   
