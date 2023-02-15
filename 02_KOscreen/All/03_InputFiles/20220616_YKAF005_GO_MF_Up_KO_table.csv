@@ -1,0 +1,5 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0016278","lysine N-methyltransferase activity","2/7","15/2848",0.000535661015812215,0.0136593559032115,0.0118409277179542,"BRE2/RKM2",2
+"GO:0016279","protein-lysine N-methyltransferase activity","2/7","15/2848",0.000535661015812215,0.0136593559032115,0.0118409277179542,"BRE2/RKM2",2
+"GO:0008276","protein methyltransferase activity","2/7","24/2848",0.00139322138921752,0.0225111352340248,0.0195142967972971,"BRE2/RKM2",2
+"GO:0008170","N-methyltransferase activity","2/7","27/2848",0.00176557923404116,0.0225111352340248,0.0195142967972971,"BRE2/RKM2",2

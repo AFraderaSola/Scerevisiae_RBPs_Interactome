@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce03420","Nucleotide excision repair","2/6","22/1416",0.003330209586159,0.039962515033908,0.0315493539741379,"851456/856085",2

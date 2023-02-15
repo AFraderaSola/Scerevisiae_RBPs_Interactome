@@ -1,0 +1,3 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce00562","Inositol phosphate metabolism","2/9","12/1430",0.00225053129421653,0.0161543220357973,0.0127534121335242,"851753/851881",2
+"sce04070","Phosphatidylinositol signaling system","2/9","16/1430",0.00403858050894934,0.0161543220357973,0.0127534121335242,"851753/851881",2

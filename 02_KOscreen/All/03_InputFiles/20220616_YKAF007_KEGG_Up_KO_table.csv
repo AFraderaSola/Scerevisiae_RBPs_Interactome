@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"sce04144","Endocytosis","2/4","61/1443",0.0099861655761011,0.0299584967283033,0.0210235064760023,"850930/850878",2

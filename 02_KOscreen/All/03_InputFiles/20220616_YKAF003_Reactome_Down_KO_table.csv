@@ -1,0 +1,4 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"R-SCE-6782135","Saccharomyces cerevisiae: Dual incision in TC-NER","1/1","37/1183",0.0312764158918006,0.0439560439560436,0.0115673799884325,"856085",1
+"R-SCE-6781827","Saccharomyces cerevisiae: Transcription-Coupled Nucleotide Excision Repair (TC-NER)","1/1","38/1183",0.032121724429417,0.0439560439560436,0.0115673799884325,"856085",1
+"R-SCE-5696398","Saccharomyces cerevisiae: Nucleotide Excision Repair","1/1","39/1183",0.0329670329670327,0.0439560439560436,0.0115673799884325,"856085",1

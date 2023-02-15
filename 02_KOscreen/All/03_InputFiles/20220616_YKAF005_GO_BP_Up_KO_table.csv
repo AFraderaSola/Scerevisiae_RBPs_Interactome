@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0018023","peptidyl-lysine trimethylation","2/7","10/2867",0.000227882843676193,0.0467159829536195,0.0405391585066069,"BRE2/RKM2",2

@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:1990204","oxidoreductase complex","5/29","19/1087",8.48349173456434e-05,0.0058536092968494,0.0058536092968494,"RNR3/RNR2/GCV2/RNR4/GCV1",5

@@ -1,0 +1,5 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0005847","mRNA cleavage and polyadenylation specificity factor complex","1/2","12/2813",0.008515129158009,0.0283635366988971,0.017913812651935,"MPE1",1
+"GO:0005887","integral component of plasma membrane","1/2","12/2813",0.008515129158009,0.0283635366988971,0.017913812651935,"PHO89",1
+"GO:0031226","intrinsic component of plasma membrane","1/2","13/2813",0.00922307979766779,0.0283635366988971,0.017913812651935,"PHO89",1
+"GO:0005849","mRNA cleavage factor complex","1/2","16/2813",0.0113454146795589,0.0283635366988971,0.017913812651935,"MPE1",1

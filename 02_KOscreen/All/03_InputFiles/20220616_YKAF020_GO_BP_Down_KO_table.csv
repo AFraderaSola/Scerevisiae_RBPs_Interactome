@@ -1,0 +1,6 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0043328","protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway","6/88","17/2801",7.59943716778651e-06,0.00543359757496735,0.00523961194200017,"COS8/COS3/COS2/COS1/COS5/COS7",6
+"GO:0043162","ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway","6/88","23/2801",5.32296370430258e-05,0.0132296311307177,0.0127573182048143,"COS8/COS3/COS2/COS1/COS5/COS7",6
+"GO:0044262","cellular carbohydrate metabolic process","11/88","86/2801",5.55089418072071e-05,0.0132296311307177,0.0127573182048143,"GDB1/PGM2/HXK1/GND2/TSL1/GSY2/GCY1/GPP2/GPH1/MLS1/GAS5",11
+"GO:0005975","carbohydrate metabolic process","14/88","144/2801",0.000114271821326455,0.0204260880621038,0.0196968534128495,"GDB1/PGM2/HXK1/TDH1/GND2/SOL4/TSL1/GSY2/GCY1/GPP2/GPH1/MLS1/NQM1/GAS5",14
+"GO:0051156","glucose 6-phosphate metabolic process","5/88","19/2801",0.000224299813845913,0.0320748733799655,0.0309297638040153,"PGM2/HXK1/GND2/SOL4/NQM1",5
