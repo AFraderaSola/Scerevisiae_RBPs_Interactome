@@ -1,6 +1,8 @@
 # Scerevisiae_RBPs_Interactome 
 
-Code and data for the *S. cerevisiae* RBP interactome project. Archived at Zenodo under the following DOI:
+Code and data for the *S. cerevisiae* RBP interactome project. 
+
+Archived at Zenodo under the following DOI:
 
 [![DOI](https://zenodo.org/badge/502065589.svg)](https://zenodo.org/badge/latestdoi/502065589)
 
