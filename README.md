@@ -1,5 +1,7 @@
 # Scerevisiae_RBPs_Interactome
 
+[![DOI](https://zenodo.org/badge/502065589.svg)](https://zenodo.org/badge/latestdoi/502065589)
+
 Code and data for the *S. cerevisiae* RBP interactome project. Data from this project will be soon published under the following title:
 
 **"RNA-dependent interactome allows network-based assignment of RBP function"**
